@@ -1,0 +1,3872 @@
+year,genre,duration,country,avg_vote,public_vote,total_votes,humor,rhythm,effort,tension,erotism
+2019,Comedy,96,United States,5.9,6.0,24,0,0,0,0,0
+2019,Documentary,87,United States,6.9,7.0,5,0,0,0,0,0
+2019,Animation,93,Canada,5.2,5.0,6,0,0,0,0,0
+2019,Drama,122,"France, Portugal",6.8,7.0,3,0,0,0,0,0
+2019,Horror,90,Italy,5.4,5.0,14,0,0,0,0,0
+2019,Drama,173,"United States, Italy, Germany, Austria",7.6,7.0,93,0,0,0,0,0
+2019,Comedy,92,Italy,4.2,6.0,4,0,0,0,0,0
+2019,Animation,81,"Italy, France",6.5,7.0,57,0,0,0,0,0
+2019,Comedy,85,United States,5.5,4.0,34,0,0,0,0,0
+2020,Comedy,100,Italy,3.3,3.0,7,0,0,0,0,0
+2019,Thriller,104,United States,5.8,6.0,36,0,0,0,0,0
+2019,Sci-Fi,93,"Finland, Germany, Belgium",4.3,4.0,21,0,0,0,0,0
+2019,Sci-Fi,121,United States,6.2,6.0,151,0,0,0,0,0
+2019,Animation,80,"France, Luxembourg",7.8,8.0,7,0,0,0,0,0
+2020,Comedy,93,United States,4.5,4.0,31,0,0,0,0,0
+2019,Sci-Fi,96,United States,4.5,5.0,33,0,0,0,0,0
+2019,Documentary,120,Great Britain,7.0,7.0,55,0,0,0,0,0
+2019,Drama,102,Colombia,6.9,6.0,41,0,0,0,0,0
+2019,Drama,104,France,5.2,5.0,19,0,0,0,0,0
+2019,Drama,109,"Great Britain, United States",5.7,6.0,42,0,0,0,0,0
+2019,Thriller,118,Great Britain,5.9,6.0,112,0,0,0,0,0
+2019,Sci-Fi,109,United States,5.6,6.0,102,0,0,0,0,0
+2019,Drama,119,United States,6.3,6.0,68,0,0,0,0,0
+2019,Sci-Fi,132,United States,5.2,5.0,106,0,0,0,0,0
+2019,Fantasy,130,United States,6.2,6.0,126,0,0,0,0,0
+2019,Comedy,88,United States,5.6,5.0,33,0,0,0,0,0
+2019,Thriller,97,United States,5.0,5.0,104,0,0,0,0,0
+2020,Comedy,102,Germany,3.8,4.0,4,0,0,0,0,0
+2019,Animation,84,Mexico,4.8,5.0,8,0,0,0,0,0
+2019,Action,87,United States,4.5,5.0,10,0,0,0,0,0
+2019,Drama,127,"Italy, Belgium",6.9,7.0,210,0,0,0,0,0
+2019,Thriller,89,"Italy, Denmark, Belgium, Netherlands, Spain",4.4,5.0,74,0,0,0,0,0
+2019,Biography,124,United States,6.3,6.0,102,0,0,0,0,0
+2021,Sci-Fi,108,United States,4.3,5.0,48,0,0,0,0,0
+2019,Drama,113,Great Britain,6.1,6.0,72,0,0,0,0,0
+2019,Comedy,97,United States,3.5,4.0,16,0,0,0,0,0
+2019,Drama,85,Italy,6.0,6.0,27,0,0,0,0,0
+2020,Sci-Fi,99,United States,5.0,5.0,49,0,0,0,0,0
+2019,Biography,134,"Italy, Russia",5.9,6.0,33,0,0,0,0,0
+2020,Drama,95,"Italy, Great Britain, Belgium",5.3,6.0,9,0,0,0,0,0
+2019,Thriller,94,Great Britain,4.5,4.0,25,0,0,0,0,0
+2019,Comedy,87,Italy,4.1,5.0,29,0,0,0,0,0
+2019,Comedy,113,Italy,6.1,6.0,61,0,0,0,0,0
+2019,Drama,94,France,5.3,6.0,6,0,0,0,0,0
+2019,Comedy,95,United States,5.8,6.0,38,0,0,0,0,0
+2019,Super-hero,114,United States,6.3,7.0,92,0,0,0,0,0
+2019,Comedy,100,United States,4.3,5.0,18,0,0,0,0,0
+2019,Drama,117,Italy,6.3,7.0,15,0,0,0,0,0
+2019,Comedy,85,Italy,4.4,5.0,42,0,0,0,0,0
+2019,Drama,100,"Italy, Cuba",5.1,5.0,7,0,0,0,0,0
+2019,Biography,210,United States,8.1,8.0,341,0,0,0,0,0
+2020,Thriller,105,France,5.5,6.0,31,0,0,0,0,0
+2021,Animation,99,"Belgium, France, Netherlands, Luxembourg, Israel",7.4,7.0,14,0,0,0,0,0
+2019,Drama,149,United States,5.7,6.0,41,0,0,0,0,0
+2019,Drama,99,United States,5.7,5.0,14,0,0,0,0,0
+2019,Comedy,91,Great Britain,6.8,7.0,18,0,0,0,0,0
+2019,Drama,98,United States,5.3,6.0,17,0,0,0,0,0
+2019,Horror,91,"United States, Germany",4.9,5.0,41,0,0,0,0,0
+2019,Comedy,99,Belgium,4.7,5.0,4,0,0,0,0,0
+2019,Drama,240,"France, Italy",7.0,7.0,6,0,0,0,0,0
+2022,Drama,180,"Austria, Italy",7.2,7.0,26,0,0,0,0,0
+2019,Drama,122,Norway,5.9,6.0,14,0,0,0,0,0
+2019,Thriller,111,Italy,5.3,5.0,57,0,0,0,0,0
+2019,Action,116,United States,4.9,5.0,99,0,0,0,0,0
+2019,Comedy,94,Australia,5.8,5.0,19,0,0,0,0,0
+2019,Drama,108,United States,6.1,6.0,97,0,0,0,0,0
+2019,Drama,91,United States,5.4,4.0,19,0,0,0,0,0
+2019,Action,95,"Italy, United States",5.2,5.0,6,0,0,0,0,0
+2020,Biography,120,Italy,7.1,7.0,131,1,3,4,2,1
+2019,Comedy,93,United States,4.4,4.0,33,0,0,0,0,0
+2019,Comedy,104,United States,6.5,6.0,73,0,0,0,0,0
+2019,Biography,118,Great Britain,6.1,6.0,82,0,0,0,0,0
+2020,Biography,103,"United States, Canada",4.9,5.0,34,0,0,0,0,0
+2019,History,107,France,6.0,5.0,24,0,0,0,0,0
+2019,Drama,101,"Brazil, Uruguay, Norway, Denmark",6.1,7.0,7,0,0,0,0,0
+2019,Drama,119,"United States, Great Britain",6.2,6.0,14,0,0,0,0,0
+2021,Drama,141,Italy,6.7,7.0,216,0,0,0,0,0
+2019,Comedy,100,France,6.6,7.0,75,0,0,0,0,0
+2019,Super-hero,128,United States,5.9,6.0,141,0,0,0,0,0
+2019,Comedy,78,Italy,4.3,4.0,8,0,0,0,0,0
+2019,Drama,105,"Italy, France",6.6,6.0,119,0,0,0,0,0
+2019,Action,104,United States,4.3,5.0,26,0,0,0,0,0
+2019,Drama,165,United States,7.8,7.0,540,1,1,1,1,0
+2019,Drama,129,United States,6.0,6.0,180,0,0,0,0,0
+2019,Drama,92,"Poland, Italy",5.8,6.0,3,0,0,0,0,0
+2019,Comedy,80,Italy,5.3,5.0,7,0,0,0,0,0
+2019,Sci-Fi,124,"United States, Brazil",6.4,6.0,289,0,2,2,2,0
+2019,Biography,141,"Poland, Ukraine, Great Britain",6.3,7.0,30,0,0,0,0,0
+2019,Thriller,120,United States,6.3,6.0,75,0,0,0,0,0
+2019,Thriller,113,"Great Britain, Israel",4.2,5.0,21,0,0,0,0,0
+2020,Thriller,125,Canada,6.5,6.0,15,0,0,0,0,0
+2019,Drama,112,"United States, Great Britain",6.5,7.0,6,0,0,0,0,0
+2019,Drama,99,"Great Britain, Germany, Italy",5.5,6.0,28,0,0,0,0,0
+2020,Comedy,101,France,4.7,4.0,22,0,0,0,0,0
+2019,Animation,92,South Korea,5.5,6.0,8,0,0,0,0,0
+2021,Drama,105,Italy,6.3,6.0,41,0,0,0,0,0
+2019,Fantasy,118,"United States, Great Britain",5.4,6.0,75,0,0,0,0,0
+2019,Animation,94,United States,6.5,7.0,73,0,0,0,0,0
+2019,Comedy,105,Italy,6.3,6.0,99,0,0,0,0,0
+2019,Animation,106,United States,5.7,6.0,33,0,0,0,0,0
+2019,Comedy,93,Italy,6.0,6.0,110,0,0,0,0,0
+2019,Comedy,102,Italy,5.3,5.0,143,0,0,0,0,0
+2019,Action,131,United States,5.7,6.0,159,0,0,0,0,0
+2019,Drama,106,United States,4.2,4.0,41,0,0,0,0,0
+2019,Drama,117,China,6.7,7.0,65,0,0,0,0,0
+2019,Comedy,108,"Germany, United States",6.6,7.0,257,0,0,0,0,0
+2020,Action,151,United States,4.8,5.0,80,0,0,0,0,0
+2021,Action,131,United States,6.5,7.0,169,0,0,0,0,0
+2019,Comedy,102,Italy,4.7,4.0,49,0,0,0,0,0
+2019,Comedy,101,France,6.1,6.0,54,0,0,0,0,0
+2020,Drama,96,Great Britain,5.4,6.0,31,0,0,0,0,0
+2019,Animation,75,Russia,3.3,5.0,9,0,0,0,0,0
+2020,Action,109,Great Britain,5.4,5.0,30,0,0,0,0,0
+2019,Horror,165,United States,4.9,5.0,119,0,0,0,0,0
+2019,Drama,120,United States,5.0,5.0,25,0,0,0,0,0
+2019,Comedy,94,Italy,5.7,5.0,74,0,0,0,0,0
+2019,Comedy,109,France,7.2,7.0,41,0,0,0,0,0
+2019,Biography,124,Australia,6.8,6.0,38,0,0,0,0,0
+2019,Action,118,France,5.8,6.0,86,0,0,0,0,0
+2019,Animation,86,United States,6.2,5.0,15,0,0,0,0,0
+2019,Animation,92,"France, Belgium, Great Britain",4.9,4.0,16,0,0,0,0,0
+2019,Comedy,90,Italy,6.9,7.0,102,0,0,0,0,0
+2019,Drama,98,"Italy, Belgium, France",6.0,6.0,117,0,0,0,0,0
+2019,Drama,86,"Denmark, Sweden",7.3,7.0,3,0,0,0,0,0
+2019,Comedy,112,France,6.0,4.0,18,0,0,0,0,0
+2019,Super-hero,132,United States,5.9,6.0,97,0,0,0,0,0
+2019,Comedy,108,Spain,7.4,7.0,212,0,0,0,0,0
+2019,Drama,113,Spain,5.7,6.0,11,0,0,0,0,0
+2020,Comedy,106,United States,4.1,4.0,15,0,0,0,0,0
+2019,Horror,86,Italy,6.4,7.0,195,0,0,1,1,0
+2019,Thriller,90,United States,5.7,5.0,14,0,0,0,0,0
+2020,Drama,131,"United States, Poland, Luxembourg",6.3,6.0,14,0,0,0,0,0
+2019,Comedy,90,Italy,3.2,3.0,33,0,0,0,0,0
+2019,Comedy,102,France,6.6,6.0,39,0,0,0,0,0
+2019,Comedy,85,Italy,4.4,4.0,17,0,0,0,0,0
+2019,Action,128,United States,5.6,6.0,108,0,1,0,0,0
+2019,Horror,154,United States,5.3,5.0,34,0,1,0,1,0
+2019,Comedy,107,Italy,4.4,5.0,47,0,0,0,0,0
+2020,Adventure,120,United States,5.2,5.0,56,0,0,0,0,0
+2019,Comedy,117,United States,4.8,5.0,15,0,0,0,0,0
+2019,Adventure,101,Great Britain,5.9,6.0,41,0,0,0,0,0
+2019,Drama,99,Australia,5.7,6.0,10,0,0,0,0,0
+2019,Biography,112,Italy,5.0,5.0,21,0,0,0,0,0
+2019,Comedy,100,Italy,4.2,4.0,85,0,0,0,0,0
+2021,Biography,126,"France, Netherlands",6.8,7.0,62,0,0,0,0,0
+2019,Drama,107,"France, Germany",6.0,6.0,53,0,0,0,0,0
+2019,Thriller,108,United States,5.3,6.0,24,0,0,0,0,0
+2019,Fantasy,120,Great Britain,5.1,5.0,14,0,0,0,0,0
+2019,Romantic,105,Italy,4.4,4.0,34,0,0,0,0,0
+2019,Drama,97,Italy,6.1,6.0,93,0,0,0,0,0
+2019,Drama,122,United States,7.5,7.0,529,1,1,1,1,0
+2019,Horror,98,United States,4.8,5.0,65,0,0,0,0,0
+2019,Drama,136,United States,6.6,7.0,90,0,0,0,0,0
+2019,Drama,135,Italy,7.6,8.0,313,0,1,1,1,0
+2019,Comedy,104,Italy,4.8,5.0,51,0,0,0,0,0
+2019,Drama,105,Italy,5.0,5.0,41,0,0,0,0,0
+2019,Thriller,112,United States,6.3,6.0,69,0,0,0,0,0
+2019,Biography,121,Great Britain,6.4,6.0,141,0,1,0,0,0
+2019,Comedy,100,Italy,6.1,7.0,91,0,0,1,0,0
+2019,Biography,107,United States,5.8,6.0,49,0,0,0,0,0
+2020,Drama,183,Germany,6.0,7.0,3,0,0,0,0,0
+2019,Comedy,93,Italy,5.6,5.0,29,0,0,0,0,0
+2021,Horror,99,United States,5.2,5.0,30,0,0,0,0,0
+2019,Fantasy,121,United States,5.5,5.0,56,1,1,0,0,0
+2019,Comedy,130,France,5.9,5.0,47,1,1,0,1,1
+2019,Drama,110,Germany,7.5,7.0,6,1,1,1,1,0
+2019,Horror,101,United States,5.3,5.0,65,0,1,1,2,0
+2019,Comedy,130,Italy,4.9,5.0,47,1,2,1,1,1
+2019,Fantasy,100,Denmark,3.4,3.0,7,0,0,0,0,0
+2019,Drama,97,Italy,5.6,6.0,39,0,0,0,0,0
+2019,Comedy,104,Italy,3.4,3.0,34,0,0,0,0,0
+2021,Thriller,100,United States,6.0,6.0,119,0,0,0,1,0
+2019,Drama,120,France,7.3,7.0,140,0,2,2,2,2
+2019,Comedy,93,Italy,4.2,5.0,36,1,1,0,0,0
+2019,Fantasy,128,United States,6.2,6.0,96,1,2,1,0,0
+2019,Adventure,93,United States,5.2,6.0,25,0,0,0,0,0
+2019,Drama,133,United States,6.5,7.0,53,1,2,2,2,0
+2019,Drama,110,United States,5.7,6.0,14,0,1,1,1,0
+2019,Animation,100,"France, Germany",3.3,5.0,11,0,0,0,0,0
+2019,Drama,124,United States,5.8,6.0,34,0,0,0,0,0
+2019,Horror,106,United States,4.9,5.0,59,0,0,0,0,0
+2019,Thriller,95,United States,6.2,6.0,90,0,0,0,0,0
+2019,Drama,104,United States,6.3,6.0,51,0,0,0,0,0
+2019,Horror,100,United States,5.2,6.0,76,0,0,0,0,0
+2019,Adventure,104,Germany,5.3,4.0,3,0,0,0,0,0
+2019,Horror,95,United States,5.0,5.0,61,0,0,0,0,0
+2019,Drama,133,"Australia, United States",6.0,6.0,62,0,0,0,0,0
+2019,Drama,89,Italy,6.4,7.0,45,0,0,0,0,0
+2019,Horror,92,"Hong Kong, United States",5.2,5.0,54,0,0,0,0,0
+2019,Documentary,90,Italy,2.7,4.0,11,0,0,0,0,0
+2019,Animation,85,Canada,4.8,5.0,6,0,0,0,0,0
+2019,Drama,95,Italy,5.0,5.0,40,0,0,0,0,0
+2019,Thriller,120,United States,6.3,7.0,228,0,1,1,1,0
+2019,Drama,132,South Korea,8.0,8.0,523,2,2,2,2,1
+2019,Comedy,98,France,4.7,4.0,31,0,0,0,0,0
+2019,Comedy,117,France,6.3,7.0,50,0,0,0,0,0
+2019,Comedy,87,France,4.6,5.0,14,0,0,0,0,0
+2019,Comedy,97,Spain,5.7,5.0,8,0,0,0,0,0
+2019,Comedy,110,France,5.8,6.0,26,0,0,0,0,0
+2019,Comedy,106,France,7.4,7.0,7,0,0,0,0,0
+2019,Comedy,101,France,4.3,4.0,3,0,0,0,0,0
+2019,Drama,117,United States,4.7,5.0,35,0,0,1,0,0
+2020,Fantasy,95,United States,5.2,5.0,31,0,0,0,0,0
+2019,Horror,136,Italy,1.5,2.0,15,0,0,0,0,0
+2019,Drama,99,Germany,3.0,3.0,6,0,0,0,0,0
+2019,Comedy,114,France,6.7,7.0,42,0,0,1,0,0
+2019,Drama,98,France,5.4,5.0,17,0,0,0,0,0
+2019,Drama,90,"France, Luxembourg, Belgium",5.2,6.0,81,0,1,1,1,0
+2019,Animation,102,United States,6.0,6.0,33,0,1,0,0,0
+2020,Action,96,United States,4.9,5.0,53,0,1,0,1,1
+2019,Drama,94,Canada,4.9,5.0,13,0,0,0,1,0
+2019,Action,102,United States,5.2,6.0,19,0,1,0,0,0
+2019,Animation,90,United States,5.8,6.0,52,0,0,0,0,0
+2019,Action,133,United States,5.5,6.0,74,0,0,0,0,0
+2019,Romantic,112,Great Britain,6.3,6.0,157,0,0,0,0,0
+2019,Comedy,103,United States,6.0,6.0,7,0,0,0,0,0
+2019,Animation,92,"United States, China",6.1,7.0,30,0,0,0,0,0
+2019,Comedy,95,United States,5.8,6.0,31,0,0,0,0,0
+2019,Comedy,102,Great Britain,5.8,5.0,42,0,0,0,0,0
+2019,Drama,92,Great Britain,5.8,6.0,5,0,0,0,0,0
+2019,Comedy,100,France,6.1,5.0,10,0,0,0,0,0
+2019,Thriller,115,France,6.0,7.0,53,0,0,0,0,0
+2019,Action,152,United States,7.1,7.0,165,0,1,0,0,0
+2020,Action,132,United States,4.7,5.0,6,0,0,0,0,0
+2019,Action,104,"Japan, United States",5.8,6.0,51,0,0,0,0,0
+2020,Drama,119,Australia,6.5,7.0,4,0,0,0,0,0
+2019,Drama,110,France,6.3,6.0,39,0,0,0,0,0
+2019,Comedy,86,France,5.3,6.0,21,0,0,0,0,0
+2019,Thriller,93,United States,3.1,3.0,27,0,0,0,0,0
+2019,Thriller,104,"Sweden, United States, Germany",4.4,4.0,8,0,0,0,0,0
+2020,Comedy,88,Italy,5.5,6.0,78,0,0,0,0,0
+2019,Animation,94,"Canada, United States",6.7,6.0,35,0,0,0,0,0
+2019,Comedy,100,Italy,5.4,5.0,64,0,0,0,0,0
+2019,Drama,93,Canada,5.8,6.0,29,0,0,0,0,0
+2020,Drama,99,Canada,5.3,6.0,12,0,0,0,0,0
+2019,Thriller,92,Spain,5.6,5.0,17,0,0,0,0,0
+2019,Drama,147,"France, Spain",6.4,7.0,23,0,0,0,0,0
+2019,Animation,87,United States,5.3,5.0,11,0,0,0,0,0
+2019,Animation,99,United States,7.0,7.0,107,0,0,0,0,0
+2019,Drama,135,United States,6.8,7.0,166,0,0,0,0,0
+2021,Drama,88,"Italy, Switzerland",5.4,5.0,18,0,0,0,0,0
+2019,Comedy,110,Italy,6.0,6.0,104,0,0,0,1,0
+2021,Sci-Fi,113,United States,4.9,6.0,78,0,0,0,0,0
+2019,Drama,98,"Romania, France, Germany",5.8,6.0,36,0,0,0,0,0
+2019,Biography,108,"Great Britain, United States",5.9,6.0,34,0,0,0,0,0
+2019,Drama,100,"Belgium, France",6.3,6.0,3,0,0,0,0,0
+2019,Drama,99,"Germany, France",6.3,5.0,5,0,0,0,0,0
+2019,Drama,128,"Spain, France",6.7,7.0,39,0,1,1,1,0
+2019,Comedy,81,Italy,5.0,5.0,17,0,0,0,0,0
+2019,Comedy,90,Italy,3.6,4.0,34,0,0,0,0,0
+2019,Thriller,101,United States,5.0,5.0,47,0,1,1,1,0
+2020,Drama,112,United States,6.0,5.0,6,0,0,0,0,0
+2019,Biography,111,United States,6.6,6.0,38,0,1,2,1,0
+2019,Drama,95,Italy,7.0,7.0,34,0,0,0,0,0
+2019,Drama,98,"France, Portugal",4.6,6.0,6,0,0,0,0,0
+2019,Drama,132,Brazil,7.1,7.0,22,0,0,0,0,0
+2019,Drama,123,"France, Israel",7.1,7.0,15,0,0,0,0,0
+2019,Biography,103,Great Britain,5.9,6.0,43,0,0,0,0,0
+2019,Drama,106,"France, Japan",6.0,6.0,81,0,0,0,0,0
+2020,Sci-Fi,99,"United States, Germany",4.8,5.0,39,0,0,0,0,0
+2019,Comedy,96,Italy,4.4,5.0,65,1,1,0,0,0
+2019,Drama,107,Italy,5.4,5.0,75,0,1,1,1,0
+2020,Animation,89,"France, Belgium",6.3,6.0,4,0,0,0,0,0
+2019,Western,99,United States,5.5,5.0,48,0,1,0,1,0
+2019,Comedy,103,France,5.0,5.0,35,3,2,2,0,0
+2019,Drama,96,"France, United States",5.6,5.0,9,0,0,0,0,0
+2019,Drama,90,"Denmark, Norway, Germany",5.5,5.0,15,0,0,0,0,0
+2019,Drama,102,Great Britain,5.3,5.0,6,0,0,0,0,0
+2019,Sci-Fi,115,Australia,5.9,6.0,75,0,0,0,0,0
+2019,Thriller,111,Italy,5.1,5.0,38,0,0,0,0,0
+2019,Animation,118,United States,5.9,6.0,122,0,0,0,0,0
+2019,Comedy,103,Italy,3.7,4.0,59,0,0,0,0,0
+2019,Drama,94,"United States, France",6.2,6.0,56,0,0,0,0,0
+2019,Drama,93,Australia,8.0,8.0,3,0,0,0,0,0
+2019,Drama,106,United States,6.3,8.0,5,0,0,0,0,0
+2019,Drama,100,France,4.8,4.0,18,0,0,0,0,0
+2019,Drama,110,United States,6.0,6.0,33,0,0,0,0,0
+2019,Drama,100,"Great Britain, France, Belgium",7.4,7.0,167,0,0,0,0,0
+2019,Action,100,"United States, Mexico, Spain",5.2,5.0,99,0,0,0,0,0
+2020,Action,123,"United States, Bulgaria",6.0,6.0,23,0,0,0,0,0
+2019,Action,114,United States,4.7,5.0,55,0,0,0,0,0
+2020,Drama,100,Great Britain,6.5,6.0,15,0,0,0,0,0
+2019,Biography,100,Australia,5.2,5.0,11,0,0,0,0,0
+2019,Comedy,94,United States,3.5,4.0,17,0,0,0,0,0
+2019,Comedy,112,Great Britain,4.8,5.0,27,0,0,0,0,0
+2020,Drama,95,Italy,4.2,5.0,16,0,0,0,0,0
+2019,Drama,126,"France, Italy",8.0,8.0,331,0,0,0,0,0
+2019,Drama,114,Great Britain,6.4,7.0,28,0,0,0,0,0
+2019,Comedy,102,United States,5.5,6.0,45,0,0,0,0,0
+2019,Drama,107,United States,5.5,5.0,6,0,0,0,0,0
+2019,Drama,113,Great Britain,6.3,7.0,29,0,0,0,0,0
+2019,Drama,118,United States,6.4,6.0,60,0,0,0,0,0
+2019,Comedy,94,United States,5.0,5.0,16,0,0,0,0,0
+2019,Comedy,94,United States,6.7,6.0,23,0,0,0,0,0
+2019,Thriller,109,United States,5.2,5.0,57,0,0,0,0,0
+2019,Drama,93,United States,6.4,6.0,31,0,0,0,0,0
+2019,Drama,109,United States,6.5,6.0,27,0,0,0,0,0
+2019,Drama,89,United States,5.4,5.0,21,0,0,0,0,0
+2019,Thriller,98,United States,4.8,5.0,8,0,0,0,0,0
+2019,Drama,127,"Denmark, Sweden",7.1,7.0,9,0,0,0,0,0
+2019,Fantasy,95,"Spain, United States",4.4,4.0,15,0,0,0,0,0
+2019,Thriller,100,Great Britain,6.3,6.0,79,0,0,0,0,0
+2019,Documentary,97,Ireland,7.8,8.0,9,0,0,0,0,0
+2019,Comedy,90,United States,6.5,6.0,4,0,0,0,0,0
+2019,Comedy,103,United States,6.0,6.0,12,0,0,0,0,0
+2019,Drama,113,United States,6.1,6.0,10,0,0,0,0,0
+2019,Comedy,98,"United States, China",6.2,6.0,64,0,0,0,0,0
+2019,Drama,93,United States,6.3,6.0,3,0,0,0,0,0
+2019,Drama,120,United States,7.1,7.0,18,0,0,0,0,0
+2019,Comedy,99,United States,4.1,6.0,12,0,0,0,0,0
+2019,Drama,111,United States,5.3,6.0,4,0,0,0,0,0
+2019,Drama,89,United States,4.4,4.0,5,0,0,0,0,0
+2019,Comedy,100,United States,6.3,6.0,3,0,0,0,0,0
+2019,Horror,82,United States,5.1,5.0,26,0,0,0,0,0
+2019,Horror,90,Ireland,5.7,6.0,55,0,0,0,0,0
+2019,Comedy,84,"United States, Brazil",5.3,5.0,10,0,0,0,0,0
+2019,Comedy,120,United States,5.5,6.0,97,0,0,0,0,0
+2019,Drama,105,Italy,5.1,5.0,63,0,0,0,0,0
+2019,Drama,99,Canada,6.1,6.0,20,0,0,0,0,0
+2019,Comedy,123,"Argentina, Spain",7.4,7.0,40,0,0,0,0,0
+2020,Drama,91,United States,5.8,6.0,49,0,0,0,0,0
+2019,Documentary,100,Italy,6.2,6.0,10,0,0,0,0,0
+2019,Documentary,85,Italy,6.5,7.0,3,0,0,0,0,0
+2019,Thriller,105,United States,4.4,5.0,22,0,0,0,0,0
+2019,Drama,112,France,5.4,6.0,32,0,0,0,0,0
+2019,Drama,107,Italy,5.4,5.0,40,0,0,0,0,0
+2019,Comedy,94,Italy,5.4,5.0,89,0,0,0,0,0
+2019,Comedy,92,Italy,3.5,4.0,45,0,0,0,0,0
+2019,Drama,91,France,4.4,5.0,53,0,0,0,0,0
+2019,Drama,97,United States,6.3,7.0,19,0,0,0,0,0
+2019,Sci-Fi,83,Great Britain,4.7,5.0,3,0,0,0,0,0
+2019,Animation,90,France,6.5,7.0,12,0,0,0,0,0
+2019,Animation,89,Germany,4.7,5.0,3,0,0,0,0,0
+2020,Drama,115,United States,5.5,6.0,29,0,0,0,0,0
+2019,Comedy,107,France,5.0,5.0,3,0,0,0,0,0
+2020,Drama,89,"France, Iran, Germany, Switzerland, Luxembourg, Lebanon",6.5,6.0,9,0,0,0,0,0
+2019,Drama,117,United States,4.3,5.0,21,0,0,0,0,0
+2019,Drama,99,United States,5.9,6.0,45,0,0,0,0,0
+2019,Super-hero,181,United States,6.2,6.0,218,0,0,0,0,0
+2019,Horror,90,United States,6.2,6.0,93,0,0,0,0,0
+2019,Action,115,United States,4.6,5.0,82,0,0,0,0,0
+2019,Super-hero,142,United States,5.7,6.0,163,0,0,0,0,0
+2019,Thriller,125,United States,6.0,6.0,65,0,0,0,0,0
+2020,Action,94,"Japan, United States, Canada",5.5,5.0,52,0,0,0,0,0
+2020,Drama,115,United States,3.7,4.0,18,0,0,0,0,0
+2020,Drama,94,United States,3.9,4.0,19,0,0,0,0,0
+2019,Animation,87,"United States, Great Britain, France",6.4,6.0,46,0,0,0,0,0
+2019,Drama,122,Great Britain,6.1,6.0,71,0,0,0,0,0
+2019,Drama,100,Italy,3.4,4.0,8,0,0,0,0,0
+2019,Drama,115,Germany,6.4,7.0,71,0,0,0,0,0
+2019,Drama,105,"Serbia, Germany",5.1,5.0,5,0,0,0,0,0
+2019,Drama,97,Canada,7.1,7.0,10,0,0,0,0,0
+2019,Musical,111,"United States, Great Britain",3.5,4.0,17,0,0,0,0,0
+2019,Thriller,130,United States,7.1,7.0,349,0,0,0,0,0
+2019,Drama,90,Great Britain,6.2,5.0,13,0,0,0,0,0
+2019,Adventure,102,"Australia, United States",4.0,5.0,23,0,0,0,0,0
+2020,Drama,85,"United States, Great Britain",3.9,4.0,7,0,0,0,0,0
+2019,Comedy,100,Italy,4.6,4.0,15,0,0,0,0,0
+2019,Comedy,88,France,6.3,6.0,8,0,0,0,0,0
+2019,Drama,95,United States,5.9,6.0,24,0,0,0,0,0
+2020,Drama,121,"France, United States, Germany, Great Britain",6.5,7.0,39,0,0,0,0,0
+2021,Adventure,127,United States,5.9,6.0,75,0,0,0,0,0
+2020,Thriller,149,United States,4.5,4.0,11,0,0,0,0,0
+2019,Biography,104,Italy,5.7,6.0,61,0,0,0,0,0
+2019,Drama,94,Italy,6.2,5.0,25,0,0,0,0,0
+2019,Documentary,76,"Italy, France",6.6,7.0,29,0,0,0,0,0
+2019,Drama,115,Japan,5.7,5.0,4,0,0,0,0,0
+2019,Drama,98,"Israel, France",7.0,7.0,3,0,0,0,0,0
+2019,Documentary,90,"Great Britain, Ireland",7.3,7.0,3,0,0,0,0,0
+2019,Drama,97,Brazil,5.4,5.0,5,0,0,0,0,0
+2019,Drama,89,Germany,6.3,6.0,3,0,0,0,0,0
+2019,Drama,121,"Greece, Germany, Netherlands, Sweden",7.7,8.0,3,0,0,0,0,0
+2019,Thriller,118,"United States, Germany",5.7,6.0,56,0,0,0,0,0
+2019,Comedy,100,Italy,3.1,3.0,15,0,0,0,0,0
+2019,Comedy,100,Italy,3.4,3.0,12,0,0,0,0,0
+2020,Biography,108,United States,6.2,6.0,61,0,0,0,0,0
+2019,Drama,89,United States,6.7,5.0,10,0,0,0,0,0
+2019,Horror,90,United States,4.5,5.0,8,0,0,0,0,0
+2019,Horror,94,Great Britain,5.2,5.0,36,0,0,0,0,0
+2019,Biography,165,Brazil,5.8,7.0,3,0,0,0,0,0
+2020,Drama,118,Germany,6.8,6.0,29,0,0,0,0,0
+2019,Comedy,97,Germany,2.5,4.0,5,0,0,0,0,0
+2019,Drama,118,Germany,6.7,7.0,59,0,0,0,0,0
+2019,Drama,105,Canada,5.0,4.0,12,0,0,0,0,0
+2020,Thriller,104,Australia,5.8,6.0,16,0,0,0,0,0
+2019,Drama,100,Italy,4.8,6.0,15,0,0,0,0,0
+2019,Comedy,98,United States,3.9,4.0,9,0,0,0,0,0
+2019,Animation,103,United States,5.4,6.0,64,0,0,0,0,0
+2020,Drama,97,Italy,5.6,6.0,32,0,0,0,0,0
+2019,Drama,107,Italy,5.4,6.0,59,0,0,0,0,0
+2019,Drama,107,Italy,4.4,5.0,31,0,0,0,0,0
+2020,Comedy,94,Italy,5.5,5.0,17,0,0,0,0,0
+2019,Drama,90,France,4.4,6.0,17,0,0,0,0,0
+2019,Drama,103,France,6.3,7.0,22,0,0,0,0,0
+2019,Drama,84,Belgium,7.2,7.0,58,0,0,0,0,0
+2019,Drama,120,France,6.7,7.0,49,0,0,0,0,0
+2019,Drama,104,"Thailand, Ireland",5.5,5.0,18,0,0,0,0,0
+2019,Comedy,97,France,6.8,7.0,19,0,0,0,0,0
+2019,Drama,95,United States,5.4,5.0,8,0,0,0,0,0
+2019,Thriller,109,United States,4.2,4.0,24,0,0,0,0,0
+2019,Thriller,115,Italy,5.9,6.0,28,0,0,0,0,0
+2019,Drama,97,Belgium,5.3,6.0,6,0,0,0,0,0
+2019,Horror,95,United States,4.7,5.0,4,0,0,0,0,0
+2019,Comedy,90,Italy,2.0,2.0,10,0,0,0,0,0
+2019,Comedy,109,United States,4.8,5.0,13,0,0,0,0,0
+2019,Thriller,82,Spain,6.7,4.0,22,0,0,0,0,0
+2019,Drama,107,France,6.3,7.0,23,0,0,0,0,0
+2019,Comedy,94,France,4.3,4.0,13,0,0,0,0,0
+2019,Drama,109,Norway,5.7,5.0,6,0,0,0,0,0
+2019,Adventure,105,"Denmark, Norway, Sweden, Iceland",3.9,4.0,12,0,0,0,0,0
+2019,Drama,180,China,8.0,8.0,6,0,0,0,0,0
+2019,Drama,100,"Macedonia, Belgium, France, Croatia, Slovenia",6.5,6.0,67,0,0,0,0,0
+2019,Drama,120,"United States, Israel",5.7,5.0,18,0,0,0,0,0
+2019,Drama,118,Germany,7.8,8.0,4,0,0,0,0,0
+2020,Drama,85,United States,5.3,6.0,12,0,0,0,0,0
+2019,Drama,94,"Costa Rica, Spain",6.3,6.0,6,0,0,0,0,0
+2019,Drama,92,Italy,6.8,7.0,7,0,0,0,0,0
+2019,Action,111,United States,5.0,5.0,23,0,0,0,0,0
+2019,Drama,109,United States,5.6,6.0,72,0,0,0,0,0
+2019,Drama,96,United States,6.4,6.0,94,0,0,0,0,0
+2019,Drama,90,United States,6.0,6.0,28,0,0,0,0,0
+2019,Thriller,90,Germany,4.5,5.0,11,0,0,0,0,0
+2019,Drama,120,Denmark,7.4,8.0,9,0,0,0,0,0
+2019,Documentary,236,United States,5.0,6.0,7,0,0,0,0,0
+2019,Comedy,105,France,6.0,6.0,7,0,0,0,0,0
+2019,Animation,86,Germany,6.0,6.0,3,0,0,0,0,0
+2019,Drama,138,China,7.4,8.0,28,0,0,0,0,0
+2019,Comedy,83,United States,7.0,7.0,4,0,0,0,0,0
+2019,Documentary,97,United States,6.3,7.0,5,0,0,0,0,0
+2020,Drama,91,"Belgium, France",7.3,8.0,4,0,0,0,0,0
+2019,Comedy,104,Spain,5.0,5.0,5,0,0,0,0,0
+2019,Documentary,119,United States,7.7,8.0,3,0,0,0,0,0
+2019,Documentary,139,United States,6.4,6.0,9,0,0,0,0,0
+2019,Documentary,112,United States,5.0,5.0,4,0,0,0,0,0
+2019,Drama,104,France,6.3,5.0,5,0,0,0,0,0
+2019,Drama,105,China,7.5,8.0,43,0,0,0,0,0
+2019,Drama,78,United States,6.8,6.0,8,0,0,0,0,0
+2019,Comedy,105,United States,6.1,5.0,67,0,0,0,0,0
+2019,Thriller,86,United States,3.6,4.0,7,0,0,0,0,0
+2019,Comedy,93,United States,6.1,6.0,27,0,0,0,0,0
+2019,Drama,103,"Australia, France",6.6,7.0,5,0,0,0,0,0
+2019,Comedy,104,United States,6.6,6.0,37,3,4,2,4,0
+2019,Thriller,87,"Great Britain, United States",4.6,4.0,5,0,0,0,0,0
+2019,Comedy,75,United States,5.5,6.0,5,0,0,0,0,0
+2019,Horror,88,United States,5.1,5.0,48,0,0,0,0,0
+2019,Comedy,97,United States,5.0,6.0,6,0,0,0,0,0
+2019,Drama,85,Great Britain,4.5,4.0,6,0,0,0,0,0
+2019,Comedy,106,Canada,4.3,4.0,5,0,0,0,0,0
+2019,Thriller,89,United States,6.1,6.0,34,0,0,0,0,0
+2019,Romantic,80,United States,6.4,6.0,7,0,0,0,0,0
+2019,Romantic,90,Canada,7.0,7.0,3,0,0,0,0,0
+2019,Romantic,83,"United States, Canada",6.0,6.0,7,0,0,0,0,0
+2019,Romantic,90,United States,3.5,4.0,6,0,0,0,0,0
+2019,Comedy,111,Germany,4.4,4.0,7,0,0,0,0,0
+2019,Documentary,70,"Italy, Sweden",6.2,6.0,7,0,0,0,0,0
+2019,Drama,94,"Italy, Mauritania",6.3,6.0,16,0,0,0,0,0
+2019,Drama,97,Serbia,7.0,7.0,18,0,0,0,0,0
+2019,Drama,90,"Dominican Republic, Argentina, Mexico",5.3,6.0,3,0,0,0,0,0
+2019,Documentary,95,"France, Sudan, Germany, Chad, Qatar",5.7,6.0,3,0,0,0,0,0
+2019,Documentary,115,United States,5.5,7.0,6,0,0,0,0,0
+2019,Drama,100,France,5.8,6.0,4,0,0,0,0,0
+2019,Thriller,90,United States,4.0,4.0,4,0,0,0,0,0
+2019,Thriller,90,United States,4.6,5.0,7,0,0,0,0,0
+2019,Comedy,120,Germany,3.5,4.0,4,0,0,0,0,0
+2020,Drama,93,Great Britain,4.2,4.0,24,0,0,0,0,0
+2019,Action,93,"Bulgaria, United States",5.1,5.0,21,0,0,0,0,0
+2020,Drama,93,United States,5.0,5.0,27,0,0,0,0,0
+2019,Comedy,109,United States,6.3,6.0,31,0,0,0,0,0
+2019,Thriller,99,United States,6.5,6.0,93,0,0,0,0,0
+2019,Documentary,76,"Italy, Switzerland, France",7.3,8.0,3,0,0,0,0,0
+2019,Documentary,93,United States,6.8,8.0,22,0,0,0,0,0
+2019,Documentary,95,United States,6.5,7.0,6,0,0,0,0,0
+2019,Documentary,86,United States,5.3,5.0,3,0,0,0,0,0
+2019,Documentary,85,United States,6.2,6.0,5,0,0,0,0,0
+2019,Documentary,97,United States,6.7,7.0,6,0,0,0,0,0
+2019,Documentary,87,Macedonia,5.8,7.0,9,0,0,0,0,0
+2019,Thriller,100,Italy,5.5,5.0,16,0,0,0,0,0
+2019,Thriller,100,Italy,5.9,6.0,16,0,0,0,0,0
+2019,Romantic,90,United States,7.3,7.0,3,0,0,0,0,0
+2019,Romantic,90,"United States, Canada, Belgium",3.3,3.0,6,0,0,0,0,0
+2019,Documentary,113,Brazil,5.5,7.0,3,0,0,0,0,0
+2019,Documentary,95,Italy,5.7,5.0,8,0,0,0,0,0
+2019,Drama,83,France,2.5,3.0,8,0,0,0,0,0
+2019,Drama,100,Great Britain,6.3,6.0,50,0,0,0,0,0
+2019,Horror,107,United States,5.6,6.0,87,0,0,0,0,0
+2019,Drama,113,"Canada, Great Britain, Germany, Hungary",5.8,7.0,19,0,0,0,0,0
+2019,Drama,87,Great Britain,5.2,5.0,6,0,0,0,0,0
+2019,Documentary,100,Brazil,7.5,7.0,3,0,0,0,0,0
+2019,Documentary,70,France,7.0,7.0,3,0,0,0,0,0
+2019,Drama,89,"France, Italy",3.0,3.0,4,0,0,0,0,0
+2019,Documentary,218,"Germany, Austria",6.6,5.0,10,0,0,0,0,0
+2019,Sperimental,90,Austria,5.5,5.0,6,0,0,0,0,0
+2019,Documentary,75,France,6.7,6.0,9,0,0,0,0,0
+2019,Documentary,94,France,6.5,7.0,3,0,0,0,0,0
+2019,Sci-Fi,83,"Angola, Portugal",8.5,9.0,3,0,0,0,0,0
+2019,Documentary,70,Brazil,6.8,7.0,6,0,0,0,0,0
+2019,Drama,79,Germany,2.5,4.0,3,0,0,0,0,0
+2019,Comedy,102,France,4.8,6.0,5,0,0,0,0,0
+2019,Thriller,89,United States,3.4,3.0,7,0,0,0,0,0
+2020,Sci-Fi,104,"Norway, United States",5.1,5.0,37,0,0,0,0,0
+2019,Drama,125,United States,5.5,6.0,29,0,0,0,0,0
+2019,Drama,119,Canada,6.4,7.0,49,0,0,0,0,0
+2019,Drama,92,"Italy, Serbia, France, Macedonia",4.3,5.0,7,0,0,0,0,0
+2019,Comedy,100,Italy,5.4,6.0,74,0,0,0,0,0
+2019,Biography,125,"Norway, Sweden, Czech Republic",5.5,6.0,27,0,0,0,0,0
+2019,Fantasy,108,China,7.0,7.0,4,0,0,0,0,0
+2019,Action,91,Canada,4.4,4.0,16,0,0,0,0,0
+2019,Comedy,117,"France, Belgium",5.5,6.0,18,0,0,0,0,0
+2019,Thriller,90,United States,3.9,5.0,27,0,0,0,0,0
+2020,Action,100,United States,6.2,6.0,62,0,0,0,0,0
+2019,Action,90,"Japan, United States",4.0,4.0,4,0,0,0,0,0
+2019,Thriller,90,United States,3.9,4.0,5,0,0,0,0,0
+2019,Thriller,88,United States,5.0,5.0,15,0,0,0,0,0
+2019,Horror,96,United States,1.5,2.0,5,0,0,0,0,0
+2019,Action,100,United States,3.9,4.0,37,0,0,0,0,0
+2019,Biography,108,United States,5.4,6.0,25,0,0,0,0,0
+2019,Horror,99,United States,5.0,5.0,59,0,0,0,0,0
+2020,Drama,108,United States,6.8,7.0,213,0,0,0,0,0
+2019,Sperimental,58,Brazil,5.0,5.0,6,0,0,0,0,0
+2020,Drama,127,"Russia, Germany",6.4,6.0,64,0,0,0,0,0
+2019,Drama,107,France,5.6,7.0,14,0,0,0,0,0
+2019,Comedy,87,France,6.0,6.0,47,0,0,0,0,0
+2019,Drama,134,Russia,7.4,7.0,80,0,0,0,0,0
+2019,Drama,103,France,7.2,7.0,159,0,0,0,0,0
+2019,Drama,121,Germany,5.5,6.0,9,0,0,0,0,0
+2019,Action,96,"Thailand, China, United States",5.7,5.0,21,0,0,0,0,0
+2019,Action,98,Vietnam,5.8,6.0,9,0,0,0,0,0
+2019,Action,93,France,5.2,5.0,9,0,0,0,0,0
+2019,Drama,90,Italy,5.7,6.0,3,0,0,0,0,0
+2020,Animation,81,"Germany, Ireland, Luxembourg",5.3,6.0,4,0,0,0,0,0
+2019,Drama,104,"Belgium, France, Senegal",6.2,6.0,32,0,0,0,0,0
+2019,Drama,82,"Norway, Belgium, Sweden",5.8,6.0,33,0,0,0,0,0
+2019,Drama,130,Norway,6.9,7.0,15,0,0,0,0,0
+2019,Drama,102,United States,5.2,5.0,32,0,0,0,0,0
+2019,Comedy,92,United States,3.3,3.0,8,0,0,0,0,0
+2019,Documentary,96,Italy,6.0,6.0,3,0,0,0,0,0
+2019,Comedy,90,Italy,5.3,6.0,32,4,4,3,1,0
+2019,Animation,99,"Finland, United States",5.9,6.0,19,0,0,0,0,0
+2019,Drama,90,United States,4.0,4.0,6,0,0,0,0,0
+2019,Western,100,Ireland,6.0,6.0,26,0,0,0,0,0
+2019,Drama,124,United States,7.0,7.0,25,0,0,0,0,0
+2020,Drama,112,Canada,6.4,6.0,37,0,0,0,0,0
+2020,Action,123,United States,5.6,5.0,49,0,0,0,0,0
+2020,Drama,90,Italy,6.1,5.0,9,0,0,0,0,0
+2019,Comedy,105,Italy,3.5,4.0,4,0,0,0,0,0
+2019,Documentary,81,"France, Italy",6.2,6.0,6,0,0,0,0,0
+2019,Drama,108,Argentina,7.8,9.0,4,0,0,0,0,0
+2019,Sci-Fi,125,China,5.0,6.0,10,0,0,0,0,0
+2019,Drama,132,United States,5.8,7.0,33,0,0,0,0,0
+2019,Horror,140,United States,6.5,7.0,231,0,0,0,0,0
+2019,Comedy,93,United States,4.8,5.0,19,0,0,0,0,0
+2019,Drama,125,Germany,4.8,5.0,6,0,0,0,0,0
+2019,Drama,95,"France, Luxembourg, Belgium",7.3,7.0,59,0,0,0,0,0
+2019,Drama,109,Norway,6.2,6.0,5,0,0,0,0,0
+2020,Comedy,98,France,5.4,6.0,8,0,0,0,0,0
+2019,Biography,102,"Germany, Poland, Great Britain",5.6,5.0,9,0,0,0,0,0
+2020,Drama,107,United States,7.8,8.0,10,0,0,0,0,0
+2019,Comedy,103,United States,5.5,6.0,187,0,0,0,0,0
+2019,Drama,73,Sweden,7.0,7.0,62,0,0,0,0,0
+2019,Drama,102,Chile,5.9,6.0,56,0,0,0,0,0
+2019,Drama,100,"Austria, Great Britain, Germany",6.5,6.0,44,0,0,0,0,0
+2019,Drama,110,Canada,7.2,7.0,190,0,0,0,0,0
+2021,Drama,139,"France, United States",6.7,7.0,48,0,0,0,0,0
+2019,Thriller,135,United States,7.2,7.0,171,0,0,0,0,0
+2021,Drama,119,Italy,5.9,6.0,161,0,0,0,0,0
+2019,Thriller,90,"Canada, United States",3.5,4.0,4,0,0,0,0,0
+2019,Thriller,90,United States,5.3,5.0,3,0,0,0,0,0
+2020,Drama,97,Canada,4.0,3.0,3,0,0,0,0,0
+2019,Thriller,87,United States,4.2,4.0,6,0,0,0,0,0
+2019,Drama,90,United States,6.8,7.0,49,0,0,0,0,0
+2019,Drama,90,United States,4.5,5.0,6,0,0,0,0,0
+2019,Crime,110,United States,6.4,6.0,35,0,0,0,0,0
+2019,Drama,87,United States,5.5,6.0,30,0,0,0,0,0
+2019,Drama,118,France,4.7,5.0,10,0,0,0,0,0
+2020,Comedy,100,France,6.6,7.0,14,0,0,0,0,0
+2019,Documentary,84,"France, Chile",8.0,8.0,9,0,0,0,0,0
+2019,Biography,92,France,7.3,8.0,3,0,0,0,0,0
+2019,Sci-Fi,98,United States,5.0,5.0,15,0,0,0,0,0
+2020,Comedy,86,Spain,6.1,5.0,11,0,0,0,0,0
+2019,Documentary,90,"Greece, United States",7.3,7.0,6,0,0,0,0,0
+2019,Drama,90,Germany,7.0,7.0,3,0,0,0,0,0
+2019,Comedy,103,Spain,6.3,6.0,6,0,0,0,0,0
+2019,Comedy,94,Spain,5.2,5.0,6,0,0,0,0,0
+2019,Comedy,100,Italy,4.7,6.0,39,0,0,0,0,0
+2019,Drama,109,France,5.3,6.0,4,0,0,0,0,0
+2019,Drama,75,"Spain, France, Luxembourg",7.0,7.0,8,0,0,0,0,0
+2019,Drama,76,France,6.0,6.0,3,0,0,0,0,0
+2019,Drama,103,Sudan,7.3,8.0,5,0,0,0,0,0
+2020,Drama,100,France,5.8,6.0,19,0,0,0,0,0
+2019,Animation,81,France,6.5,7.0,40,0,0,0,0,0
+2020,Drama,94,Italy,6.3,6.0,88,0,0,0,0,0
+2019,Documentary,85,Great Britain,7.4,8.0,17,0,0,0,0,0
+2019,Drama,95,France,6.5,7.0,4,0,0,0,0,0
+2019,Horror,87,United States,5.6,6.0,61,0,0,0,0,0
+2019,Animation,87,"United States, Great Britain",5.9,6.0,48,2,2,1,1,0
+2019,Action,119,United States,5.4,5.0,36,0,0,0,0,0
+2021,Noir,105,"United States, France",5.0,5.0,6,0,0,0,0,0
+2019,Documentary,64,France,5.3,5.0,3,0,0,0,0,0
+2019,Drama,108,"Canada, United States",6.1,6.0,129,0,0,0,0,0
+2019,Drama,107,"Spain, Argentina",6.1,6.0,29,0,0,0,0,0
+2019,Romantic,90,Germany,2.3,2.0,3,0,0,0,0,0
+2019,Thriller,100,Poland,5.3,5.0,3,0,0,0,0,0
+2019,Drama,86,France,5.4,6.0,30,0,0,0,0,0
+2020,Drama,102,France,5.2,5.0,16,0,0,0,0,0
+2019,Romantic,90,United States,2.7,3.0,3,0,0,0,0,0
+2019,Romantic,90,United States,4.0,4.0,7,0,0,0,0,0
+2019,Comedy,93,Italy,5.7,6.0,9,0,0,0,0,0
+2019,Documentary,86,United States,5.8,6.0,3,0,0,0,0,0
+2021,Drama,98,Italy,6.9,7.0,62,0,0,0,0,0
+2019,Drama,129,"Italy, France",6.9,7.0,182,0,0,0,0,0
+2019,Drama,90,France,7.0,7.0,3,0,0,0,0,0
+2019,Documentary,107,Great Britain,5.4,5.0,10,0,0,0,0,0
+2019,Documentary,92,United States,7.3,7.0,3,0,0,0,0,0
+2019,Drama,106,United States,7.4,7.0,15,0,0,0,0,0
+2019,Sci-Fi,80,United States,4.3,4.0,10,0,0,0,0,0
+2019,Drama,99,Great Britain,3.7,4.0,15,0,0,0,0,0
+2019,Sci-Fi,95,United States,5.0,5.0,20,0,0,0,0,0
+2020,Biography,126,Italy,5.7,6.0,171,0,0,0,0,0
+2019,Drama,121,United States,6.8,7.0,42,0,0,0,0,0
+2019,Drama,93,Great Britain,6.3,7.0,4,0,0,0,0,0
+2019,Drama,84,Great Britain,5.5,6.0,3,0,0,0,0,0
+2019,Drama,116,"Great Britain, United States",5.2,5.0,49,2,3,1,2,0
+2019,Comedy,100,Great Britain,4.6,5.0,8,0,0,0,0,0
+2019,Fantasy,125,"Italy, Great Britain, France",6.5,7.0,264,0,0,0,0,0
+2019,Documentary,114,"Italy, United States, Great Britain",6.6,7.0,23,0,0,0,0,0
+2020,Biography,115,United States,6.4,6.0,37,0,0,0,0,0
+2019,Drama,109,United States,5.3,6.0,14,0,0,0,0,0
+2019,Drama,80,Italy,5.7,6.0,10,0,0,0,0,0
+2019,Horror,81,"Canada, United States",4.0,4.0,26,0,0,0,0,0
+2020,Drama,113,Great Britain,7.2,7.0,5,0,0,0,0,0
+2019,Drama,101,Great Britain,6.3,6.0,31,0,0,0,0,0
+2019,Drama,83,Great Britain,7.0,7.0,39,0,0,0,0,0
+2020,Drama,85,Great Britain,6.9,7.0,8,0,0,0,0,0
+2019,Drama,90,Great Britain,5.8,6.0,4,0,0,0,0,0
+2019,Drama,96,"Iceland, Ireland, United States",6.5,7.0,4,0,0,0,0,0
+2019,Drama,97,United States,6.1,7.0,107,0,0,0,0,0
+2019,Comedy,89,United States,4.4,4.0,8,0,0,0,0,0
+2019,Drama,123,United States,5.5,6.0,35,0,0,0,0,0
+2019,Thriller,92,Germany,6.1,6.0,49,0,0,0,0,0
+2019,Comedy,106,France,6.9,7.0,31,0,0,0,0,0
+2019,Western,110,United States,6.9,6.0,35,0,0,0,0,0
+2019,Drama,127,United States,5.9,6.0,10,0,0,0,0,0
+2019,Drama,120,"Japan, Uzbekistan, Qatar",6.5,7.0,5,0,0,0,0,0
+2020,Drama,200,"France, Romania",7.2,6.0,30,0,0,0,0,0
+2019,Drama,102,Italy,6.3,6.0,49,0,0,0,0,0
+2019,Musical,124,France,7.4,7.0,10,0,0,0,0,0
+2019,Drama,90,France,5.6,6.0,30,0,0,0,0,0
+2019,Drama,84,France,5.3,5.0,6,0,0,0,0,0
+2019,Drama,103,France,6.3,6.0,21,0,0,0,0,0
+2019,Comedy,103,France,6.5,6.0,59,0,0,0,0,0
+2021,Sci-Fi,155,"Great Britain, Canada, Hungary, United States",6.9,7.0,292,0,0,0,0,0
+2019,Biography,116,"Morocco, Italy",4.0,4.0,4,0,0,0,0,0
+2019,Action,90,Great Britain,4.8,6.0,21,0,0,0,0,0
+2019,Drama,90,"Denmark, Luxembourg, France, Germany, Afghanistan",6.7,7.0,7,0,0,0,0,0
+2019,Drama,109,Iceland,6.7,7.0,40,0,0,0,0,0
+2019,Comedy,90,Italy,5.8,6.0,31,0,0,0,0,0
+2019,Comedy,93,Spain,6.4,4.0,12,0,0,0,0,0
+2019,Comedy,75,Spain,4.2,3.0,10,0,0,0,0,0
+2019,Romantic,90,United States,4.7,5.0,7,0,0,0,0,0
+2019,Drama,79,"Iceland, France",6.8,8.0,5,0,0,0,0,0
+2019,Drama,96,"Tunisia, France",6.0,7.0,8,0,0,0,0,0
+2021,Drama,105,"Sweden, Netherlands, France",5.9,6.0,38,0,0,0,0,0
+2019,Drama,124,Sweden,6.8,7.0,4,0,0,0,0,0
+2019,Drama,92,United States,5.3,5.0,8,0,0,0,0,0
+2019,Drama,157,"Norway, Sweden",5.9,8.0,5,0,0,0,0,0
+2019,Drama,98,"Belgium, France",7.0,7.0,20,0,0,0,0,0
+2019,Drama,93,"Belgium, Luxembourg, France",6.5,7.0,3,0,0,0,0,0
+2019,Drama,110,"Great Britain, United States",7.0,7.0,361,0,0,0,0,0
+2020,Drama,101,Greece,7.6,8.0,7,0,0,0,0,0
+2019,Comedy,98,Italy,4.7,5.0,109,0,0,0,0,0
+2019,Drama,126,China,6.7,7.0,5,0,0,0,0,0
+2020,Drama,110,"Croatia, Italy",5.8,5.0,5,0,0,0,0,0
+2019,Drama,116,Poland,7.0,7.0,54,0,0,0,0,0
+2019,Drama,120,Romania,7.5,9.0,3,0,0,0,0,0
+2020,Comedy,86,United States,5.3,6.0,14,0,0,0,0,0
+2019,Thriller,82,United States,3.8,4.0,3,0,0,0,0,0
+2019,Drama,103,Singapore,6.9,7.0,9,0,0,0,0,0
+2019,Drama,102,China,6.9,7.0,12,0,0,0,0,0
+2019,Drama,100,"Morocco, France, Qatar, Germany, Lebanon",6.3,7.0,4,0,0,0,0,0
+2019,Drama,135,"Algeria, France",6.8,6.0,5,0,0,0,0,0
+2019,Drama,100,United States,7.8,9.0,4,0,0,0,0,0
+2019,Drama,93,"Lebanon, France",7.1,8.0,7,0,0,0,0,0
+2019,Drama,145,Brazil,7.2,7.0,79,0,0,0,0,0
+2019,Comedy,77,France,6.2,7.0,49,0,0,0,0,0
+2019,Thriller,91,France,3.3,3.0,6,0,0,0,0,0
+2019,Sperimental,120,"France, Spain",6.4,6.0,14,0,0,0,0,0
+2020,Adventure,105,United States,5.7,6.0,53,0,0,0,0,0
+2020,Comedy,101,United States,5.2,5.0,12,0,0,0,0,0
+2019,Drama,137,Colombia,7.7,8.0,5,0,0,0,0,0
+2019,Drama,135,United States,6.4,6.0,28,0,0,0,0,0
+2019,Drama,106,"United States, Mexico",6.8,7.0,4,0,0,0,0,0
+2019,Fantasy,106,United States,2.3,2.0,4,0,0,0,0,0
+2019,Drama,92,"Tunisia, France, Qatar",6.2,7.0,5,0,0,0,0,0
+2019,Drama,96,"Lithuania, Latvia, Germany, Greece",6.3,6.0,4,0,0,0,0,0
+2019,Comedy,90,Italy,2.5,3.0,12,0,0,0,0,0
+2019,Thriller,130,Italy,4.6,5.0,86,0,0,0,0,0
+2020,Comedy,92,Italy,4.6,5.0,10,0,0,0,0,0
+2019,Documentary,137,United States,5.3,5.0,3,0,0,0,0,0
+2020,Drama,110,"Belgium, France",5.7,6.0,14,0,0,0,0,0
+2019,Drama,85,"France, Belgium",5.3,6.0,3,0,0,0,0,0
+2019,Romantic,90,United States,3.3,3.0,7,0,0,0,0,0
+2019,Drama,90,Italy,5.8,6.0,8,0,0,0,0,0
+2019,Drama,90,Italy,5.5,6.0,41,1,3,1,3,3
+2019,Biography,92,Italy,6.5,7.0,18,0,0,0,0,0
+2019,Comedy,98,China,6.3,7.0,3,0,0,0,0,0
+2019,Horror,101,"Philippines, Singapore",3.3,4.0,4,0,0,0,0,0
+2019,Comedy,111,South Korea,5.7,6.0,5,0,0,0,0,0
+2019,Drama,129,South Korea,6.7,7.0,4,0,0,0,0,0
+2019,Comedy,112,South Korea,7.8,8.0,8,0,0,0,0,0
+2019,Drama,90,Thailand,5.3,5.0,3,0,0,0,0,0
+2019,Horror,80,United States,5.6,6.0,24,0,0,0,0,0
+2019,Drama,96,France,5.3,6.0,23,0,0,0,0,0
+2019,Animation,111,Japan,6.4,7.0,37,0,0,0,0,0
+2019,Comedy,103,United States,2.7,3.0,7,0,0,0,0,0
+2019,Drama,119,United States,4.3,4.0,11,0,0,0,0,0
+2019,Drama,124,France,7.2,7.0,19,0,0,0,0,0
+2021,Drama,169,"Hungary, France, Germany, Italy",4.9,6.0,17,0,0,0,0,0
+2021,Drama,107,France,6.6,7.0,26,0,0,0,0,0
+2019,Adventure,99,United States,5.4,5.0,10,0,0,0,0,0
+2019,Fantasy,142,United States,5.6,6.0,171,0,0,0,0,0
+2019,Drama,115,Italy,6.7,6.0,124,0,0,0,0,0
+2019,Thriller,95,Poland,5.3,5.0,15,0,0,0,0,0
+2019,Drama,94,"France, South Korea",5.5,5.0,4,0,0,0,0,0
+2020,Action,113,United States,6.8,7.0,158,0,0,0,0,0
+2020,Drama,100,France,6.6,6.0,24,0,0,0,0,0
+2019,Horror,90,United States,6.1,5.0,21,0,0,0,0,0
+2019,Comedy,110,France,7.0,7.0,144,0,0,0,0,0
+2019,Drama,115,Italy,6.1,6.0,36,0,0,0,0,0
+2019,Thriller,107,South Korea,6.3,7.0,43,0,0,0,0,0
+2019,Drama,94,United States,5.5,5.0,10,0,0,0,0,0
+2019,Drama,100,"Morocco, France, Qatar",7.6,7.0,9,0,0,0,0,0
+2019,Documentary,95,Great Britain,7.0,7.0,33,0,0,0,0,0
+2019,Drama,89,"Japan, Germany",7.2,7.0,19,0,0,0,0,0
+2019,Drama,95,Italy,5.8,6.0,12,0,0,0,0,0
+2019,Drama,82,Costa Rica,6.7,6.0,6,0,0,0,0,0
+2019,Drama,150,China,7.5,7.0,17,0,0,0,0,0
+2019,Drama,102,France,5.3,5.0,5,0,0,0,0,0
+2019,Drama,105,"Sweden, Gilbert and Ellice Islands",5.9,7.0,13,0,0,0,0,0
+2019,Drama,276,Philippines,7.9,8.0,5,0,0,0,0,0
+2019,Thriller,108,"Japan, Great Britain",6.3,7.0,47,0,0,0,0,0
+2019,Drama,105,"China, France",7.5,8.0,3,0,0,0,0,0
+2019,Drama,105,Finland,6.5,7.0,15,0,0,0,0,0
+2019,Drama,128,Austria,7.8,8.0,4,0,0,0,0,0
+2019,Drama,108,"Latvia, Lithuania, Belgium",7.0,8.0,4,0,0,0,0,0
+2019,Drama,79,Argentina,4.3,6.0,4,0,0,0,0,0
+2019,Comedy,97,United States,4.1,5.0,54,0,0,0,0,0
+2019,Adventure,66,United States,2.5,3.0,4,0,0,0,0,0
+2019,Drama,55,United States,7.0,6.0,11,0,0,0,0,0
+2019,Animation,94,Japan,6.0,7.0,18,0,0,0,0,0
+2019,Animation,93,Japan,5.5,6.0,8,0,0,0,0,0
+2019,Animation,115,Japan,6.4,6.0,20,0,0,0,0,0
+2019,Documentary,84,Brazil,5.8,7.0,4,0,0,0,0,0
+2019,Animation,75,Latvia,6.5,6.0,5,0,0,0,0,0
+2019,Animation,110,Japan,6.8,7.0,29,0,0,0,0,0
+2019,Drama,104,Italy,5.1,5.0,42,0,0,0,0,0
+2021,Spy,163,"United States, Great Britain",6.4,7.0,189,0,0,0,0,0
+2019,Documentary,142,United States,7.6,7.0,23,0,0,0,0,0
+2019,Romantic,90,United States,5.5,6.0,8,0,0,0,0,0
+2019,Thriller,115,United States,5.4,6.0,51,0,0,0,0,0
+2019,Documentary,60,"Italy, France",6.3,7.0,4,0,0,0,0,0
+2020,Drama,106,"Great Britain, France",5.6,5.0,35,0,0,0,0,0
+2020,Drama,126,"Lithuania, France, Serbia, Czech Republic, Latvia",7.5,7.0,3,0,0,0,0,0
+2019,Romantic,100,United States,2.6,3.0,5,0,0,0,0,0
+2019,Drama,102,Germany,6.5,6.0,14,0,0,0,0,0
+2019,Horror,81,Great Britain,5.4,5.0,12,0,0,0,0,0
+2019,Horror,92,"United States, Canada, Luxembourg, Belgium",4.5,5.0,3,0,0,0,0,0
+2019,Horror,89,Belgium,4.1,5.0,10,0,0,0,0,0
+2019,Sperimental,50,France,6.6,7.0,9,0,0,0,0,0
+2021,Thriller,122,Italy,3.3,4.0,13,0,0,0,0,0
+2019,Thriller,90,United States,6.7,7.0,3,0,0,0,0,0
+2019,Drama,169,"Czech Republic, Ukraine, Slovakia",5.3,6.0,16,0,0,0,0,0
+2019,Drama,116,Italy,5.1,6.0,84,0,0,0,0,0
+2019,Comedy,117,Argentina,6.6,7.0,61,0,0,0,0,0
+2019,Drama,120,France,6.6,6.0,56,0,0,0,0,0
+2019,Drama,112,France,6.0,6.0,9,0,0,0,0,0
+2021,Drama,89,Italy,4.3,4.0,28,0,0,0,0,0
+2020,Comedy,90,Italy,3.7,3.0,31,0,0,0,0,0
+2019,Animation,117,Japan,6.8,9.0,3,0,0,0,0,0
+2019,Romantic,84,United States,7.0,7.0,4,0,0,0,0,0
+2019,Adventure,96,Germany,4.8,5.0,8,0,0,0,0,0
+2019,Comedy,98,Australia,4.7,5.0,3,0,0,0,0,0
+2019,Comedy,87,Italy,5.3,5.0,9,0,0,0,0,0
+2020,Sci-Fi,95,United States,5.7,5.0,95,0,0,0,0,0
+2019,Horror,107,Italy,6.3,6.0,124,0,0,0,0,0
+2020,Fantasy,106,United States,5.6,6.0,73,0,0,0,0,0
+2019,Thriller,127,South Korea,5.6,6.0,9,0,0,0,0,0
+2019,Comedy,100,Canada,5.8,6.0,5,0,0,0,0,0
+2019,Thriller,99,"Sweden, United States, Germany",4.0,6.0,9,0,0,0,0,0
+2019,Drama,100,Italy,4.3,6.0,16,0,0,0,0,0
+2019,Horror,90,Italy,3.9,4.0,10,0,0,0,0,0
+2019,Drama,118,Australia,5.6,6.0,15,0,0,0,0,0
+2019,Comedy,118,Italy,6.0,6.0,117,0,0,0,0,0
+2019,Action,88,United States,3.7,4.0,25,0,0,0,0,0
+2020,Comedy,100,Great Britain,5.0,5.0,10,0,0,0,0,0
+2020,Horror,87,United States,5.0,5.0,26,0,0,0,0,0
+2019,Horror,89,Great Britain,5.5,5.0,49,0,0,0,0,0
+2020,Drama,129,Italy,5.0,5.0,122,0,0,0,0,0
+2019,Adventure,113,France,7.0,7.0,29,0,0,0,0,0
+2019,Romantic,90,"United States, Canada",5.0,5.0,6,0,0,0,0,0
+2020,Sci-Fi,150,"Great Britain, United States",6.1,6.0,340,0,0,0,0,0
+2019,Drama,103,"Japan, Great Britain",5.8,6.0,9,0,0,0,0,0
+2019,Thriller,90,Canada,4.4,4.0,10,0,0,0,0,0
+2019,Thriller,90,Canada,5.1,5.0,9,0,0,0,0,0
+2019,Thriller,90,Canada,5.6,6.0,9,0,0,0,0,0
+2019,Thriller,90,Canada,6.0,6.0,12,0,0,0,0,0
+2019,Documentary,114,United States,6.2,6.0,4,0,0,0,0,0
+2019,Drama,96,United States,6.4,6.0,73,0,0,0,0,0
+2021,Drama,110,Mexico,7.4,8.0,20,0,0,0,0,0
+2020,Drama,118,Great Britain,6.7,7.0,42,0,0,0,0,0
+2020,Drama,94,United States,5.5,6.0,14,0,0,0,0,0
+2021,Drama,110,France,5.0,5.0,15,0,0,0,0,0
+2020,Drama,116,"Sweden, Italy, Denmark",5.7,5.0,15,0,0,0,0,0
+2019,Action,105,Norway,5.4,5.0,37,0,0,0,0,0
+2019,Action,96,Great Britain,4.1,4.0,17,0,0,0,0,0
+2019,Drama,109,United States,6.1,6.0,8,0,0,0,0,0
+2019,Drama,90,Spain,6.4,6.0,163,0,0,0,0,0
+2019,Drama,95,Spain,5.2,4.0,12,0,0,0,0,0
+2020,Thriller,105,United States,4.9,5.0,59,0,0,0,0,0
+2020,Thriller,92,Spain,6.3,6.0,60,0,0,0,0,0
+2019,Thriller,180,Germany,3.6,4.0,8,0,0,0,0,0
+2019,Drama,144,United States,6.2,6.0,113,0,0,0,0,0
+2020,Comedy,100,Italy,4.5,5.0,109,0,0,0,0,0
+2019,Thriller,113,France,6.6,6.0,33,0,0,0,0,0
+2019,Drama,90,"United States, Canada",5.8,6.0,10,0,0,0,0,0
+2019,Comedy,87,Great Britain,4.3,5.0,17,0,0,0,0,0
+2019,Drama,98,United States,4.3,5.0,16,0,0,0,0,0
+2019,War,138,"United States, China",5.9,6.0,93,0,0,0,0,0
+2019,Action,81,"Great Britain, Philippines, Hungary",4.5,7.0,3,0,0,0,0,0
+2020,Animation,103,United States,6.6,7.0,64,0,0,0,0,0
+2020,Action,118,United States,5.0,5.0,52,0,0,0,0,0
+2019,Documentary,60,Italy,6.3,6.0,3,0,0,0,0,0
+2020,Documentary,83,Italy,4.3,7.0,3,0,0,0,0,0
+2019,Romantic,90,United States,5.0,5.0,3,0,0,0,0,0
+2019,Romantic,90,United States,2.0,2.0,3,0,0,0,0,0
+2019,Romantic,90,United States,4.0,4.0,3,0,0,0,0,0
+2019,Romantic,90,United States,4.0,4.0,3,0,0,0,0,0
+2019,Drama,125,Spain,8.0,8.0,5,0,0,0,0,0
+2019,Drama,110,"United States, South Korea",5.2,5.0,12,0,0,0,0,0
+2020,Drama,116,United States,5.2,5.0,7,0,0,0,0,0
+2019,Comedy,98,United States,4.3,4.0,4,0,0,0,0,0
+2019,Comedy,93,Italy,4.2,4.0,79,0,0,0,0,0
+2020,Comedy,90,Italy,5.0,5.0,253,0,0,0,0,0
+2019,Comedy,100,Italy,4.1,4.0,56,0,0,0,0,0
+2020,Drama,106,Italy,5.3,6.0,33,0,0,0,0,0
+2020,Adventure,108,United States,5.3,5.0,82,0,0,0,0,0
+2019,Horror,100,United States,5.0,5.0,19,0,0,0,0,0
+2019,Horror,93,United States,4.7,5.0,31,0,0,0,0,0
+2019,Drama,89,United States,6.0,6.0,56,0,0,0,0,0
+2019,Drama,95,Germany,5.0,5.0,6,0,0,0,0,0
+2019,Comedy,109,Romania,6.0,6.0,3,0,0,0,0,0
+2019,Comedy,100,Italy,4.8,5.0,101,0,0,0,0,0
+2020,Comedy,110,Italy,6.0,6.0,165,0,0,0,0,0
+2019,Comedy,100,"Great Britain, United States",4.7,5.0,13,0,0,0,0,0
+2019,Comedy,98,France,5.8,6.0,4,0,0,0,0,0
+2019,Documentary,90,Italy,6.6,6.0,17,0,0,0,0,0
+2019,Animation,92,Spain,6.8,7.0,52,0,0,0,0,0
+2019,Horror,151,United States,5.8,6.0,143,0,0,0,0,0
+2020,Comedy,88,United States,5.7,6.0,12,0,0,0,0,0
+2020,Comedy,107,Italy,4.4,5.0,43,0,0,0,0,0
+2019,Thriller,83,United States,3.9,4.0,8,0,0,0,0,0
+2020,Comedy,92,"United States, Spain",6.3,6.0,132,0,0,0,0,0
+2019,Romantic,84,United States,3.2,3.0,5,0,0,0,0,0
+2021,Musical,156,United States,7.1,7.0,98,0,0,0,0,0
+2019,Drama,96,Italy,5.7,6.0,44,0,0,0,0,0
+2019,Sci-Fi,114,Italy,2.5,2.0,13,0,0,0,0,0
+2019,Drama,96,Canada,6.5,7.0,5,0,0,0,0,0
+2019,Romantic,90,Germany,1.3,1.0,3,0,0,0,0,0
+2019,Romantic,90,United States,3.6,4.0,5,0,0,0,0,0
+2019,Thriller,86,United States,5.7,6.0,11,0,0,0,0,0
+2019,Drama,97,"Guatemala, France",6.7,6.0,21,0,0,0,0,0
+2020,Comedy,84,United States,5.6,6.0,9,0,0,0,0,0
+2019,Drama,103,Spain,6.1,6.0,27,0,0,0,0,0
+2020,Animation,90,United States,5.0,5.0,17,0,0,0,0,0
+2021,Action,131,"Great Britain, United States",5.8,6.0,54,0,0,0,0,0
+2019,Thriller,108,United States,6.0,6.0,50,0,0,0,0,0
+2019,Thriller,100,United States,5.8,6.0,62,0,0,0,0,0
+2019,Thriller,97,United States,3.4,3.0,13,0,0,0,0,0
+2019,Thriller,122,South Korea,5.8,6.0,6,0,0,0,0,0
+2019,Thriller,90,United States,5.7,6.0,3,0,0,0,0,0
+2020,Crime,90,Italy,5.1,5.0,39,0,0,0,0,0
+2020,Comedy,96,Italy,4.3,5.0,29,0,0,0,0,0
+2019,Biography,90,Italy,3.8,5.0,12,0,0,0,0,0
+2019,Thriller,90,United States,3.0,3.0,4,0,0,0,0,0
+2019,Thriller,90,United States,2.0,2.0,3,0,0,0,0,0
+2019,Thriller,90,"Germany, Austria",4.8,5.0,4,0,0,0,0,0
+2020,Drama,87,Italy,5.8,6.0,18,0,0,0,0,0
+2019,Drama,107,United States,4.8,5.0,57,0,0,0,0,0
+2020,Drama,99,United States,6.3,6.0,75,0,2,2,3,0
+2019,Drama,96,Canada,5.3,6.0,22,0,0,0,0,0
+2019,Horror,92,United States,6.0,5.0,34,0,0,0,0,0
+2020,Action,98,"Australia, United States",5.0,5.0,16,0,0,0,0,0
+2020,Drama,118,United States,6.3,6.0,22,0,0,0,0,0
+2020,Drama,129,United States,7.1,7.0,140,0,0,0,0,0
+2020,Horror,100,United States,5.7,6.0,65,0,0,0,0,0
+2019,Animation,95,Japan,3.8,6.0,5,0,0,0,0,0
+2020,Animation,80,"Great Britain, Mexico, Canada",4.8,5.0,7,0,0,0,0,0
+2020,Animation,91,"Great Britain, Germany",5.2,4.0,4,0,0,0,0,0
+2019,Romantic,90,Canada,3.2,3.0,6,0,0,0,0,0
+2019,Adventure,114,United States,5.6,6.0,77,0,0,0,0,0
+2020,Comedy,88,Italy,5.1,5.0,55,0,0,0,0,0
+2019,Comedy,90,Italy,3.3,3.0,4,0,0,0,0,0
+2019,Horror,111,United States,5.4,6.0,17,0,0,0,0,0
+2019,Thriller,88,United States,4.5,5.0,25,0,0,0,0,0
+2019,Drama,90,Italy,3.7,5.0,11,0,0,0,0,0
+2022,Drama,120,Italy,6.1,6.0,22,0,0,0,0,0
+2020,Comedy,94,Italy,5.3,5.0,71,0,0,0,0,0
+2020,Comedy,90,Italy,5.0,5.0,59,0,0,0,0,0
+2020,Comedy,95,Italy,3.3,3.0,56,0,0,0,0,0
+2022,Drama,105,Italy,4.5,5.0,30,0,0,0,0,0
+2021,Comedy,113,Italy,5.4,6.0,49,0,0,0,0,0
+2020,Comedy,100,Italy,5.2,5.0,69,0,0,0,0,0
+2020,Comedy,105,France,5.6,6.0,35,0,0,0,0,0
+2019,Comedy,100,Spain,6.7,7.0,21,0,0,0,0,0
+2019,Documentary,64,Italy,4.1,4.0,7,0,0,0,0,0
+2019,Comedy,107,Italy,4.3,4.0,12,0,0,0,0,0
+2019,Documentary,85,Italy,2.8,3.0,47,0,0,0,0,0
+2019,Documentary,90,Italy,6.5,7.0,4,0,0,0,0,0
+2019,Documentary,90,Italy,4.7,5.0,6,0,0,0,0,0
+2020,Drama,94,Italy,5.4,6.0,51,0,0,0,0,0
+2019,Adventure,90,"Germany, Luxembourg",4.5,5.0,4,0,0,0,0,0
+2019,Romantic,90,United States,6.2,6.0,5,0,0,0,0,0
+2019,Romantic,90,United States,4.4,4.0,5,0,0,0,0,0
+2019,Biography,100,Italy,5.2,5.0,23,0,0,0,0,0
+2019,Biography,90,Italy,5.8,6.0,8,0,0,0,0,0
+2019,Biography,90,Italy,4.6,5.0,12,0,0,0,0,0
+2019,Drama,90,Italy,6.3,7.0,5,0,0,0,0,0
+2019,Drama,98,Chile,7.0,8.0,4,0,0,0,0,0
+2019,Documentary,90,Italy,5.2,4.0,6,0,0,0,0,0
+2020,Thriller,115,United States,5.9,6.0,129,0,0,0,0,0
+2019,Drama,103,United States,6.9,7.0,34,0,0,0,0,0
+2019,Drama,125,Great Britain,6.5,7.0,84,0,0,0,0,0
+2021,Drama,106,United States,5.4,6.0,18,0,0,0,0,0
+2020,Drama,113,United States,6.4,7.0,157,0,0,0,0,0
+2019,Drama,124,United States,6.6,7.0,20,0,0,0,0,0
+2020,Action,119,United States,5.4,6.0,83,0,0,0,0,0
+2020,Drama,107,United States,5.8,6.0,36,0,0,0,0,0
+2019,Drama,97,"Australia, United States",5.5,5.0,26,0,0,0,0,0
+2019,Thriller,103,"Canada, United States",4.5,5.0,28,0,0,0,0,0
+2020,Drama,118,Great Britain,6.3,7.0,95,0,0,0,0,0
+2019,Horror,90,United States,4.6,5.0,53,0,0,0,0,0
+2019,Horror,95,United States,5.2,5.0,18,0,0,0,0,0
+2019,Documentary,70,Italy,7.4,7.0,12,0,0,0,0,0
+2019,Drama,129,United States,6.2,6.0,19,0,0,0,0,0
+2020,Comedy,108,France,4.4,4.0,22,0,0,0,0,0
+2019,Drama,120,Portugal,7.2,6.0,28,0,0,0,0,0
+2019,Drama,91,"Italy, Argentina",6.0,6.0,4,0,0,0,0,0
+2019,Drama,84,Italy,6.9,7.0,7,0,0,0,0,0
+2019,Drama,92,Bulgaria,6.7,7.0,4,0,0,0,0,0
+2019,Drama,98,"Brazil, Germany, France",6.8,7.0,5,0,0,0,0,0
+2019,Horror,90,United States,5.7,6.0,21,0,0,0,0,0
+2020,Thriller,96,Spain,6.4,6.0,26,0,0,0,0,0
+2020,Thriller,92,Sweden,4.9,5.0,8,0,0,0,0,0
+2019,Comedy,96,United States,5.1,5.0,7,0,0,0,0,0
+2019,Animation,77,"Luxembourg, France",5.8,6.0,3,0,0,0,0,0
+2019,Drama,104,"Italy, Hong Kong",6.3,6.0,32,0,0,0,0,0
+2019,Documentary,122,Great Britain,7.4,7.0,14,0,0,0,0,0
+2019,Drama,85,United States,6.8,6.0,8,0,0,0,0,0
+2019,Drama,86,"Romania, Serbia",5.5,7.0,3,0,0,0,0,0
+2019,Drama,83,Switzerland,5.4,5.0,8,0,0,0,0,0
+2019,Documentary,60,"Belgium, France",7.3,7.0,4,0,0,0,0,0
+2019,Documentary,91,"Austria, Germany",7.0,6.0,3,0,0,0,0,0
+2019,Sperimental,94,"Thailand, Great Britain",6.5,6.0,4,0,0,0,0,0
+2019,Documentary,50,"France, Germany",6.5,7.0,3,0,0,0,0,0
+2020,Comedy,94,Italy,5.6,6.0,63,0,0,0,0,0
+2019,Documentary,135,France,7.2,7.0,12,0,0,0,0,0
+2019,Animation,95,Japan,5.6,6.0,9,0,0,0,0,0
+2019,Drama,96,"Chile, Argentina, Belgium",7.6,8.0,8,0,0,0,0,0
+2019,Drama,74,"United Arab Emirates, Iraq, Saudi Arabia",6.6,7.0,6,0,0,0,0,0
+2019,Documentary,73,"Italy, Mexico",6.4,6.0,5,0,0,0,0,0
+2019,Animation,93,Great Britain,6.6,6.0,6,0,0,0,0,0
+2019,Comedy,104,United States,4.8,5.0,21,0,0,0,0,0
+2019,Drama,109,Spain,6.5,7.0,4,0,0,0,0,0
+2019,Horror,71,Canada,5.0,4.0,12,0,0,0,0,0
+2019,Documentary,72,Italy,6.3,6.0,3,0,0,0,0,0
+2019,Documentary,105,Italy,7.6,8.0,55,0,0,0,0,0
+2019,Drama,136,United States,7.2,7.0,222,0,0,0,0,0
+2019,Documentary,83,United States,7.6,8.0,6,0,0,0,0,0
+2019,Animation,127,Hong Kong,6.2,7.0,7,0,0,0,0,0
+2019,Biography,118,United States,6.9,7.0,38,0,0,0,0,0
+2019,Drama,166,Portugal,7.0,8.0,3,0,0,0,0,0
+2019,Drama,101,United States,6.5,6.0,35,0,0,0,0,0
+2019,Drama,101,Saudi Arabia,4.8,5.0,18,0,0,0,0,0
+2019,Drama,120,"Australia, United States",6.5,7.0,37,0,0,0,0,0
+2019,Documentary,92,Italy,6.5,7.0,3,0,0,0,0,0
+2019,Documentary,105,Italy,6.9,6.0,21,0,0,0,0,0
+2019,Drama,86,Italy,6.1,6.0,41,0,0,0,0,0
+2019,Drama,79,Italy,6.8,8.0,3,0,0,0,0,0
+2019,Documentary,128,Italy,7.2,7.0,14,0,0,0,0,0
+2019,Documentary,100,Italy,7.3,7.0,3,0,0,0,0,0
+2019,Documentary,80,Italy,5.3,5.0,4,0,0,0,0,0
+2019,Documentary,135,"Netherlands, Lithuania",7.0,7.0,3,0,0,0,0,0
+2019,Documentary,109,"Romania, Luxembourg",6.9,7.0,17,0,0,0,0,0
+2019,Drama,100,"Chile, France, Germany, Spain",6.6,7.0,8,0,0,0,0,0
+2019,Drama,99,"South Africa, Great Britain",6.2,7.0,6,0,0,0,0,0
+2019,Drama,100,Philippines,7.7,8.0,4,0,0,0,0,0
+2019,Thriller,130,Iran,8.2,9.0,4,0,0,0,0,0
+2019,Drama,120,India,5.7,5.0,7,0,0,0,0,0
+2019,Drama,86,Afghanistan,6.0,7.0,4,0,0,0,0,0
+2019,Drama,102,China,6.7,7.0,9,0,0,0,0,0
+2019,Drama,106,Ukraine,7.3,7.0,11,0,0,0,0,0
+2019,Documentary,75,Italy,4.3,1.0,3,0,0,0,0,0
+2019,Documentary,75,Brazil,8.7,9.0,3,0,0,0,0,0
+2019,Documentary,105,United States,7.0,7.0,5,0,0,0,0,0
+2019,Drama,120,"Lesotho, South Africa, Italy",7.3,7.0,3,0,0,0,0,0
+2019,Comedy,93,United States,5.9,6.0,100,0,0,0,0,0
+2019,Horror,89,United States,3.2,2.0,18,0,0,0,0,0
+2019,Thriller,92,Argentina,6.5,6.0,10,0,0,0,0,0
+2019,Documentary,94,Switzerland,7.7,8.0,6,0,0,0,0,0
+2020,Horror,90,Italy,2.5,3.0,13,0,0,0,0,0
+2019,Documentary,100,France,6.4,6.0,13,0,0,0,0,0
+2019,Comedy,85,United States,4.5,5.0,6,0,0,0,0,0
+2019,Romantic,98,United States,5.3,5.0,4,0,0,0,0,0
+2019,Comedy,103,Japan,6.5,7.0,8,0,0,0,0,0
+2019,Horror,98,United States,4.7,3.0,22,0,0,0,0,0
+2019,Animation,90,United States,6.8,7.0,3,0,0,0,0,0
+2019,Horror,90,Canada,5.4,5.0,61,0,0,0,0,0
+2020,Thriller,83,"Italy, Belgium",5.7,6.0,21,0,0,0,0,0
+2019,Drama,97,"Great Britain, Belgium, Ireland",6.8,7.0,5,0,0,0,0,0
+2019,Horror,96,Canada,3.9,3.0,6,0,0,0,0,0
+2019,Drama,109,Canada,6.7,7.0,7,0,0,0,0,0
+2019,Drama,117,Canada,7.4,8.0,9,0,0,0,0,0
+2019,Drama,91,"Canada, United States",5.5,5.0,6,0,0,0,0,0
+2019,Drama,90,Canada,5.8,7.0,4,0,0,0,0,0
+2020,Fantasy,80,Italy,4.9,5.0,12,0,0,0,0,0
+2019,Drama,88,"Chile, Argentina, Germany",6.3,6.0,4,0,0,0,0,0
+2020,Biography,100,Italy,5.3,6.0,49,0,0,0,0,0
+2019,Animation,90,Japan,7.7,8.0,34,0,0,0,0,0
+2019,Drama,140,United States,6.4,7.0,101,0,0,0,0,0
+2019,Horror,89,"Ireland, United States, Great Britain, Sweden, Belgium",5.8,6.0,20,0,0,0,0,0
+2019,Romantic,109,Germany,5.1,5.0,13,0,0,0,0,0
+2019,Thriller,129,South Korea,4.3,4.0,3,0,0,0,0,0
+2019,Drama,89,United States,6.1,7.0,30,0,0,0,0,0
+2019,Thriller,100,China,3.5,2.0,3,0,0,0,0,0
+2019,Comedy,84,United States,4.7,5.0,9,0,0,0,0,0
+2019,Drama,75,"United States, Canada",6.0,6.0,5,0,0,0,0,0
+2019,Thriller,100,"Colombia, United States",5.0,5.0,25,0,0,0,0,0
+2021,Action,103,"Japan, United States",5.1,5.0,25,0,0,0,0,0
+2019,Drama,85,"Italy, Romania",4.3,5.0,5,0,0,0,0,0
+2019,Drama,110,Georgia,5.3,7.0,4,0,0,0,0,0
+2019,Comedy,83,"Chile, Argentina, Peru",4.6,6.0,5,0,0,0,0,0
+2019,Drama,102,"Iran, Czech Republic",8.0,8.0,3,0,0,0,0,0
+2019,Horror,115,Turkey,5.9,6.0,8,0,0,0,0,0
+2019,Sci-Fi,111,United States,6.0,6.0,92,0,0,0,0,0
+2019,Action,119,Indonesia,5.5,5.0,10,0,0,0,0,0
+2019,Drama,90,Canada,7.8,8.0,5,0,0,0,0,0
+2019,Horror,88,United States,5.4,5.0,31,0,0,0,0,0
+2019,Documentary,99,United States,6.0,6.0,6,0,0,0,0,0
+2020,Comedy,106,United States,5.4,6.0,63,0,0,0,0,0
+2021,Super-hero,133,United States,5.5,5.0,113,0,0,0,0,0
+2021,Fantasy,156,United States,5.6,6.0,99,0,0,0,0,0
+2019,Drama,120,Germany,6.4,6.0,18,0,0,0,0,0
+2019,Thriller,88,"Canada, United States",3.1,4.0,16,0,0,0,0,0
+2019,Drama,84,Argentina,6.3,6.0,8,0,0,0,0,0
+2019,Drama,90,United States,5.3,6.0,7,0,0,0,0,0
+2019,Drama,90,"Great Britain, United States",6.6,6.0,14,0,0,0,0,0
+2020,Drama,117,United States,6.1,6.0,19,0,0,0,0,0
+2019,Horror,96,United States,5.5,5.0,39,0,0,0,0,0
+2019,Drama,155,Taiwan,7.3,7.0,32,0,0,0,0,0
+2019,Drama,94,Brazil,7.0,8.0,3,0,0,0,0,0
+2019,Action,95,Great Britain,5.8,6.0,57,0,0,0,0,0
+2019,Thriller,90,United States,6.6,7.0,5,0,0,0,0,0
+2019,Animation,103,United States,5.8,6.0,16,0,0,0,0,0
+2019,Documentary,90,Italy,6.7,7.0,3,0,0,0,0,0
+2019,Thriller,100,Spain,6.8,7.0,59,0,0,0,0,0
+2019,Drama,137,Netherlands,6.5,6.0,13,0,0,0,0,0
+2019,Comedy,85,France,3.3,3.0,7,0,0,0,0,0
+2019,Action,99,"France, Canada",5.1,5.0,24,0,0,0,0,0
+2019,Comedy,103,United States,6.0,5.0,15,0,0,0,0,0
+2020,Comedy,113,United States,6.1,6.0,42,0,0,0,0,0
+2020,Biography,104,Great Britain,5.5,6.0,4,0,0,0,0,0
+2020,Drama,115,United States,5.3,5.0,19,0,0,0,0,0
+2021,Thriller,118,Spain,5.6,6.0,35,0,0,0,0,0
+2021,Action,115,United States,4.9,6.0,20,0,0,0,0,0
+2019,Animation,111,Japan,5.3,6.0,15,0,0,0,0,0
+2019,Horror,85,United States,5.1,4.0,5,0,0,0,0,0
+2019,Comedy,83,France,2.7,3.0,3,0,0,0,0,0
+2019,Comedy,82,United States,5.1,6.0,10,0,0,0,0,0
+2019,Fantasy,101,Japan,6.0,6.0,4,0,0,0,0,0
+2019,Drama,90,Algeria,4.6,5.0,12,0,0,0,0,0
+2019,Comedy,95,Russia,6.8,7.0,33,0,0,0,0,0
+2019,Thriller,90,United States,4.0,4.0,7,0,0,0,0,0
+2019,Thriller,100,Germany,3.3,3.0,4,0,0,0,0,0
+2019,Thriller,90,United States,4.8,5.0,8,0,0,0,0,0
+2019,Comedy,100,United States,4.5,5.0,9,0,0,0,0,0
+2021,Comedy,134,United States,6.0,7.0,87,0,0,0,0,0
+2019,Comedy,122,United States,5.8,6.0,104,0,0,0,0,0
+2019,Drama,86,France,6.9,7.0,10,0,0,0,0,0
+2020,Comedy,90,United States,5.9,6.0,9,0,0,0,0,0
+2020,Comedy,99,United States,5.3,5.0,3,0,0,0,0,0
+2019,Adventure,113,United States,6.6,7.0,43,0,0,0,0,0
+2020,Drama,89,"Italy, France",6.3,6.0,32,0,0,0,0,0
+2019,Drama,90,France,5.4,5.0,8,0,0,0,0,0
+2019,Comedy,90,Germany,6.7,7.0,3,0,0,0,0,0
+2020,Drama,138,Germany,5.9,6.0,31,0,0,0,0,0
+2021,Drama,136,Colombia,6.9,8.0,26,0,0,0,0,0
+2020,Comedy,97,Italy,4.9,5.0,41,0,0,0,0,0
+2020,Comedy,87,Italy,7.0,7.0,16,0,0,0,0,0
+2019,Comedy,85,"Italy, Slovenia",4.8,5.0,19,0,0,0,0,0
+2020,Comedy,90,Italy,6.1,4.0,22,0,0,0,0,0
+2020,Drama,128,Italy,5.9,6.0,22,0,0,0,0,0
+2019,Comedy,95,Italy,5.0,5.0,27,0,0,0,0,0
+2021,Documentary,93,Italy,6.5,6.0,35,0,0,0,0,0
+2021,Biography,106,"Italy, France",5.9,6.0,65,0,0,0,0,0
+2021,Biography,111,Great Britain,6.4,6.0,28,0,0,0,0,0
+2021,Drama,118,Great Britain,6.6,7.0,141,0,1,0,1,0
+2020,Drama,118,United States,6.4,6.0,62,0,0,0,0,0
+2019,Drama,126,United States,6.6,7.0,118,0,0,0,0,0
+2019,Documentary,92,Great Britain,6.6,6.0,16,0,0,0,0,0
+2020,Drama,108,Italy,5.8,6.0,12,0,0,0,0,0
+2020,Comedy,106,Italy,5.2,5.0,26,0,0,0,0,0
+2020,Horror,124,"Australia, United States",6.3,6.0,149,0,1,1,1,0
+2021,Drama,108,"Italy, Brazil",5.7,6.0,65,0,1,0,0,0
+2020,Comedy,90,Italy,3.3,3.0,6,0,0,0,0,0
+2019,Drama,118,"Italy, Germany",5.8,6.0,11,0,0,0,0,0
+2019,Drama,97,Slovenia,5.5,5.0,14,0,0,0,0,0
+2019,Drama,90,"Italy, Spain",4.4,5.0,6,0,0,0,0,0
+2020,Drama,98,Italy,6.2,6.0,243,0,1,2,1,0
+2019,Comedy,96,Italy,6.3,6.0,66,2,1,1,0,0
+2020,Comedy,97,Spain,4.6,5.0,16,0,0,0,0,0
+2019,Drama,151,Japan,6.9,7.0,31,0,0,0,0,0
+2019,Comedy,100,"France, Belgium",5.3,6.0,10,0,0,0,0,0
+2020,Drama,115,Denmark,6.8,7.0,178,0,0,0,0,0
+2019,Documentary,88,"Argentina, Italy, Sudan",4.6,5.0,5,0,0,0,0,0
+2019,Documentary,60,Italy,5.9,6.0,7,0,0,0,0,0
+2020,Drama,96,Italy,5.7,6.0,60,0,0,0,0,0
+2020,Comedy,109,Italy,5.9,5.0,108,0,0,0,0,0
+2020,Comedy,83,United States,4.6,4.0,8,0,0,0,0,0
+2019,Romantic,90,Canada,5.7,6.0,3,0,0,0,0,0
+2019,Drama,85,United States,6.8,7.0,8,0,0,0,0,0
+2019,Thriller,100,United States,6.6,7.0,5,0,0,0,0,0
+2019,Horror,109,United States,5.8,6.0,3,0,0,0,0,0
+2020,Comedy,97,Italy,5.9,6.0,138,0,0,0,0,0
+2020,Drama,115,Italy,6.2,7.0,81,0,0,0,0,0
+2019,Action,92,United States,5.2,5.0,11,0,0,0,0,0
+2019,Horror,90,United States,4.9,5.0,15,0,0,0,0,0
+2019,Comedy,100,Great Britain,6.9,7.0,7,0,0,0,0,0
+2019,Comedy,88,Italy,5.6,6.0,9,0,0,0,0,0
+2019,Documentary,100,Great Britain,7.8,8.0,6,0,0,0,0,0
+2019,Horror,85,United States,4.5,5.0,20,0,0,0,0,0
+2020,Western,118,United States,6.3,7.0,108,0,0,0,0,0
+2019,Drama,97,United States,5.5,6.0,13,0,0,0,0,0
+2020,Thriller,91,United States,3.7,4.0,17,0,0,0,0,0
+2019,Drama,70,South Korea,5.8,6.0,5,0,0,0,0,0
+2019,Drama,92,South Korea,5.1,6.0,5,0,0,0,0,0
+2020,Horror,94,"United States, Canada",4.5,4.0,22,0,0,0,0,0
+2019,Thriller,97,"France, Belgium",6.1,6.0,6,0,0,0,0,0
+2019,Drama,110,Bhutan,6.8,8.0,33,0,0,0,0,0
+2019,Drama,86,Great Britain,7.3,7.0,4,0,0,0,0,0
+2019,Drama,71,Sweden,6.0,5.0,3,0,0,0,0,0
+2019,Animation,106,Japan,6.7,7.0,6,0,0,0,0,0
+2020,Comedy,84,Italy,4.5,5.0,51,0,0,0,0,0
+2019,Sci-Fi,98,Canada,5.6,5.0,28,0,0,0,0,0
+2019,Drama,129,United States,7.7,8.0,288,0,0,0,0,0
+2019,Action,97,United States,4.4,5.0,26,0,0,0,0,0
+2019,Thriller,119,"Spain, Germany",6.2,6.0,34,0,0,0,0,0
+2019,Documentary,90,Italy,4.0,4.0,4,0,0,0,0,0
+2020,Comedy,118,Italy,6.8,7.0,191,0,0,0,0,0
+2021,Thriller,133,Italy,5.8,6.0,195,0,0,0,0,0
+2019,Documentary,89,Italy,6.8,7.0,4,0,0,0,0,0
+2019,Action,128,United States,4.5,5.0,59,0,0,0,0,0
+2022,Thriller,134,United States,5.9,6.0,117,0,0,0,0,0
+2019,Drama,98,Italy,5.2,4.0,17,0,0,0,0,0
+2021,Comedy,105,Italy,4.2,4.0,51,0,0,0,0,0
+2019,Drama,97,Italy,6.9,7.0,28,0,0,0,0,0
+2019,Documentary,81,Italy,4.5,5.0,4,0,0,0,0,0
+2019,Drama,90,Italy,6.0,6.0,6,0,0,0,0,0
+2019,Drama,98,Italy,4.7,5.0,9,0,0,0,0,0
+2019,Documentary,62,Italy,5.7,6.0,4,0,0,0,0,0
+2019,Horror,107,Canada,5.3,5.0,15,0,0,0,0,0
+2019,Thriller,110,Spain,6.0,5.0,22,0,0,0,0,0
+2019,Drama,88,United States,6.5,7.0,6,0,0,0,0,0
+2021,Comedy,115,United States,5.9,6.0,81,0,0,0,0,0
+2019,Documentary,83,Italy,6.8,8.0,4,0,0,0,0,0
+2019,Thriller,90,United States,4.8,5.0,5,0,0,0,0,0
+2019,Drama,82,United States,1.7,1.0,4,0,0,0,0,0
+2019,Drama,95,"Estonia, Russia",5.5,4.0,3,0,0,0,0,0
+2019,Documentary,60,Italy,5.8,6.0,8,0,0,0,0,0
+2019,Drama,101,"Macedonia, Hungary, Belgium",6.8,6.0,4,0,0,0,0,0
+2019,Documentary,93,Switzerland,7.5,7.0,3,0,0,0,0,0
+2019,Thriller,106,South Korea,7.3,8.0,3,0,0,0,0,0
+2019,Drama,96,France,5.0,5.0,4,0,0,0,0,0
+2019,Romantic,90,United States,1.8,2.0,4,0,0,0,0,0
+2019,Romantic,90,United States,6.0,6.0,3,0,0,0,0,0
+2019,Animation,93,Japan,6.7,6.0,14,0,0,0,0,0
+2020,Drama,120,Italy,5.3,5.0,82,0,0,0,0,0
+2020,Comedy,67,Italy,1.6,2.0,32,0,0,0,0,0
+2019,Drama,110,Hong Kong,5.3,5.0,4,0,0,0,0,0
+2019,Action,103,South Korea,5.0,5.0,6,0,0,0,0,0
+2019,Animation,110,China,4.8,6.0,3,0,0,0,0,0
+2019,Drama,111,China,5.0,6.0,3,0,0,0,0,0
+2019,Drama,114,South Korea,8.3,9.0,3,0,0,0,0,0
+2019,Comedy,93,United States,3.5,4.0,4,0,0,0,0,0
+2019,Comedy,83,Brazil,5.8,5.0,3,0,0,0,0,0
+2019,Documentary,72,Italy,7.0,7.0,3,0,0,0,0,0
+2019,Thriller,90,"Canada, United States",4.3,4.0,4,0,0,0,0,0
+2019,Documentary,76,Italy,6.3,8.0,4,0,0,0,0,0
+2020,Drama,90,Italy,5.5,6.0,4,0,0,0,0,0
+2019,Action,97,"Great Britain, United States",4.6,4.0,14,0,0,0,0,0
+2019,History,124,United States,4.5,5.0,14,0,0,0,0,0
+2019,Drama,100,Italy,3.0,5.0,5,0,0,0,0,0
+2019,Horror,99,Spain,4.7,4.0,21,0,0,0,0,0
+2019,Animation,58,Japan,7.6,7.0,5,0,0,0,0,0
+2019,Drama,92,Italy,4.9,5.0,25,0,0,0,0,0
+2019,Comedy,92,France,5.2,5.0,18,0,0,0,0,0
+2019,Thriller,121,Russia,4.3,4.0,4,0,0,0,0,0
+2020,Comedy,90,Italy,3.5,4.0,39,0,0,0,0,0
+2019,Romantic,84,United States,5.7,6.0,6,0,0,0,0,0
+2019,Romantic,90,United States,5.5,6.0,4,0,0,0,0,0
+2019,Romantic,90,United States,7.3,7.0,3,0,0,0,0,0
+2019,Documentary,70,Italy,5.4,5.0,5,0,0,0,0,0
+2020,Comedy,110,Italy,6.7,7.0,56,0,0,0,0,0
+2019,Comedy,90,Italy,2.9,4.0,18,0,0,0,0,0
+2020,Comedy,85,"Australia, United States",6.0,6.0,11,0,0,0,0,0
+2020,Drama,116,Spain,6.6,7.0,16,0,0,0,0,0
+2019,Comedy,89,France,5.0,5.0,6,0,0,0,0,0
+2019,Romantic,90,United States,4.7,5.0,9,0,0,0,0,0
+2019,Romantic,85,United States,4.3,4.0,3,0,0,0,0,0
+2019,Romantic,90,United States,4.8,3.0,3,0,0,0,0,0
+2021,Thriller,110,United States,5.2,6.0,60,0,0,0,0,0
+2019,Thriller,90,United States,6.0,6.0,4,0,0,0,0,0
+2019,Action,86,"Italy, United States",3.2,3.0,5,0,0,0,0,0
+2021,Drama,127,"France, Germany",4.8,5.0,3,0,0,0,0,0
+2020,Action,109,United States,4.9,5.0,38,0,0,0,0,0
+2019,Biography,117,Japan,6.3,7.0,4,0,0,0,0,0
+2019,Romantic,90,Canada,6.6,7.0,5,0,0,0,0,0
+2019,Comedy,93,United States,2.3,2.0,3,0,0,0,0,0
+2020,Comedy,101,Italy,6.8,7.0,64,0,0,0,0,0
+2019,Thriller,93,Canada,5.3,5.0,7,0,0,0,0,0
+2020,Horror,99,Great Britain,6.1,6.0,6,0,0,0,0,0
+2019,Drama,83,Canada,4.8,5.0,21,0,0,0,0,0
+2019,Documentary,92,Italy,5.7,4.0,5,0,0,0,0,0
+2020,Drama,116,Russia,7.5,8.0,12,0,0,0,0,0
+2019,Drama,108,Australia,5.3,6.0,8,0,0,0,0,0
+2020,Drama,100,France,6.6,7.0,42,0,0,0,0,0
+2021,Sperimental,135,Italy,4.5,4.0,7,0,0,0,0,0
+2019,Documentary,55,Italy,8.3,8.0,4,0,0,0,0,0
+2020,Drama,93,Great Britain,6.4,6.0,43,0,0,0,0,0
+2019,Drama,118,South Korea,7.5,7.0,3,0,0,0,0,0
+2020,Drama,140,Japan,7.4,8.0,13,0,0,0,0,0
+2021,Drama,100,"France, Lebanon, Canada",6.7,6.0,24,0,0,0,0,0
+2019,Romantic,90,United States,6.2,6.0,5,0,0,0,0,0
+2019,Romantic,90,United States,6.4,6.0,8,0,0,0,0,0
+2019,Romantic,90,United States,4.3,4.0,4,0,0,0,0,0
+2019,Thriller,90,United States,2.9,3.0,8,0,0,0,0,0
+2019,Thriller,87,United States,2.8,4.0,4,0,0,0,0,0
+2019,Thriller,87,United States,6.2,6.0,5,0,0,0,0,0
+2019,Romantic,90,United States,5.8,6.0,5,0,0,0,0,0
+2021,Horror,105,United States,5.6,6.0,67,0,0,0,0,0
+2020,Romantic,106,United States,5.4,5.0,8,0,0,0,0,0
+2020,Thriller,100,Italy,6.4,6.0,41,0,0,0,0,0
+2021,Drama,141,United States,5.7,6.0,31,0,0,0,0,0
+2019,Romantic,90,United States,5.0,5.0,8,0,0,0,0,0
+2019,Romantic,90,United States,4.5,5.0,4,0,0,0,0,0
+2020,Drama,104,Italy,5.9,6.0,37,0,0,0,0,0
+2019,Drama,90,Italy,2.2,2.0,5,0,0,0,0,0
+2020,Horror,120,Italy,4.5,5.0,23,0,0,0,0,0
+2021,Drama,86,Italy,5.5,5.0,29,0,0,0,0,0
+2019,Action,87,United States,4.2,4.0,21,0,0,0,0,0
+2020,Drama,96,"Italy, Great Britain, Romania",7.3,8.0,45,0,0,0,0,0
+2020,Drama,99,France,6.0,6.0,16,0,0,0,0,0
+2020,Biography,118,"Czech Republic, Ireland, Slovakia, Poland",6.1,6.0,6,0,0,0,0,0
+2019,Comedy,99,United States,5.6,6.0,5,0,0,0,0,0
+2019,Sci-Fi,87,United States,4.1,4.0,16,0,0,0,0,0
+2019,Documentary,150,Italy,5.1,5.0,7,0,0,0,0,0
+2019,Romantic,90,Canada,4.0,4.0,3,0,0,0,0,0
+2019,Romantic,90,United States,5.6,6.0,5,0,0,0,0,0
+2019,Romantic,90,United States,5.2,5.0,5,0,0,0,0,0
+2019,Romantic,84,United States,7.3,7.0,3,0,0,0,0,0
+2020,Animation,100,United States,7.5,8.0,144,0,0,0,0,0
+2020,Drama,102,"United States, Great Britain",5.4,6.0,18,0,0,0,0,0
+2020,Horror,110,United States,4.1,4.0,45,0,0,0,0,0
+2019,Action,105,Hong Kong,5.4,7.0,35,0,0,0,0,0
+2019,Thriller,92,United States,5.0,5.0,5,0,0,0,0,0
+2019,Action,99,"Great Britain, United States",4.0,4.0,23,0,0,0,0,0
+2020,Drama,122,United States,5.7,6.0,129,0,0,0,0,0
+2021,Romantic,99,"France, Great Britain, Belgium",6.8,7.0,3,0,0,0,0,0
+2021,Comedy,88,France,6.1,6.0,5,0,0,0,0,0
+2020,Animation,93,United States,4.5,5.0,8,0,0,0,0,0
+2019,Drama,123,Japan,5.8,7.0,3,0,0,0,0,0
+2019,Romantic,90,United States,6.7,7.0,3,0,0,0,0,0
+2019,Thriller,131,Russia,5.0,5.0,6,0,0,0,0,0
+2020,Drama,98,Italy,5.5,6.0,48,0,0,0,0,0
+2020,Animation,83,"United States, South Korea",5.8,6.0,4,0,0,0,0,0
+2021,Thriller,90,Italy,3.9,4.0,22,0,0,0,0,0
+2020,Comedy,95,France,6.6,6.0,39,0,0,0,0,0
+2019,Drama,80,"Italy, United States",2.4,2.0,7,0,0,0,0,0
+2019,Drama,91,"China, Czech Republic",6.5,6.0,8,0,0,0,0,0
+2019,Comedy,93,Italy,6.1,7.0,16,0,0,0,0,0
+2019,Documentary,50,Italy,6.8,7.0,4,0,0,0,0,0
+2019,Comedy,87,Italy,6.5,6.0,10,0,0,0,0,0
+2019,Thriller,90,Canada,5.5,6.0,4,0,0,0,0,0
+2021,Thriller,121,Italy,5.7,5.0,45,0,0,0,0,0
+2019,Romantic,90,United States,8.0,8.0,3,0,0,0,0,0
+2019,Thriller,85,Russia,6.9,5.0,7,0,0,0,0,0
+2019,Sci-Fi,150,Russia,4.5,6.0,19,0,0,0,0,0
+2019,Romantic,104,South Korea,7.0,7.0,7,0,0,0,0,0
+2020,Documentary,92,"Great Britain, United States",6.7,7.0,3,0,0,0,0,0
+2020,Drama,100,"Germany, France, Netherlands",6.0,6.0,3,0,0,0,0,0
+2020,Drama,140,"France, Tunisia, Belgium, Sweden, Germany",6.3,7.0,14,0,0,0,0,0
+2019,Thriller,100,United States,3.1,4.0,10,0,0,0,0,0
+2019,Sci-Fi,114,"Indonesia, United States",3.8,4.0,12,0,0,0,0,0
+2019,Drama,179,Japan,6.8,7.0,4,0,0,0,0,0
+2020,Drama,100,Italy,4.4,4.0,10,0,0,0,0,0
+2019,Documentary,94,Italy,4.3,5.0,7,0,0,0,0,0
+2020,Horror,106,United States,6.1,6.0,54,0,0,0,0,0
+2019,Documentary,72,Italy,2.2,2.0,5,0,0,0,0,0
+2019,Romantic,90,Canada,4.0,4.0,3,0,0,0,0,0
+2019,Romantic,90,United States,7.5,8.0,4,0,0,0,0,0
+2019,Romantic,90,United States,4.7,5.0,3,0,0,0,0,0
+2020,Drama,107,United States,5.3,5.0,20,0,0,0,0,0
+2020,Drama,94,"Great Britain, United States",4.2,4.0,10,0,0,0,0,0
+2020,Drama,105,United States,4.2,4.0,23,0,0,0,0,0
+2019,Romantic,90,United States,3.3,3.0,4,0,0,0,0,0
+2019,Drama,86,Ireland,7.0,7.0,4,0,0,0,0,0
+2019,Comedy,79,Italy,2.3,2.0,6,0,0,0,0,0
+2020,Adventure,96,Germany,6.0,6.0,4,0,0,0,0,0
+2019,Romantic,90,United States,4.0,4.0,3,0,0,0,0,0
+2019,Romantic,90,United States,4.0,4.0,3,0,0,0,0,0
+2019,Thriller,103,Brazil,5.3,5.0,3,0,0,0,0,0
+2020,Drama,84,Italy,5.4,5.0,19,0,0,0,0,0
+2020,Biography,96,United States,4.9,5.0,22,0,0,0,0,0
+2020,Biography,139,United States,5.8,6.0,11,0,0,0,0,0
+2020,Drama,97,Great Britain,7.4,8.0,149,0,0,0,0,0
+2020,Drama,99,Great Britain,5.5,6.0,26,0,0,0,0,0
+2020,Animation,78,South Korea,5.7,5.0,10,0,0,0,0,0
+2019,Animation,97,Japan,5.2,5.0,6,0,0,0,0,0
+2019,Documentary,102,Great Britain,6.0,6.0,4,0,0,0,0,0
+2021,Drama,96,United States,5.8,6.0,123,0,0,0,0,0
+2020,Animation,88,Italy,4.9,5.0,15,0,0,0,0,0
+2020,Comedy,95,France,5.6,6.0,20,0,0,0,0,0
+2020,Comedy,129,United States,6.4,6.0,15,0,0,0,0,0
+2020,Drama,115,United States,5.0,5.0,4,0,0,0,0,0
+2020,Sci-Fi,104,"Great Britain, Canada",5.5,6.0,53,0,0,0,0,0
+2020,Horror,108,United States,5.7,5.0,32,0,0,0,0,0
+2020,Horror,97,United States,4.9,6.0,9,0,0,0,0,0
+2020,Horror,89,"Australia, United States",6.3,6.0,35,0,0,0,0,0
+2020,Comedy,94,"Great Britain, Italy",5.2,5.0,19,0,0,0,0,0
+2019,Thriller,82,United States,4.3,5.0,3,0,0,0,0,0
+2020,Action,91,United States,3.0,3.0,15,0,0,0,0,0
+2020,Drama,101,United States,7.0,7.0,57,0,0,0,0,0
+2020,Comedy,102,Great Britain,6.8,7.0,21,0,0,0,0,0
+2020,Drama,100,United States,5.4,6.0,18,0,0,0,0,0
+2020,Drama,97,"Great Britain, Ireland",5.7,6.0,40,0,0,0,0,0
+2020,Comedy,120,United States,6.0,6.0,37,0,0,0,0,0
+2020,Drama,111,Great Britain,6.4,7.0,53,0,0,0,0,0
+2020,Drama,106,United States,5.3,5.0,20,0,0,0,0,0
+2020,Comedy,90,United States,6.2,6.0,13,0,0,0,0,0
+2020,Drama,95,United States,5.9,6.0,30,0,0,0,0,0
+2020,Drama,118,United States,5.7,6.0,10,0,0,0,0,0
+2020,Drama,95,United States,6.4,6.0,39,0,0,0,0,0
+2020,Drama,102,United States,6.9,7.0,12,0,0,0,0,0
+2020,Drama,115,United States,6.6,7.0,107,0,0,0,0,0
+2020,Drama,110,United States,6.2,5.0,5,0,0,0,0,0
+2020,Comedy,87,United States,6.1,6.0,111,0,0,0,0,0
+2020,Drama,110,United States,6.4,6.0,19,0,0,0,0,0
+2020,Drama,97,United States,4.1,4.0,7,0,0,0,0,0
+2020,Drama,90,United States,5.0,6.0,3,0,0,0,0,0
+2021,Comedy,124,United States,6.6,6.0,104,0,0,0,0,0
+2020,Animation,90,United States,6.0,7.0,26,0,0,0,0,0
+2020,Comedy,107,United States,5.3,6.0,15,0,0,0,0,0
+2021,Action,145,United States,3.8,4.0,55,0,0,0,0,0
+2020,Animation,95,United States,6.6,7.0,22,0,0,0,0,0
+2019,Comedy,82,Netherlands,4.3,4.0,3,0,0,0,0,0
+2019,Comedy,90,Italy,3.0,4.0,6,0,0,0,0,0
+2019,Action,90,United States,3.4,4.0,12,0,0,0,0,0
+2019,Documentary,82,Canada,7.0,7.0,3,0,0,0,0,0
+2020,Drama,95,"Mexico, Spain",6.9,7.0,12,0,0,0,0,0
+2020,Drama,121,"Germany, Belgium, Kosovo",6.3,7.0,11,0,0,0,0,0
+2021,Comedy,143,United States,5.0,6.0,7,0,0,0,0,0
+2019,Romantic,85,United States,4.0,4.0,3,0,0,0,0,0
+2019,Animation,88,Japan,5.3,7.0,10,0,0,0,0,0
+2021,Horror,112,United States,5.0,5.0,52,0,0,0,0,0
+2020,Thriller,121,United States,4.9,5.0,29,0,0,0,0,0
+2019,Animation,77,"Germany, France, Belgium",4.1,4.0,7,0,0,0,0,0
+2020,Romantic,107,United States,4.9,6.0,14,0,0,0,0,0
+2020,Documentary,119,United States,7.1,7.0,12,0,0,0,0,0
+2021,Action,107,United States,5.5,6.0,64,0,0,0,0,0
+2020,Comedy,102,United States,4.5,5.0,4,0,0,0,0,0
+2019,Comedy,86,United States,3.2,3.0,5,0,0,0,0,0
+2020,Thriller,90,Italy,5.9,5.0,19,0,0,0,0,0
+2020,Thriller,90,Italy,5.3,5.0,16,0,0,0,0,0
+2020,Horror,93,Great Britain,6.7,6.0,68,0,0,0,0,0
+2019,Horror,106,Indonesia,6.0,6.0,10,0,0,0,0,0
+2019,Adventure,90,Netherlands,4.1,4.0,7,0,0,0,0,0
+2021,Comedy,106,United States,3.1,4.0,8,0,0,0,0,0
+2019,Action,108,United States,3.9,5.0,11,0,0,0,0,0
+2020,Documentary,89,United States,7.7,7.0,11,0,0,0,0,0
+2020,Documentary,102,United States,5.5,6.0,3,0,0,0,0,0
+2020,Thriller,101,Australia,5.2,4.0,10,0,0,0,0,0
+2020,Comedy,93,United States,4.5,6.0,17,0,0,0,0,0
+2020,Horror,85,United States,4.6,4.0,5,0,0,0,0,0
+2020,Comedy,91,United States,2.3,4.0,5,0,0,0,0,0
+2020,Documentary,85,United States,6.0,7.0,4,0,0,0,0,0
+2020,Drama,104,United States,7.0,6.0,10,0,0,0,0,0
+2021,Horror,111,United States,6.1,6.0,69,0,0,0,0,0
+2020,Comedy,80,Germany,2.2,2.0,6,0,0,0,0,0
+2020,Documentary,108,Italy,6.3,6.0,21,0,0,0,0,0
+2020,Drama,97,Italy,4.8,5.0,41,0,0,0,0,0
+2019,Action,130,South Korea,4.3,5.0,26,0,0,0,0,0
+2020,Action,93,United States,3.0,3.0,4,0,0,0,0,0
+2021,Sci-Fi,120,Italy,5.9,6.0,52,0,0,0,0,0
+2021,Biography,146,United States,5.9,6.0,28,0,0,0,0,0
+2019,Fantasy,121,"Russia, China",6.0,6.0,13,0,0,0,0,0
+2019,Documentary,96,"Germany, United States, Austria",2.0,2.0,5,0,0,0,0,0
+2020,Action,91,Great Britain,2.4,3.0,13,0,0,0,0,0
+2019,Horror,90,Australia,4.4,4.0,8,0,0,0,0,0
+2020,Sci-Fi,100,Australia,5.9,6.0,7,0,0,0,0,0
+2020,Romantic,90,"United States, Canada",4.7,5.0,3,0,0,0,0,0
+2019,Thriller,90,Canada,5.0,5.0,6,0,0,0,0,0
+2019,Drama,90,Germany,3.0,3.0,2,0,0,0,0,0
+2019,Romantic,84,United States,3.0,3.0,4,0,0,0,0,0
+2020,Sci-Fi,90,Russia,5.6,6.0,41,0,0,0,0,0
+2019,Action,130,"Russia, Serbia",5.7,6.0,7,0,0,0,0,0
+2019,Action,91,United States,4.1,4.0,27,0,0,0,0,0
+2020,Romantic,90,United States,6.8,7.0,6,0,0,0,0,0
+2019,Romantic,90,United States,7.4,7.0,5,0,0,0,0,0
+2019,Thriller,83,United States,2.8,3.0,4,0,0,0,0,0
+2020,Thriller,90,United States,4.0,4.0,3,0,0,0,0,0
+2020,Documentary,87,Italy,6.3,6.0,23,0,0,0,0,0
+2019,Documentary,103,United States,7.3,7.0,12,0,0,0,0,0
+2020,Documentary,97,United States,5.6,6.0,44,0,0,0,0,0
+2020,Documentary,84,Chile,6.8,7.0,3,0,0,0,0,0
+2020,Documentary,102,Norway,8.0,8.0,3,0,0,0,0,0
+2020,Horror,144,India,6.0,6.0,3,0,0,0,0,0
+2020,Horror,104,Spain,5.4,5.0,33,0,0,0,0,0
+2020,Drama,100,"Greece, France",7.4,7.0,10,0,0,0,0,0
+2020,Drama,92,Germany,4.8,5.0,3,0,0,0,0,0
+2020,Gangster,135,Canada,5.2,5.0,11,0,0,0,0,0
+2021,Action,121,United States,4.1,5.0,17,0,0,0,0,0
+2019,Horror,113,Russia,3.0,5.0,11,0,0,0,0,0
+2020,Comedy,101,United States,6.0,6.0,22,0,0,0,0,0
+2021,Thriller,124,United States,5.4,6.0,25,0,0,0,0,0
+2021,Drama,107,United States,5.0,6.0,32,0,0,0,0,0
+2020,Horror,100,France,5.3,5.0,28,0,0,0,0,0
+2020,Comedy,110,France,5.4,5.0,27,0,0,0,0,0
+2020,Comedy,77,France,6.6,7.0,60,0,0,0,0,0
+2022,Super-hero,108,United States,4.7,5.0,56,0,0,0,0,0
+2020,Drama,88,France,3.6,3.0,8,0,0,0,0,0
+2021,Drama,106,"Iceland, Sweden, Poland",6.0,6.0,59,0,0,0,0,0
+2020,Drama,137,Poland,6.4,7.0,39,0,0,0,0,0
+2020,Thriller,85,United States,2.8,3.0,5,0,0,0,0,0
+2020,Comedy,108,France,4.6,5.0,18,0,0,0,0,0
+2020,Comedy,95,France,4.1,4.0,11,0,0,0,0,0
+2020,Drama,99,France,5.6,6.0,15,0,0,0,0,0
+2020,Drama,113,United States,6.2,6.0,49,0,0,0,0,0
+2021,Comedy,127,"Sweden, Denmark",7.0,7.0,85,0,0,0,0,0
+2019,Drama,98,United States,5.2,5.0,17,0,0,0,0,0
+2020,Sperimental,64,Italy,6.5,6.0,13,0,0,0,0,0
+2020,Sperimental,70,Iceland,5.8,6.0,13,0,0,0,0,0
+2020,Documentary,112,China,6.9,8.0,5,0,0,0,0,0
+2020,Thriller,90,United States,5.7,5.0,31,0,0,0,0,0
+2019,Documentary,60,Italy,7.0,7.0,4,0,0,0,0,0
+2020,Comedy,136,United States,6.4,6.0,58,0,0,0,0,0
+2020,Documentary,88,Italy,8.8,8.0,4,0,0,0,0,0
+2020,Drama,90,Italy,3.9,5.0,23,0,0,0,0,0
+2019,Thriller,92,Great Britain,4.8,5.0,13,0,0,0,0,0
+2019,Action,89,United States,4.3,4.0,9,0,0,0,0,0
+2020,Sci-Fi,105,"Great Britain, Hungary, United States",5.4,5.0,34,0,0,0,0,0
+2020,Drama,117,United States,6.3,7.0,3,0,0,0,0,0
+2020,Drama,98,United States,5.3,5.0,4,0,0,0,0,0
+2020,Drama,120,"United States, France",4.7,5.0,6,0,0,0,0,0
+2021,Comedy,105,France,6.2,6.0,15,0,0,0,0,0
+2020,Drama,95,United States,6.2,6.0,7,0,0,0,0,0
+2020,Documentary,93,"Norway, United States",6.7,7.0,10,0,0,0,0,0
+2020,Drama,70,"France, Colombia, Brazil",4.7,5.0,4,0,0,0,0,0
+2020,Documentary,100,Portugal,8.8,9.0,5,0,0,0,0,0
+2020,Sci-Fi,94,"Austria, Germany",6.4,6.0,12,0,0,0,0,0
+2020,Documentary,77,Italy,6.5,7.0,4,0,0,0,0,0
+2020,Comedy,86,France,5.1,5.0,5,0,0,0,0,0
+2020,Drama,90,Netherlands,5.3,6.0,3,0,0,0,0,0
+2020,Drama,109,South Korea,6.6,7.0,40,0,0,0,0,0
+2020,Horror,93,United States,3.8,4.0,13,0,0,0,0,0
+2020,Thriller,110,United States,6.0,6.0,49,0,0,0,0,0
+2019,Action,103,United States,2.2,2.0,5,0,0,0,0,0
+2019,Action,103,United States,2.3,2.0,6,0,0,0,0,0
+2020,Action,99,United States,2.2,2.0,6,0,0,0,0,0
+2020,Romantic,102,France,5.8,5.0,17,0,0,0,0,0
+2019,Thriller,90,United States,5.0,5.0,18,0,0,0,0,0
+2020,Comedy,102,Australia,4.8,5.0,5,0,0,0,0,0
+2020,Comedy,75,United States,5.2,5.0,17,0,0,0,0,0
+2019,Thriller,103,Great Britain,4.8,5.0,18,0,0,0,0,0
+2021,Drama,165,"France, Japan, Germany, Belgium, Italy, Cambodia",6.1,5.0,5,0,0,0,0,0
+2020,Comedy,89,Italy,3.3,5.0,11,0,0,0,0,0
+2020,Drama,95,France,6.9,7.0,21,0,0,0,0,0
+2020,Drama,120,"Serbia, France, Germany, Slovenia, Croatia",7.6,8.0,8,0,0,0,0,0
+2020,Drama,91,"Italy, France, Greece",6.3,6.0,25,0,0,0,0,0
+2020,Drama,134,South Korea,5.2,6.0,6,0,0,0,0,0
+2020,Comedy,90,Spain,5.4,5.0,19,0,0,0,0,0
+2020,Thriller,139,"Spain, Germany",5.6,6.0,23,0,0,0,0,0
+2020,Sci-Fi,109,United States,6.0,6.0,67,2,4,1,3,0
+2021,Drama,109,United States,5.7,5.0,22,0,0,0,0,0
+2021,Horror,91,United States,5.2,5.0,58,0,0,0,0,0
+2020,Thriller,94,Spain,6.1,6.0,53,0,0,0,0,0
+2020,Drama,97,Spain,6.5,6.0,7,0,0,0,0,0
+2020,Romantic,90,United States,7.3,7.0,6,0,0,0,0,0
+2020,Romantic,90,United States,6.3,6.0,3,0,0,0,0,0
+2020,Romantic,90,United States,8.3,8.0,3,0,0,0,0,0
+2020,Comedy,82,France,7.5,8.0,13,0,0,0,0,0
+2020,Comedy,87,France,5.6,6.0,24,0,0,0,0,0
+2021,Drama,102,France,5.4,6.0,17,0,0,0,0,0
+2020,Comedy,111,"United States, Great Britain",6.1,7.0,91,0,0,0,0,0
+2021,Drama,87,France,5.6,6.0,11,0,0,0,0,0
+2021,Thriller,117,"Spain, Great Britain",6.8,8.0,7,0,0,0,0,0
+2019,Romantic,87,United States,6.0,6.0,3,0,0,0,0,0
+2019,Animation,106,Japan,6.3,6.0,6,0,0,0,0,0
+2020,Drama,101,"Canada, Ireland",6.1,6.0,27,0,0,0,0,0
+2021,Noir,86,Italy,3.7,3.0,11,0,0,0,0,0
+2020,Drama,90,"Great Britain, Australia",6.5,7.0,48,0,0,0,0,0
+2020,Sperimental,76,Greece,5.6,6.0,7,0,0,0,0,0
+2019,Comedy,93,Denmark,6.7,7.0,10,0,0,0,0,0
+2021,Horror,93,United States,4.4,5.0,40,0,0,0,0,0
+2019,Documentary,74,Italy,7.8,9.0,3,0,0,0,0,0
+2020,Drama,72,Angola,6.3,7.0,6,0,0,0,0,0
+2022,Super-hero,175,United States,6.6,7.0,192,0,0,0,0,0
+2020,Documentary,112,Great Britain,6.8,7.0,4,0,0,0,0,0
+2020,Drama,77,Italy,4.3,6.0,3,0,0,0,0,0
+2020,Drama,92,"Italy, Germany, Mexico",5.3,5.0,31,0,0,0,0,0
+2020,Drama,90,"Germany, France",6.7,6.0,74,0,0,0,0,0
+2020,Drama,120,"Brazil, France",7.2,6.0,4,0,0,0,0,0
+2020,Drama,150,"Germany, Czech Republic, Iran",7.2,8.0,35,0,0,0,0,0
+2020,Drama,127,Taiwan,7.5,7.0,13,0,0,0,0,0
+2020,Drama,77,South Korea,6.6,6.0,6,0,0,0,0,0
+2020,Drama,147,"Russia, France, Germany, Sweden, Netherlands, Ukraine",6.8,7.0,15,0,0,0,0,0
+2021,Thriller,112,Italy,4.9,5.0,41,0,0,0,0,0
+2020,Drama,100,Italy,5.7,6.0,57,0,0,0,0,0
+2020,Drama,109,"Great Britain, Belgium",5.0,6.0,14,0,0,0,0,0
+2019,Romantic,89,United States,6.0,6.0,7,0,0,0,0,0
+2021,Biography,133,Italy,7.3,7.0,126,0,0,0,0,0
+2020,Thriller,100,Italy,6.2,6.0,23,0,0,0,0,0
+2021,Drama,150,United States,6.8,7.0,154,0,0,0,0,0
+2020,Comedy,100,Italy,3.9,4.0,11,0,0,0,0,0
+2020,Thriller,104,"Great Britain, United States",5.3,6.0,37,0,0,0,0,0
+2020,Drama,113,"United States, Portugal",4.6,5.0,10,0,0,0,0,0
+2020,Adventure,89,France,3.7,4.0,6,0,0,0,0,0
+2019,Drama,87,United States,5.6,6.0,10,0,0,0,0,0
+2019,Drama,98,Great Britain,3.4,3.0,7,0,0,0,0,0
+2020,Comedy,87,France,4.3,4.0,4,0,0,0,0,0
+2019,Drama,128,Russia,8.0,8.0,3,0,0,0,0,0
+2019,Drama,113,Thailand,7.0,7.0,6,0,0,0,0,0
+2020,Comedy,100,Italy,4.8,5.0,11,0,0,0,0,0
+2020,Thriller,97,Italy,5.3,5.0,91,0,0,0,0,0
+2020,Drama,95,United States,4.0,5.0,14,0,0,0,0,0
+2021,Comedy,110,United States,4.2,5.0,57,0,0,0,0,0
+2020,Drama,105,South Korea,6.1,6.0,9,0,0,0,0,0
+2019,Thriller,90,United States,5.2,5.0,6,0,0,0,0,0
+2020,Comedy,86,United States,6.0,6.0,3,0,0,0,0,0
+2020,Comedy,103,France,5.0,5.0,4,0,0,0,0,0
+2020,Comedy,100,France,5.5,6.0,4,0,0,0,0,0
+2021,Drama,133,France,6.4,6.0,49,0,0,0,0,0
+2019,Drama,94,Serbia,7.8,9.0,3,0,0,0,0,0
+2020,Thriller,100,Italy,5.9,5.0,19,0,0,0,0,0
+2021,Thriller,100,Italy,5.1,4.0,44,0,0,0,0,0
+2021,Sci-Fi,106,United States,4.3,5.0,49,0,0,0,0,0
+2020,Comedy,87,Italy,4.9,6.0,31,0,0,0,0,0
+2021,Comedy,67,France,5.0,5.0,18,0,0,0,0,0
+2021,Drama,96,France,7.2,7.0,58,0,0,0,0,0
+2020,Drama,90,France,5.9,6.0,11,0,0,0,0,0
+2020,Drama,92,France,5.9,7.0,7,0,0,0,0,0
+2020,Comedy,107,"Germany, United States",6.6,7.0,127,0,0,0,0,0
+2020,Romantic,113,Germany,4.3,6.0,7,0,0,0,0,0
+2020,Sperimental,89,Russia,8.1,7.0,19,0,0,0,0,0
+2021,Comedy,100,"Israel, Germany, Poland",6.6,7.0,16,0,0,0,0,0
+2020,Documentary,128,Romania,7.5,8.0,9,0,0,0,0,0
+2020,Fantasy,125,"United States, Ireland",6.8,6.0,70,0,0,0,0,0
+2020,Drama,116,"Nigeria, United States",5.7,6.0,4,0,0,0,0,0
+2020,Comedy,99,Italy,4.4,4.0,11,0,0,0,0,0
+2019,Thriller,90,United States,6.0,6.0,3,0,0,0,0,0
+2019,Romantic,86,Canada,5.8,6.0,5,0,0,0,0,0
+2020,Horror,137,United States,5.1,6.0,21,0,0,0,0,0
+2021,Action,92,United States,5.7,6.0,112,0,0,0,0,0
+2019,Thriller,93,Great Britain,3.6,4.0,8,0,0,0,0,0
+2021,Drama,112,France,5.6,6.0,23,0,0,0,0,0
+2021,Drama,109,"France, Germany, Israel",5.4,6.0,7,0,0,0,0,0
+2020,Drama,87,France,4.8,5.0,32,0,0,0,0,0
+2021,Comedy,107,France,6.6,6.0,16,0,0,0,0,0
+2020,Horror,87,Spain,5.9,6.0,26,0,0,0,0,0
+2020,Documentary,43,France,4.8,4.0,3,0,0,0,0,0
+2020,Thriller,106,United States,5.6,6.0,70,0,0,0,0,0
+2019,Fantasy,110,Russia,5.3,5.0,12,0,0,0,0,0
+2020,Comedy,94,Italy,4.5,6.0,22,0,0,0,0,0
+2019,Sperimental,84,Spain,6.9,7.0,8,0,0,0,0,0
+2021,Drama,145,Russia,4.5,3.0,4,0,0,0,0,0
+2020,Drama,96,Norway,4.1,4.0,7,0,0,0,0,0
+2019,Thriller,87,United States,5.7,6.0,3,0,0,0,0,0
+2021,Action,104,Norway,5.7,6.0,20,0,0,0,0,0
+2021,Comedy,105,Norway,6.4,6.0,23,0,0,0,0,0
+2020,Comedy,114,Argentina,6.3,6.0,67,0,0,0,0,0
+2020,Action,115,United States,6.4,6.0,38,0,0,0,0,0
+2020,Thriller,102,United States,5.3,5.0,14,0,0,0,0,0
+2020,Animation,86,"Czech Republic, France, Belgium, Slovakia",5.9,6.0,5,0,0,0,0,0
+2020,Drama,90,France,7.3,8.0,3,0,0,0,0,0
+2020,Drama,98,United States,6.4,6.0,34,0,0,0,0,0
+2020,Drama,87,Belgium,6.3,6.0,22,0,0,0,0,0
+2021,Comedy,99,Great Britain,5.1,5.0,30,0,0,0,0,0
+2020,Drama,99,Italy,6.1,5.0,26,0,0,0,0,0
+2020,Drama,90,"Greece, Poland",5.6,6.0,27,0,0,0,0,0
+2021,Drama,98,"France, Egypt",7.0,6.0,14,0,0,0,0,0
+2021,Drama,102,"France, Tunisia",6.7,7.0,17,0,0,0,0,0
+2021,Drama,99,France,7.8,9.0,3,0,0,0,0,0
+2019,Thriller,87,United States,5.6,6.0,5,0,0,0,0,0
+2019,Thriller,87,United States,4.9,5.0,7,0,0,0,0,0
+2020,Drama,100,Italy,6.1,6.0,102,0,0,0,0,0
+2020,Horror,114,South Korea,5.1,5.0,44,0,0,0,0,0
+2020,Thriller,103,Spain,6.5,6.0,56,0,0,0,0,0
+2020,Thriller,106,Spain,4.6,5.0,16,0,0,0,0,0
+2020,Comedy,129,Spain,6.0,6.0,17,0,0,0,0,0
+2020,Documentary,86,Brazil,6.8,7.0,3,0,0,0,0,0
+2019,Drama,91,Great Britain,5.6,5.0,7,0,0,0,0,0
+2020,Romantic,90,"United States, Canada",4.6,5.0,5,0,0,0,0,0
+2020,Sci-Fi,104,United States,7.5,7.0,9,0,0,0,0,0
+2020,Comedy,71,United States,6.8,7.0,36,0,0,0,0,0
+2019,Horror,97,"Bulgaria, United States, Great Britain",5.3,5.0,11,0,0,0,0,0
+2020,Drama,98,United States,5.2,5.0,10,0,0,0,0,0
+2020,Drama,83,United States,4.8,5.0,11,0,0,0,0,0
+2020,Drama,105,Mexico,6.0,4.0,4,0,0,0,0,0
+2019,Thriller,85,United States,5.2,5.0,5,0,0,0,0,0
+2019,Thriller,89,United States,4.8,5.0,5,0,0,0,0,0
+2020,Drama,83,United States,5.9,6.0,7,0,0,0,0,0
+2020,Thriller,80,France,4.5,5.0,11,0,0,0,0,0
+2020,Drama,88,Mexico,6.5,6.0,34,0,0,0,0,0
+2021,Drama,97,France,6.0,5.0,30,1,2,3,1,1
+2021,Comedy,144,France,7.1,7.0,65,0,0,0,0,0
+2019,Horror,96,Belgium,4.3,5.0,4,0,0,0,0,0
+2020,Comedy,104,United States,5.4,5.0,11,0,0,0,0,0
+2021,Thriller,106,Spain,6.0,6.0,39,0,0,0,0,0
+2021,Drama,87,"Chad, France, Germany",6.8,7.0,9,0,0,0,0,0
+2019,Thriller,90,United States,4.0,4.0,3,0,0,0,0,0
+2020,Horror,92,United States,5.0,5.0,11,0,0,0,0,0
+2020,Thriller,83,United States,4.7,5.0,28,0,0,0,0,0
+2020,Thriller,93,"United States, Canada",5.6,6.0,29,0,0,0,0,0
+2020,Comedy,84,United States,6.9,7.0,5,0,0,0,0,0
+2020,Sci-Fi,100,"United States, Canada",5.9,6.0,14,0,0,0,0,0
+2020,Drama,156,United States,5.7,6.0,62,0,0,0,0,0
+2020,Drama,87,Chile,6.7,6.0,40,0,0,0,0,0
+2019,Drama,90,"Germany, Canada",3.8,4.0,5,0,0,0,0,0
+2020,Documentary,73,France,6.7,7.0,7,0,0,0,0,0
+2020,Horror,100,United States,6.0,5.0,21,0,0,0,0,0
+2020,Horror,93,United States,5.7,5.0,33,0,0,0,0,0
+2020,Horror,106,United States,6.2,6.0,4,0,0,0,0,0
+2020,Sci-Fi,107,Russia,6.2,6.0,105,0,0,0,0,0
+2019,Drama,132,Turkey,6.4,6.0,5,0,0,0,0,0
+2019,Comedy,101,Great Britain,6.3,6.0,4,0,0,0,0,0
+2020,Action,90,United States,5.6,6.0,144,0,0,0,0,0
+2020,Drama,98,Germany,5.9,6.0,8,0,0,0,0,0
+2020,Action,90,United States,5.0,5.0,5,0,0,0,0,0
+2020,Drama,109,United States,5.0,5.0,4,0,0,0,0,0
+2020,Comedy,104,United States,6.4,6.0,5,0,0,0,0,0
+2020,Comedy,110,Great Britain,5.5,6.0,4,0,0,0,0,0
+2020,Animation,97,Canada,5.2,5.0,16,0,0,0,0,0
+2020,Drama,91,United States,6.6,7.0,21,0,0,0,0,0
+2020,Thriller,88,United States,4.7,5.0,6,0,0,0,0,0
+2020,Thriller,83,Canada,5.9,6.0,23,0,0,0,0,0
+2019,Documentary,52,France,6.3,6.0,8,0,0,0,0,0
+2020,Comedy,101,"United States, Mexico",5.0,5.0,6,0,0,0,0,0
+2020,Documentary,93,Italy,6.5,6.0,18,0,0,0,0,0
+2020,Documentary,56,Italy,5.7,6.0,7,0,0,0,0,0
+2020,Documentary,100,United States,7.3,7.0,4,0,0,0,0,0
+2020,Horror,82,Mexico,4.7,3.0,4,0,0,0,0,0
+2020,Thriller,94,United States,5.3,6.0,15,0,0,0,0,0
+2020,Drama,121,United States,5.3,6.0,13,0,0,0,0,0
+2020,Comedy,89,United States,5.1,5.0,10,0,0,0,0,0
+2020,Thriller,90,United States,4.0,4.0,26,0,0,0,0,0
+2019,Biography,98,Hungary,4.3,4.0,3,0,0,0,0,0
+2019,Thriller,90,United States,5.7,6.0,3,0,0,0,0,0
+2020,Thriller,90,United States,5.2,5.0,5,0,0,0,0,0
+2019,Thriller,90,United States,5.0,5.0,3,0,0,0,0,0
+2019,Action,89,United States,2.0,2.0,4,0,0,0,0,0
+2020,Comedy,104,Brazil,5.0,5.0,5,0,0,0,0,0
+2020,Drama,100,Italy,3.8,6.0,10,0,0,0,0,0
+2021,Drama,75,Italy,6.8,8.0,5,0,0,0,0,0
+2020,Thriller,89,United States,4.8,5.0,8,0,0,0,0,0
+2020,Thriller,87,United States,4.6,5.0,15,0,0,0,0,0
+2020,Fantasy,97,United States,5.1,4.0,7,0,0,0,0,0
+2020,Horror,86,United States,5.3,6.0,3,0,0,0,0,0
+2020,Horror,61,United States,1.7,1.0,4,0,0,0,0,0
+2020,Drama,93,United States,6.6,7.0,7,0,0,0,0,0
+2021,Drama,103,United States,5.6,6.0,12,0,0,0,0,0
+2020,Romantic,90,Canada,7.0,7.0,3,0,0,0,0,0
+2019,Romantic,90,Canada,5.3,5.0,3,0,0,0,0,0
+2020,Documentary,83,United States,6.7,7.0,3,0,0,0,0,0
+2020,Documentary,90,Italy,4.1,4.0,7,0,0,0,0,0
+2020,Biography,110,Russia,5.2,6.0,13,0,0,0,0,0
+2020,Thriller,123,"United States, Great Britain",5.7,6.0,74,0,0,0,0,0
+2020,Documentary,96,Italy,6.6,7.0,10,0,0,0,0,0
+2019,Thriller,90,United States,6.3,6.0,3,0,0,0,0,0
+2019,Action,106,Poland,2.0,2.0,3,0,0,0,0,0
+2021,Drama,99,Italy,5.9,5.0,27,0,0,0,0,0
+2022,Drama,87,Italy,7.8,10.0,3,0,0,0,0,0
+2020,Documentary,85,United States,7.3,7.0,6,0,0,0,0,0
+2020,Adventure,80,United States,5.7,6.0,3,0,0,0,0,0
+2020,Animation,85,"United States, China",5.9,5.0,19,0,0,0,0,0
+2020,Thriller,90,United States,3.5,4.0,16,0,0,0,0,0
+2021,Super-hero,90,United States,4.2,5.0,87,0,0,0,0,0
+2020,Comedy,91,United States,3.8,4.0,6,0,0,0,0,0
+2020,Thriller,86,Australia,5.3,5.0,24,0,0,0,0,0
+2019,Drama,96,South Korea,6.0,7.0,11,0,0,0,0,0
+2021,Sci-Fi,108,United States,5.4,6.0,49,0,0,0,0,0
+2019,Drama,90,Germany,1.0,1.0,3,0,0,0,0,0
+2020,Drama,104,United States,4.0,4.0,3,0,0,0,0,0
+2020,Thriller,116,Argentina,4.9,5.0,7,0,0,0,0,0
+2020,Animation,104,Japan,5.5,6.0,7,0,0,0,0,0
+2020,Horror,92,United States,6.4,6.0,16,0,0,0,0,0
+2020,Comedy,96,United States,5.3,5.0,4,0,0,0,0,0
+2020,Comedy,123,United States,5.3,6.0,35,0,0,0,0,0
+2020,Romantic,90,"United States, Canada",6.3,6.0,3,0,0,0,0,0
+2020,Crime,116,France,5.4,5.0,27,0,0,0,0,0
+2020,Comedy,87,France,5.5,6.0,11,0,0,0,0,0
+2021,Drama,84,France,5.4,5.0,5,0,0,0,0,0
+2020,Comedy,105,United States,4.2,4.0,5,0,0,0,0,0
+2020,Thriller,90,United States,3.6,4.0,17,0,0,0,0,0
+2019,Thriller,73,Italy,4.3,4.0,12,0,0,0,0,0
+2020,Thriller,92,France,6.4,6.0,24,0,0,0,0,0
+2020,Thriller,88,United States,5.3,6.0,39,0,0,0,0,0
+2020,Comedy,90,"Great Britain, United States",6.2,6.0,9,0,0,0,0,0
+2019,Thriller,90,Canada,5.8,6.0,4,0,0,0,0,0
+2020,Comedy,97,Taiwan,7.3,8.0,9,0,0,0,0,0
+2020,Thriller,180,Germany,4.3,4.0,3,0,0,0,0,0
+2020,Comedy,102,Italy,3.9,4.0,43,0,0,0,0,0
+2019,Thriller,90,United States,5.4,5.0,7,0,0,0,0,0
+2020,Comedy,97,United States,6.1,6.0,42,0,0,0,0,0
+2020,Animation,82,Japan,5.5,6.0,17,0,0,0,0,0
+2020,Biography,136,Colombia,6.5,6.0,27,0,0,0,0,0
+2020,Drama,100,Sweden,5.6,5.0,6,0,0,0,0,0
+2020,Drama,100,France,6.8,7.0,5,0,0,0,0,0
+2020,Drama,107,Canada,5.5,6.0,4,0,0,0,0,0
+2020,Drama,103,United States,6.2,6.0,16,0,0,0,0,0
+2020,Drama,130,Georgia,6.7,5.0,9,0,0,0,0,0
+2020,Drama,87,Brazil,6.6,5.0,9,0,0,0,0,0
+2020,Drama,95,France,4.8,6.0,13,0,0,0,0,0
+2020,Animation,80,France,6.6,7.0,5,0,0,0,0,0
+2020,Thriller,89,United States,3.8,4.0,4,0,0,0,0,0
+2020,Drama,89,Great Britain,7.2,7.0,41,0,0,0,0,0
+2021,Biography,101,France,7.0,6.0,3,0,0,0,0,0
+2020,Documentary,82,Italy,6.3,6.0,4,0,0,0,0,0
+2022,Drama,116,France,7.0,7.0,34,0,0,0,0,0
+2019,War,98,United States,4.3,4.0,6,0,0,0,0,0
+2019,Action,109,China,4.0,4.0,6,0,0,0,0,0
+2020,Drama,114,Poland,2.3,3.0,27,0,0,0,0,0
+2019,Documentary,75,Italy,6.2,6.0,5,0,0,0,0,0
+2020,Documentary,70,"United States, Italy",5.7,6.0,3,0,0,0,0,0
+2020,Documentary,83,United States,5.7,5.0,13,0,0,0,0,0
+2019,Drama,123,"China, Singapore",7.0,8.0,3,0,0,0,0,0
+2019,Drama,118,China,3.5,3.0,3,0,0,0,0,0
+2019,Action,99,"China, Hong Kong",4.5,4.0,4,0,0,0,0,0
+2020,Romantic,107,Japan,7.3,9.0,3,0,0,0,0,0
+2020,Romantic,123,Japan,7.0,8.0,4,0,0,0,0,0
+2019,Comedy,82,Philippines,5.3,5.0,4,0,0,0,0,0
+2020,Thriller,114,South Korea,6.0,6.0,7,0,0,0,0,0
+2020,Drama,93,United States,6.3,6.0,11,0,0,0,0,0
+2020,Romantic,108,United States,4.6,5.0,5,0,0,0,0,0
+2020,Horror,88,United States,4.1,4.0,8,0,0,0,0,0
+2020,Comedy,107,United States,5.7,6.0,7,0,0,0,0,0
+2019,Drama,90,Germany,2.0,2.0,3,0,0,0,0,0
+2021,Sci-Fi,115,"Great Britain, United States",6.1,6.0,54,0,0,0,0,0
+2020,Animation,97,United States,6.1,6.0,16,0,0,0,0,0
+2019,Thriller,90,United States,6.0,6.0,3,0,0,0,0,0
+2020,Horror,95,Great Britain,4.6,5.0,15,0,0,0,0,0
+2020,Action,90,United States,4.7,5.0,4,0,0,0,0,0
+2020,Thriller,89,Canada,6.5,6.0,7,0,0,0,0,0
+2021,Thriller,112,United States,7.1,7.0,166,0,0,0,0,0
+2021,Drama,97,"Vietnam, Singapore, France, Thailand, Germany",6.4,6.0,5,0,0,0,0,0
+2021,Drama,97,Russia,6.5,6.0,14,0,0,0,0,0
+2021,Horror,91,Finland,5.2,6.0,30,0,0,0,0,0
+2021,Animation,94,"France, Belgium",6.4,7.0,19,0,0,0,0,0
+2021,Drama,120,Italy,6.2,6.0,50,0,0,0,0,0
+2019,Thriller,86,United States,3.6,4.0,13,0,0,0,0,0
+2020,Adventure,102,France,6.5,7.0,6,0,0,0,0,0
+2020,Action,90,"Netherlands, Great Britain, Poland, Ukraine, United States",3.8,4.0,8,0,0,0,0,0
+2020,Drama,103,"France, Switzerland",7.0,7.0,4,0,0,0,0,0
+2020,Biography,160,United States,6.2,7.0,8,0,0,0,0,0
+2020,Biography,107,"Italy, Belgium",6.0,6.0,68,0,0,0,0,0
+2020,Documentary,100,"Italy, France, Germany",6.0,7.0,26,0,0,0,0,0
+2020,Horror,97,United States,5.3,5.0,26,0,0,0,0,0
+2020,Documentary,75,Italy,5.2,6.0,13,0,0,0,0,0
+2020,Horror,94,India,6.5,6.0,3,0,0,0,0,0
+2019,Romantic,90,Germany,2.8,3.0,8,0,0,0,0,0
+2020,Comedy,96,France,4.8,5.0,10,0,0,0,0,0
+2020,Drama,111,United States,6.6,7.0,15,0,0,0,0,0
+2020,Drama,129,United States,6.1,6.0,12,0,0,0,0,0
+2020,Drama,111,"Great Britain, United States",6.1,6.0,14,0,0,0,0,0
+2020,Drama,90,United States,6.1,7.0,17,0,0,0,0,0
+2020,Drama,115,Spain,6.8,6.0,10,0,0,0,0,0
+2020,Biography,120,"Germany, Czech Republic",6.5,6.0,15,0,0,0,0,0
+2020,Comedy,102,United States,5.7,6.0,40,0,0,0,0,0
+2020,Thriller,95,United States,3.8,4.0,17,0,0,0,0,0
+2019,Documentary,87,Great Britain,6.0,6.0,3,0,0,0,0,0
+2020,Drama,100,United States,5.7,6.0,3,0,0,0,0,0
+2020,Comedy,103,United States,3.5,4.0,7,0,0,0,0,0
+2021,Animation,84,"France, Czech Republic, Germany",6.5,8.0,7,0,0,0,0,0
+2020,Thriller,93,France,5.9,6.0,9,0,0,0,0,0
+2020,Thriller,108,Denmark,6.7,7.0,57,0,0,0,0,0
+2019,Thriller,88,United States,4.7,4.0,9,0,0,0,0,0
+2020,Comedy,104,France,5.4,5.0,29,0,0,0,0,0
+2021,Thriller,107,France,6.6,7.0,63,0,0,0,0,0
+2019,Drama,71,Germany,7.2,7.0,5,0,0,0,0,0
+2020,Thriller,90,"Italy, Albania",4.8,5.0,24,0,0,0,0,0
+2019,Drama,95,Turkey,8.5,10.0,3,0,0,0,0,0
+2022,Comedy,149,Sweden,6.7,7.0,122,0,0,0,0,0
+2020,Comedy,93,United States,1.8,2.0,4,0,0,0,0,0
+2021,Comedy,90,Italy,4.4,4.0,14,0,0,0,0,0
+2021,Horror,116,Italy,4.6,5.0,53,0,0,0,0,0
+2020,Horror,101,Spain,4.3,4.0,3,0,0,0,0,0
+2019,Horror,116,Great Britain,4.4,4.0,13,0,0,0,0,0
+2020,Sci-Fi,105,Canada,5.6,6.0,25,0,0,0,0,0
+2020,Sci-Fi,99,South Africa,6.8,6.0,4,0,0,0,0,0
+2020,Horror,115,Hungary,6.2,6.0,35,0,0,0,0,0
+2020,Horror,80,Argentina,5.8,5.0,3,0,0,0,0,0
+2020,Sci-Fi,111,United States,5.1,5.0,39,0,0,0,0,0
+2020,Comedy,93,United States,4.0,4.0,6,0,0,0,0,0
+2020,Comedy,90,United States,6.0,6.0,25,0,0,0,0,0
+2021,Romantic,115,United States,6.0,6.0,9,0,0,0,0,0
+2020,Drama,90,Italy,2.8,2.0,4,0,0,0,0,0
+2019,Thriller,82,United States,5.5,6.0,4,0,0,0,0,0
+2020,Biography,120,Italy,4.6,4.0,19,0,0,0,0,0
+2021,Biography,100,Italy,4.8,5.0,16,0,0,0,0,0
+2021,Biography,92,Italy,5.3,6.0,8,0,0,0,0,0
+2020,Comedy,100,Italy,6.1,5.0,46,0,0,0,0,0
+2021,Thriller,117,Italy,4.8,5.0,31,0,0,0,0,0
+2020,Thriller,134,United States,7.0,7.0,141,0,0,0,0,0
+2020,Sci-Fi,119,United States,4.7,5.0,25,0,0,0,0,0
+2019,Adventure,90,Russia,4.8,5.0,4,0,0,0,0,0
+2020,Comedy,100,United States,5.0,5.0,4,0,0,0,0,0
+2020,Documentary,106,Italy,6.5,7.0,78,0,0,0,0,0
+2021,Comedy,95,Italy,5.1,5.0,46,0,0,0,0,0
+2021,Musical,120,"United States, Great Britain",5.7,6.0,6,0,0,0,0,0
+2020,Drama,90,Spain,6.1,6.0,25,0,0,0,0,0
+2020,Comedy,104,United States,5.3,5.0,29,0,0,0,0,0
+2021,Comedy,120,United States,5.1,6.0,26,0,0,0,0,0
+2020,Thriller,121,Spain,5.6,5.0,10,0,0,0,0,0
+2021,Thriller,153,United States,6.0,5.0,89,0,0,0,0,0
+2021,Animation,114,United States,6.5,7.0,64,0,0,0,0,0
+2020,Action,98,United States,3.1,3.0,21,0,0,0,0,0
+2020,Romantic,90,Canada,4.0,4.0,3,0,0,0,0,0
+2021,Drama,90,Italy,6.0,6.0,77,0,0,0,0,0
+2021,Comedy,112,"Italy, Spain",5.6,6.0,58,0,0,0,0,0
+2020,Documentary,96,Italy,5.5,7.0,9,0,0,0,0,0
+2020,Drama,90,Turkey,4.5,5.0,3,0,0,0,0,0
+2020,Drama,101,Ukraine,7.0,8.0,8,0,0,0,0,0
+2020,Thriller,83,United States,5.3,5.0,4,0,0,0,0,0
+2020,Documentary,135,United States,7.4,8.0,6,0,0,0,0,0
+2021,Drama,114,"Brazil, United States",6.9,6.0,35,0,0,0,0,0
+2021,Action,103,"United States, Canada",5.5,6.0,46,0,0,0,0,0
+2020,Drama,90,"Poland, Ireland",7.3,8.0,5,0,0,0,0,0
+2020,Drama,100,"France, Algeria",6.8,7.0,13,0,0,0,0,0
+2020,Drama,90,United States,6.0,6.0,3,0,0,0,0,0
+2020,Drama,95,Hungary,7.3,8.0,6,0,0,0,0,0
+2020,Drama,121,"Serbia, Netherlands, Slovenia, Bosnia and Herzegovina, France",6.0,7.0,6,0,0,0,0,0
+2020,Drama,90,Palestine,6.8,6.0,14,0,0,0,0,0
+2020,Drama,93,"Chile, Argentina, Mexico",6.9,8.0,6,0,0,0,0,0
+2021,Thriller,86,Italy,5.2,5.0,46,0,0,0,0,0
+2020,Drama,129,"Russia, Estonia, Great Britain, Italy",8.3,9.0,3,0,0,0,0,0
+2020,Thriller,99,Argentina,6.4,7.0,25,0,0,0,0,0
+2020,Drama,93,"Poland, Russia, Belgium",5.8,6.0,4,0,0,0,0,0
+2020,Drama,101,"Canada, Belgium, Luxembourg",7.2,9.0,7,0,0,0,0,0
+2020,Drama,78,Italy,5.7,7.0,5,0,0,0,0,0
+2020,Documentary,80,Italy,5.7,6.0,3,0,0,0,0,0
+2019,Drama,85,United States,5.2,5.0,5,0,0,0,0,0
+2019,Thriller,90,United States,5.3,5.0,3,0,0,0,0,0
+2020,Documentary,68,Italy,7.2,7.0,21,0,0,0,0,0
+2020,Comedy,90,Italy,1.9,2.0,50,0,0,0,0,0
+2020,Drama,88,Azerbaijan,7.1,6.0,11,0,0,0,0,0
+2020,Drama,99,Israel,3.7,3.0,5,0,0,0,0,0
+2020,Drama,101,Germany,4.9,5.0,14,0,0,0,0,0
+2020,Drama,116,Japan,7.0,7.0,16,0,0,0,0,0
+2020,Drama,99,Iran,7.1,7.0,35,0,0,0,0,0
+2020,Drama,115,Canada,6.9,7.0,109,0,0,0,0,0
+2020,Drama,113,Poland,6.6,7.0,16,0,0,0,0,0
+2020,Drama,127,India,6.2,6.0,11,0,0,0,0,0
+2020,Drama,101,"Bosnia and Herzegovina, Austria, Romania, Netherlands, Germany, Poland, France, Norway",7.1,7.0,52,0,0,0,0,0
+2020,Comedy,96,Great Britain,6.5,7.0,54,1,1,1,1,1
+2020,Documentary,120,"Italy, United States",5.0,6.0,4,0,0,0,0,0
+2020,Documentary,100,Italy,6.9,7.0,18,0,0,0,0,0
+2020,Documentary,128,"Italy, Switzerland",7.3,7.0,14,0,0,0,0,0
+2020,Documentary,83,Italy,6.5,6.0,4,0,0,0,0,0
+2020,Drama,144,China,5.7,5.0,7,0,0,0,0,0
+2020,Noir,131,South Korea,6.2,7.0,27,0,0,0,0,0
+2020,Drama,100,Poland,2.8,3.0,4,0,0,0,0,0
+2020,Documentary,97,Sweden,6.6,6.0,11,0,0,0,0,0
+2020,Documentary,272,United States,6.8,6.0,10,0,0,0,0,0
+2020,Drama,98,India,5.5,6.0,4,0,0,0,0,0
+2020,Drama,102,Iran,7.7,8.0,9,0,0,0,0,0
+2020,Drama,150,Philippines,7.2,8.0,4,0,0,0,0,0
+2020,Drama,92,"Ivory Coast, France, Canada",7.1,7.0,11,0,0,0,0,0
+2020,Drama,87,"France, Germany, Portugal",5.3,7.0,7,0,0,0,0,0
+2020,Drama,96,"Mexico, France, Colombia",6.3,6.0,13,0,0,0,0,0
+2020,Drama,73,"Portugal, Great Britain",6.0,6.0,3,0,0,0,0,0
+2020,Drama,114,China,7.0,8.0,3,0,0,0,0,0
+2020,Drama,90,"Kazakhstan, France",6.5,6.0,3,0,0,0,0,0
+2020,Drama,95,Finland,5.0,5.0,3,0,0,0,0,0
+2020,Action,105,"Great Britain, South Africa",3.6,4.0,18,0,0,0,0,0
+2021,Animation,95,United States,7.1,7.0,117,0,0,0,0,0
+2020,Action,92,United States,5.8,6.0,60,0,0,0,0,0
+2019,Horror,89,"United States, South Africa, Canada",5.5,5.0,14,0,0,0,0,0
+2020,Drama,110,United States,6.1,6.0,54,0,0,0,0,0
+2020,Drama,138,United States,6.3,7.0,79,0,0,0,0,0
+2021,Comedy,95,Italy,5.5,6.0,71,0,0,0,0,0
+2020,Comedy,92,Great Britain,6.0,6.0,7,0,0,0,0,0
+2020,Thriller,90,"Italy, Ireland",6.1,5.0,39,0,0,0,0,0
+2020,Animation,96,Australia,5.0,5.0,5,0,0,0,0,0
+2021,Comedy,96,"United States, Canada",5.9,6.0,13,0,0,0,0,0
+2019,Thriller,118,United States,3.7,4.0,7,0,0,0,0,0
+2020,Comedy,89,France,5.0,5.0,13,0,0,0,0,0
+2020,Documentary,97,United States,7.8,8.0,12,0,0,0,0,0
+2020,Drama,95,"United States, Australia",6.3,6.0,30,0,0,0,0,0
+2020,Horror,83,New Zealand,4.6,5.0,7,0,0,0,0,0
+2020,Drama,100,Japan,6.8,7.0,3,0,0,0,0,0
+2020,Drama,91,"Germany, Italy",2.9,2.0,7,0,0,0,0,0
+2019,Horror,87,Great Britain,3.6,4.0,25,0,0,0,0,0
+2020,Horror,83,"Ukraine, Gilbert and Ellice Islands",5.1,5.0,23,0,0,0,0,0
+2019,Thriller,77,United States,4.6,5.0,12,0,0,0,0,0
+2019,Drama,156,Kazakhstan,6.1,6.0,12,0,0,0,0,0
+2021,Drama,126,United States,6.6,7.0,96,0,0,0,0,0
+2021,Drama,125,Great Britain,6.8,7.0,164,0,0,0,0,0
+2021,Drama,130,"Great Britain, United States",6.8,7.0,84,0,0,0,0,0
+2020,Drama,130,Great Britain,5.2,5.0,30,0,0,0,0,0
+2019,Thriller,90,United States,4.2,4.0,5,0,0,0,0,0
+2020,Drama,92,United States,5.0,5.0,3,0,0,0,0,0
+2020,Sci-Fi,97,Netherlands,3.0,3.0,5,0,0,0,0,0
+2020,Drama,109,United States,4.5,5.0,29,0,0,0,0,0
+2020,Comedy,110,"Canada, Great Britain",4.9,5.0,21,0,0,0,0,0
+2019,Comedy,77,United States,4.1,3.0,9,0,0,0,0,0
+2019,Thriller,84,United States,4.8,5.0,5,0,0,0,0,0
+2020,Thriller,86,United States,5.0,5.0,8,0,0,0,0,0
+2020,Comedy,100,United States,6.1,6.0,8,0,0,0,0,0
+2019,Thriller,90,Canada,5.7,6.0,13,0,0,0,0,0
+2020,Thriller,90,Canada,4.3,4.0,7,0,0,0,0,0
+2021,Comedy,60,Italy,1.3,1.0,23,0,0,0,0,0
+2020,Comedy,92,Germany,4.2,5.0,14,0,0,0,0,0
+2021,Horror,90,Italy,4.1,4.0,31,0,0,0,0,0
+2020,Drama,100,United States,5.6,6.0,47,0,0,0,0,0
+2020,Thriller,123,United States,4.9,6.0,9,0,0,0,0,0
+2021,Thriller,100,"United States, Canada",6.0,6.0,60,0,0,0,0,0
+2020,Romantic,90,United States,4.8,5.0,4,0,0,0,0,0
+2019,Thriller,86,United States,7.0,7.0,3,0,0,0,0,0
+2020,Comedy,116,Italy,4.3,4.0,39,0,0,0,0,0
+2020,Comedy,121,United States,6.7,6.0,16,0,0,0,0,0
+2020,Thriller,95,United States,5.5,5.0,20,0,0,0,0,0
+2020,War,147,China,5.8,6.0,19,0,0,0,0,0
+2022,Biography,101,"Italy, United States",4.9,5.0,8,0,0,0,0,0
+2020,Drama,92,United States,5.2,5.0,14,0,0,0,0,0
+2020,Animation,103,"Luxembourg, Ireland, United States",7.5,8.0,34,0,0,0,0,0
+2020,Drama,90,France,5.6,5.0,12,0,0,0,0,0
+2020,Comedy,108,Argentina,4.9,5.0,9,0,0,0,0,0
+2020,Thriller,98,United States,6.2,6.0,70,0,0,0,0,0
+2020,Horror,98,South Korea,5.4,6.0,30,0,0,0,0,0
+2020,Comedy,97,United States,4.7,4.0,19,0,0,0,0,0
+2020,Horror,101,United States,5.1,4.0,27,0,0,0,0,0
+2020,Drama,97,Italy,2.4,2.0,7,0,0,0,0,0
+2019,Romantic,84,"Canada, United States",6.7,7.0,3,0,0,0,0,0
+2019,Romantic,90,Germany,2.0,2.0,3,0,0,0,0,0
+2019,Biography,182,Germany,3.6,4.0,5,0,0,0,0,0
+2020,Comedy,94,United States,3.4,4.0,9,0,0,0,0,0
+2020,Thriller,90,"Great Britain, United States",6.4,7.0,5,0,0,0,0,0
+2020,Romantic,90,Germany,2.0,2.0,3,0,0,0,0,0
+2020,Drama,90,Italy,5.7,5.0,4,0,0,0,0,0
+2021,Biography,130,United States,5.9,6.0,36,0,0,0,0,0
+2020,Thriller,93,United States,3.9,4.0,8,0,0,0,0,0
+2021,Comedy,93,Italy,3.9,4.0,16,0,0,0,0,0
+2021,Drama,128,Canada,5.7,6.0,13,0,0,0,0,0
+2020,Drama,131,United States,6.5,7.0,142,0,0,0,0,0
+2021,Drama,110,"Spain, Greece",5.7,6.0,16,0,0,0,0,0
+2020,Horror,125,Italy,3.2,3.0,7,0,0,0,0,0
+2019,Animation,89,"Germany, China, Great Britain",3.3,3.0,4,0,0,0,0,0
+2020,Documentary,85,South Africa,6.6,8.0,25,0,0,0,0,0
+2020,Comedy,104,United States,5.0,5.0,21,0,0,0,0,0
+2020,Comedy,92,Germany,3.3,3.0,4,0,0,0,0,0
+2020,Comedy,98,Germany,4.8,5.0,6,0,0,0,0,0
+2020,Animation,113,Japan,7.5,9.0,3,0,0,0,0,0
+2020,Adventure,102,Germany,3.1,3.0,5,0,0,0,0,0
+2022,Drama,90,Italy,6.7,6.0,48,0,0,0,0,0
+2020,Thriller,108,South Korea,5.9,6.0,17,0,0,0,0,0
+2020,Horror,90,United States,5.1,5.0,51,0,0,0,0,0
+2020,Drama,90,United States,7.3,8.0,3,0,0,0,0,0
+2020,Drama,70,Chile,6.4,7.0,6,0,0,0,0,0
+2021,Grotesque,89,Italy,5.3,5.0,24,0,0,0,0,0
+2021,Drama,105,United States,5.2,6.0,65,0,0,0,0,0
+2020,Comedy,131,United States,4.7,5.0,22,0,0,0,0,0
+2020,Comedy,96,"United States, Canada",3.4,4.0,11,0,0,0,0,0
+2021,Comedy,116,France,5.3,6.0,24,0,0,0,0,0
+2021,Drama,111,"Germany, Austria",5.9,6.0,20,0,0,0,0,0
+2021,Drama,110,Italy,6.6,6.0,48,0,0,0,0,0
+2022,Comedy,112,United States,4.3,5.0,31,0,0,0,0,0
+2020,Comedy,84,United States,2.8,3.0,4,0,0,0,0,0
+2020,Comedy,115,Canada,5.2,5.0,18,0,0,0,0,0
+2021,Comedy,110,Italy,5.2,5.0,111,0,0,0,0,0
+2020,Comedy,94,Italy,2.1,3.0,56,0,0,0,0,0
+2021,Comedy,101,France,5.3,6.0,3,0,0,0,0,0
+2020,Horror,97,United States,3.7,5.0,28,0,0,0,0,0
+2020,Horror,90,United States,5.5,6.0,31,0,0,0,0,0
+2020,Horror,100,United States,5.5,6.0,18,0,0,0,0,0
+2020,Horror,89,United States,4.9,5.0,9,0,0,0,0,0
+2020,Horror,83,United States,6.2,6.0,8,0,0,0,0,0
+2020,Thriller,90,Canada,5.9,6.0,7,0,0,0,0,0
+2020,Drama,116,United States,5.7,6.0,65,0,0,0,0,0
+2021,Drama,140,United States,6.8,7.0,97,0,0,0,0,0
+2021,Sci-Fi,110,Italy,5.8,6.0,69,0,0,0,0,0
+2020,Documentary,82,United States,6.5,7.0,16,0,0,0,0,0
+2020,Thriller,93,Italy,4.2,4.0,22,0,0,0,0,0
+2020,Comedy,111,Mexico,5.4,5.0,8,0,0,0,0,0
+2020,Documentary,83,United States,8.0,7.0,12,0,0,0,0,0
+2020,Comedy,94,United States,5.3,5.0,4,0,0,0,0,0
+2019,War,96,Russia,5.3,6.0,13,0,0,0,0,0
+2020,History,105,Czech Republic,5.8,6.0,12,0,0,0,0,0
+2021,Drama,138,United States,6.3,7.0,77,0,0,0,0,0
+2021,Sci-Fi,140,United States,4.7,5.0,73,0,0,0,0,0
+2020,Horror,85,United States,6.7,5.0,18,0,0,0,0,0
+2020,Horror,86,Norway,4.9,5.0,24,0,0,0,0,0
+2020,Romantic,103,United States,5.5,6.0,21,0,0,0,0,0
+2020,Musical,122,United States,5.7,5.0,4,0,0,0,0,0
+2020,Musical,94,United States,6.1,6.0,49,0,0,0,0,0
+2021,Drama,106,Great Britain,6.5,7.0,5,0,0,0,0,0
+2020,History,130,Russia,6.2,6.0,35,0,0,0,0,0
+2021,Drama,108,United States,6.3,6.0,54,0,0,0,0,0
+2021,Biography,119,United States,5.2,5.0,26,0,0,0,0,0
+2020,Thriller,90,United States,4.0,4.0,22,0,0,0,0,0
+2020,Romantic,87,United States,2.9,3.0,9,0,0,0,0,0
+2020,Thriller,118,Great Britain,5.6,6.0,9,0,0,0,0,0
+2021,Thriller,121,United States,5.8,6.0,187,0,0,0,0,0
+2020,Comedy,97,Canada,5.7,6.0,20,0,0,0,0,0
+2020,Horror,95,United States,4.7,4.0,14,0,0,0,0,0
+2021,Comedy,121,Norway,6.8,7.0,111,0,0,0,0,0
+2020,Horror,84,Canada,2.8,3.0,9,0,0,0,0,0
+2020,Horror,97,United States,5.9,6.0,34,0,0,0,0,0
+2020,Documentary,70,Italy,7.0,7.0,3,0,0,0,0,0
+2020,Thriller,90,Italy,6.1,6.0,11,0,0,0,0,0
+2019,Romantic,87,United States,4.0,4.0,4,0,0,0,0,0
+2020,Sci-Fi,134,Russia,5.8,6.0,14,0,0,0,0,0
+2019,War,108,Russia,6.0,6.0,9,0,0,0,0,0
+2021,Drama,112,France,5.6,6.0,13,0,0,0,0,0
+2021,Comedy,103,Italy,4.5,4.0,14,0,0,0,0,0
+2021,Drama,99,Italy,5.4,6.0,10,0,0,0,0,0
+2020,Comedy,95,United States,5.7,6.0,82,0,0,0,0,0
+2020,Horror,107,United States,5.5,6.0,13,0,0,0,0,0
+2020,Documentary,108,United States,6.3,7.0,5,0,0,0,0,0
+2020,Action,90,United States,3.8,4.0,10,0,0,0,0,0
+2020,Horror,110,Russia,3.8,5.0,20,0,0,0,0,0
+2020,Sci-Fi,95,United States,3.0,3.0,3,0,0,0,0,0
+2019,Action,98,China,5.5,6.0,4,0,0,0,0,0
+2020,Documentary,79,Italy,7.3,7.0,4,0,0,0,0,0
+2020,Documentary,53,Italy,6.4,6.0,9,0,0,0,0,0
+2020,Documentary,155,United States,7.0,8.0,3,0,0,0,0,0
+2020,Drama,106,Nigeria,6.0,6.0,4,0,0,0,0,0
+2020,Thriller,108,United States,4.3,4.0,13,0,0,0,0,0
+2020,Documentary,65,Italy,6.7,7.0,10,0,0,0,0,0
+2020,Documentary,104,Italy,7.4,8.0,10,0,0,0,0,0
+2020,Sperimental,70,Italy,7.3,7.0,4,0,0,0,0,0
+2020,Horror,85,Russia,7.0,7.0,3,0,0,0,0,0
+2020,Horror,91,Canada,2.8,4.0,14,0,0,0,0,0
+2020,Horror,107,Denmark,4.5,5.0,20,0,0,0,0,0
+2020,Horror,90,France,5.0,5.0,37,0,0,0,0,0
+2020,Thriller,94,"Canada, United States",3.8,4.0,23,0,0,0,0,0
+2020,Documentary,77,Italy,5.2,7.0,8,0,0,0,0,0
+2020,Fantasy,102,United States,3.9,5.0,16,0,0,0,0,0
+2020,Horror,105,"United States, Iran",5.5,5.0,13,0,0,0,0,0
+2020,Comedy,99,"Great Britain, Canada, United States",4.9,5.0,33,0,0,0,0,0
+2020,Horror,91,United States,5.9,5.0,18,0,0,0,0,0
+2020,Comedy,97,United States,4.7,5.0,11,0,0,0,0,0
+2020,Comedy,95,United States,2.2,2.0,5,0,0,0,0,0
+2020,Romantic,95,United States,4.7,5.0,3,0,0,0,0,0
+2021,Drama,106,Italy,5.1,5.0,85,0,0,0,0,0
+2021,Biography,142,Italy,6.6,6.0,51,0,0,0,0,0
+2021,Animation,93,"United States, Great Britain, Canada",5.5,6.0,19,0,0,0,0,0
+2019,Comedy,90,"United States, Canada",3.0,3.0,3,0,0,0,0,0
+2020,Documentary,109,Mexico,7.3,7.0,3,0,0,0,0,0
+2020,Horror,110,Great Britain,4.6,4.0,14,0,0,0,0,0
+2021,Documentary,110,Italy,4.3,4.0,3,0,0,0,0,0
+2020,Horror,90,United States,4.3,4.0,7,0,0,0,0,0
+2020,Horror,88,Great Britain,5.3,5.0,3,0,0,0,0,0
+2021,Biography,112,Great Britain,6.5,7.0,81,0,0,0,0,0
+2021,Comedy,90,Italy,2.8,3.0,31,0,0,0,0,0
+2020,Romantic,90,United States,5.7,6.0,3,0,0,0,0,0
+2020,Romantic,90,United States,5.0,5.0,3,0,0,0,0,0
+2020,Romantic,90,United States,5.5,6.0,4,0,0,0,0,0
+2021,Comedy,100,"Canada, United States",5.9,6.0,21,0,0,0,0,0
+2021,Drama,118,Belgium,6.0,7.0,6,0,0,0,0,0
+2020,Thriller,87,Canada,5.0,5.0,3,0,0,0,0,0
+2020,Drama,120,United States,5.6,6.0,25,0,0,0,0,0
+2021,Drama,107,United States,4.3,4.0,12,0,0,0,0,0
+2020,Thriller,92,United States,5.1,5.0,11,0,0,0,0,0
+2021,Drama,110,Italy,7.0,7.0,56,0,0,0,0,0
+2020,Romantic,93,United States,5.3,5.0,3,0,0,0,0,0
+2021,Biography,126,"United States, Canada",5.3,6.0,36,0,0,1,0,0
+2021,Drama,117,Great Britain,5.9,6.0,38,0,0,0,0,0
+2020,Comedy,104,Germany,5.0,5.0,4,0,0,0,0,0
+2020,Horror,102,Poland,4.9,6.0,17,0,0,0,0,0
+2019,Comedy,92,United States,4.7,5.0,6,0,0,0,0,0
+2020,Sci-Fi,98,Great Britain,5.0,4.0,12,0,0,0,0,0
+2020,Sci-Fi,114,Australia,4.4,5.0,17,0,0,0,0,0
+2020,Thriller,90,Canada,4.7,5.0,3,0,0,0,0,0
+2022,Comedy,107,United States,5.3,5.0,45,0,0,0,0,0
+2020,Documentary,83,Italy,6.4,6.0,5,0,0,0,0,0
+2020,Drama,103,Italy,3.2,3.0,7,2,2,2,2,1
+2020,Action,100,Norway,4.6,4.0,6,0,0,0,0,0
+2020,Drama,100,United States,5.7,6.0,6,0,0,0,0,0
+2021,Thriller,88,United States,4.4,5.0,13,0,0,0,0,0
+2020,Drama,94,Switzerland,6.3,7.0,3,0,0,0,0,0
+2020,Horror,93,"Mexico, Spain",6.0,6.0,3,0,0,0,0,0
+2020,Thriller,126,Japan,7.1,7.0,9,0,0,0,0,0
+2020,Thriller,90,"Italy, Chile",5.0,6.0,3,0,0,0,0,0
+2020,Drama,85,"Slovenia, Italy",7.3,7.0,4,0,0,0,0,0
+2022,Adventure,116,United States,4.8,5.0,73,1,2,0,1,0
+2020,Comedy,87,Belgium,5.1,5.0,5,0,0,0,0,0
+2020,Drama,81,Romania,7.8,8.0,8,0,0,0,0,0
+2019,Action,97,China,4.5,5.0,16,0,2,2,1,1
+2021,Comedy,116,United States,3.1,4.0,36,0,0,0,0,0
+2020,Thriller,115,"United States, Australia",6.0,6.0,48,1,2,3,3,2
+2020,Romantic,100,Bulgaria,7.3,9.0,3,0,0,0,0,0
+2020,Thriller,93,"Italy, France",5.5,6.0,6,1,2,3,3,2
+2021,Comedy,97,Italy,4.6,4.0,24,1,1,2,0,0
+2020,Documentary,61,Italy,7.0,7.0,9,0,0,0,0,0
+2021,Drama,125,India,6.8,7.0,62,0,0,0,0,0
+2020,Drama,84,Argentina,4.5,4.0,4,0,0,0,0,0
+2020,Drama,93,Austria,5.4,6.0,10,0,1,1,0,0
+2020,Documentary,111,United States,6.8,7.0,5,0,0,0,0,0
+2020,Drama,100,"United States, Great Britain, South Africa, Germany, France",5.3,5.0,4,0,0,0,0,0
+2020,Action,108,China,4.7,4.0,13,0,0,0,0,0
+2021,Horror,82,United States,5.0,5.0,28,0,0,0,0,0
+2020,Comedy,90,Netherlands,4.8,5.0,4,0,0,0,0,0
+2021,Comedy,97,Italy,2.4,3.0,6,0,0,0,0,0
+2020,Horror,90,France,6.2,6.0,12,0,0,0,0,0
+2021,Thriller,101,Italy,4.8,5.0,7,0,0,0,0,0
+2020,Romantic,107,United States,5.0,6.0,6,0,0,0,0,0
+2020,Romantic,90,United States,4.8,5.0,4,0,0,0,0,0
+2020,Romantic,90,"United States, Canada",5.4,5.0,9,0,0,0,0,0
+2020,Documentary,129,United States,8.1,8.0,9,0,0,0,0,0
+2021,Horror,107,"United States, Great Britain",5.1,6.0,10,0,0,0,0,0
+2020,Romantic,90,United States,5.0,5.0,5,0,0,0,0,0
+2020,Drama,95,Italy,5.7,5.0,19,0,0,0,0,0
+2021,Action,90,Italy,3.8,3.0,6,0,0,0,0,0
+2020,Thriller,84,United States,5.3,5.0,3,0,0,0,0,0
+2019,War,104,Latvia,5.7,6.0,12,0,0,0,0,0
+2021,Thriller,114,"United States, France",5.5,6.0,34,0,0,0,0,0
+2020,Drama,82,Italy,5.5,6.0,25,0,0,0,0,0
+2020,Thriller,97,"Iran, Canada",6.9,7.0,13,0,0,0,0,0
+2020,Drama,95,China,6.5,7.0,3,0,0,0,0,0
+2020,Drama,117,South Africa,6.0,6.0,4,0,0,0,0,0
+2020,Documentary,60,Italy,6.6,7.0,7,0,0,0,0,0
+2020,Documentary,58,Italy,7.2,6.0,4,0,0,0,0,0
+2021,Drama,80,"Italy, United States",2.2,2.0,8,0,0,0,0,0
+2020,Fantasy,110,United States,4.3,4.0,4,0,0,0,0,0
+2020,Documentary,89,Italy,6.5,7.0,4,0,0,0,0,0
+2020,Fantasy,100,United States,5.3,4.0,10,0,0,0,0,0
+2021,Drama,117,Italy,7.3,7.0,173,0,0,1,1,0
+2020,Biography,122,United States,6.0,6.0,5,0,0,0,0,0
+2019,Fantasy,90,Russia,6.4,7.0,5,0,0,0,0,0
+2020,Comedy,90,United States,4.5,5.0,4,0,0,0,0,0
+2020,Comedy,100,Brazil,5.0,5.0,8,0,0,0,0,0
+2020,Thriller,105,Germany,3.3,4.0,7,0,0,0,0,0
+2020,Thriller,112,South Korea,6.2,6.0,23,0,0,0,0,0
+2020,Romantic,87,Canada,4.3,4.0,8,0,0,0,0,0
+2020,Horror,80,Italy,4.4,3.0,6,0,0,0,0,0
+2021,Comedy,101,United States,3.8,5.0,26,0,0,0,0,0
+2020,Thriller,85,United States,3.6,3.0,6,0,0,0,0,0
+2019,Thriller,85,United States,4.3,4.0,3,0,0,0,0,0
+2022,Horror,115,United States,5.7,6.0,70,0,0,0,0,0
+2020,Comedy,94,Finland,6.7,7.0,3,0,0,0,0,0
+2020,Comedy,91,Great Britain,4.3,4.0,4,0,0,0,0,0
+2021,Drama,105,France,6.7,7.0,56,0,0,0,0,0
+2021,Thriller,98,"Belgium, France",5.2,5.0,12,0,0,0,0,0
+2021,Action,111,United States,5.9,6.0,16,0,0,0,0,0
+2020,Drama,100,Italy,5.3,5.0,7,0,0,0,0,0
+2019,Thriller,84,United States,4.6,5.0,7,0,0,0,0,0
+2021,Animation,102,United States,4.4,5.0,13,0,0,0,0,0
+2020,Horror,90,Canada,4.8,6.0,17,0,0,0,0,0
+2020,Sci-Fi,131,Australia,4.5,5.0,6,0,0,0,0,0
+2021,Drama,130,Italy,7.1,7.0,283,2,2,3,2,2
+2020,Action,94,United States,6.0,6.0,13,0,2,1,1,0
+2020,Romantic,90,United States,2.0,2.0,3,0,0,0,0,0
+2020,Romantic,84,United States,4.8,5.0,4,0,0,0,0,0
+2020,Romantic,84,United States,4.0,4.0,3,0,0,0,0,0
+2020,Romantic,88,United States,7.0,7.0,3,0,0,0,0,0
+2020,Romantic,87,United States,3.8,4.0,6,0,0,0,0,0
+2020,Romantic,106,United States,6.0,6.0,5,0,0,0,0,0
+2020,Drama,118,China,7.3,8.0,6,0,0,0,0,0
+2020,Romantic,90,Canada,4.7,5.0,3,0,0,0,0,0
+2020,Romantic,90,Canada,3.0,3.0,6,0,0,0,0,0
+2020,Romantic,90,United States,5.0,5.0,4,0,0,0,0,0
+2020,Adventure,100,Austria,5.2,5.0,16,0,0,0,0,0
+2021,Thriller,86,Sweden,5.3,6.0,29,0,0,0,0,0
+2021,Romantic,110,Canada,5.4,6.0,9,0,0,0,0,0
+2020,Action,95,China,6.5,7.0,4,0,0,0,0,0
+2021,Animation,98,"China, United States",6.3,7.0,9,0,0,0,0,0
+2020,War,124,Netherlands,7.0,7.0,36,0,0,0,0,0
+2020,Adventure,120,Hong Kong,4.8,5.0,3,0,0,0,0,0
+2021,Comedy,118,Great Britain,5.8,6.0,31,0,0,0,0,0
+2021,Comedy,105,Italy,5.7,6.0,24,0,0,0,0,0
+2019,Action,84,China,5.0,5.0,3,0,0,0,0,0
+2020,Romantic,90,Canada,5.0,5.0,3,0,0,0,0,0
+2020,Romantic,90,United States,4.8,5.0,4,0,0,0,0,0
+2021,Comedy,95,Italy,4.4,5.0,39,0,0,0,0,0
+2020,Action,90,United States,4.3,4.0,16,0,0,0,0,0
+2020,Thriller,105,"Great Britain, France",2.8,3.0,6,0,0,0,0,0
+2021,Sci-Fi,148,United States,5.3,6.0,122,0,0,0,0,0
+2021,Action,132,United States,6.6,7.0,121,0,0,0,0,0
+2020,Horror,87,United States,3.3,3.0,3,0,0,0,0,0
+2021,Comedy,106,Italy,5.7,6.0,33,0,0,0,0,0
+2020,Horror,57,Great Britain,5.3,6.0,9,0,0,0,0,0
+2021,Drama,103,Netherlands,4.8,5.0,4,0,0,0,0,0
+2020,History,96,"United States, Spain",3.5,4.0,4,0,0,0,0,0
+2021,Adventure,95,United States,4.6,5.0,7,0,0,0,0,0
+2020,Romantic,90,"France, Bulgaria",7.7,8.0,3,0,0,0,0,0
+2021,Drama,110,Italy,5.5,5.0,18,0,0,0,0,0
+2021,Comedy,98,Italy,3.3,4.0,19,0,0,0,0,0
+2021,Drama,89,United States,6.9,6.0,23,0,0,0,0,0
+2021,Drama,98,United States,5.9,6.0,24,0,0,0,0,0
+2020,Romantic,88,United States,4.0,4.0,3,0,0,0,0,0
+2021,Documentary,140,United States,5.9,8.0,6,0,0,0,0,0
+2021,Romantic,104,Italy,4.1,5.0,8,0,0,0,0,0
+2021,Comedy,91,France,4.8,6.0,5,0,0,0,0,0
+2021,Biography,140,"Czech Republic, Italy",4.8,5.0,6,0,0,0,0,0
+2021,Comedy,89,United States,3.3,3.0,3,0,0,0,0,0
+2021,Sci-Fi,82,United States,5.4,4.0,9,0,0,0,0,0
+2021,Drama,110,United States,7.0,7.0,39,0,0,0,0,0
+2021,Adventure,90,United States,6.0,6.0,3,0,0,0,0,0
+2021,Comedy,110,Italy,5.7,6.0,78,0,0,0,0,0
+2021,Comedy,90,Italy,5.7,4.0,18,0,0,0,0,0
+2021,Animation,114,United States,5.8,6.0,28,0,0,0,0,0
+2021,Thriller,127,United States,5.8,6.0,101,0,0,0,0,0
+2021,Drama,110,United States,6.5,6.0,4,0,0,0,0,0
+2021,Documentary,135,Great Britain,7.0,7.0,4,0,0,0,0,0
+2021,Drama,94,United States,7.8,8.0,3,0,0,0,0,0
+2021,Drama,100,United States,5.2,4.0,10,0,0,0,0,0
+2019,Adventure,95,United States,5.0,5.0,6,0,0,0,0,0
+2020,Horror,99,United States,4.4,4.0,14,0,0,0,0,0
+2021,Comedy,90,Italy,4.6,4.0,17,0,0,0,0,0
+2021,Adventure,123,United States,4.8,5.0,10,0,0,0,0,0
+2019,Romantic,90,United States,7.2,7.0,6,0,0,0,0,0
+2020,Romantic,90,United States,2.0,2.0,3,0,0,0,0,0
+2021,Documentary,210,United States,6.8,6.0,15,0,0,0,0,0
+2020,Romantic,88,United States,3.3,3.0,4,0,0,0,0,0
+2020,Romantic,84,United States,4.5,5.0,6,0,0,0,0,0
+2020,Romantic,90,United States,5.0,5.0,4,0,0,0,0,0
+2019,Drama,98,Italy,3.4,3.0,8,0,0,0,0,0
+2021,Biography,100,Italy,5.8,6.0,29,0,0,0,0,0
+2021,Biography,100,Italy,4.9,5.0,20,0,0,0,0,0
+2020,Thriller,90,Canada,5.6,6.0,5,0,0,0,0,0
+2020,Drama,122,Japan,5.6,6.0,24,0,0,0,0,0
+2021,Comedy,90,United States,5.3,6.0,6,0,0,0,0,0
+2021,Drama,102,"Germany, Italy, Denmark",6.0,6.0,6,0,0,0,0,0
+2020,Comedy,70,United States,6.5,7.0,21,0,0,0,0,0
+2020,Thriller,65,Italy,4.4,4.0,5,0,0,0,0,0
+2021,Romantic,85,Italy,4.0,4.0,3,0,0,0,0,0
+2021,Horror,148,United States,5.0,5.0,63,0,0,0,0,0
+2020,Thriller,86,United States,5.6,6.0,7,0,0,0,0,0
+2021,Drama,105,Italy,5.8,5.0,21,0,0,0,0,0
+2021,Drama,73,Argentina,5.8,6.0,6,0,0,0,0,0
+2020,Comedy,79,United States,6.9,7.0,12,0,0,0,0,0
+2021,Drama,84,"Kosovo, Switzerland, Albania, Macedonia",7.5,8.0,7,0,0,0,0,0
+2021,Drama,94,Malta,6.6,7.0,5,0,0,0,0,0
+2021,Drama,136,"United States, Thailand",5.0,7.0,3,0,0,0,0,0
+2021,Thriller,93,Poland,3.3,3.0,7,0,0,0,0,0
+2021,Sci-Fi,103,United States,4.2,5.0,39,0,0,0,0,0
+2021,Drama,107,Italy,4.9,5.0,22,0,0,0,0,0
+2021,Comedy,104,Italy,2.7,3.0,17,0,0,0,0,0
+2023,Comedy,121,Italy,5.3,6.0,51,0,0,0,0,0
+2021,Fantasy,90,United States,5.4,5.0,14,0,0,0,0,0
+2021,Thriller,120,United States,5.5,5.0,47,0,0,0,0,0
+2021,Horror,81,United States,4.2,5.0,13,0,0,0,0,0
+2020,Comedy,96,Poland,5.7,6.0,18,0,0,0,0,0
+2021,Drama,85,Italy,4.9,5.0,7,0,0,0,0,0
+2021,Drama,113,United States,4.9,6.0,6,0,0,0,0,0
+2021,Horror,87,United States,3.3,5.0,8,0,0,0,0,0
+2021,Horror,83,United States,5.0,5.0,15,0,0,0,0,0
+2021,Sci-Fi,108,"Great Britain, United States",5.6,6.0,24,0,0,0,0,0
+2021,Drama,114,France,6.0,7.0,28,0,0,0,0,0
+2021,Sci-Fi,136,South Korea,5.3,5.0,17,0,0,0,0,0
+2021,Thriller,94,United States,3.6,4.0,10,0,0,0,0,0
+2021,Romantic,109,United States,3.8,4.0,5,0,0,0,0,0
+2021,Thriller,96,"Great Britain, United States",5.5,6.0,27,0,0,0,0,0
+2021,Documentary,117,United States,7.5,8.0,4,0,0,0,0,0
+2021,Action,110,"Australia, United States",4.1,5.0,31,0,0,0,0,0
+2021,Action,91,Great Britain,3.6,4.0,10,0,0,0,0,0
+2020,Documentary,100,Italy,2.0,2.0,7,0,0,0,0,0
+2021,Drama,113,France,6.9,7.0,45,0,0,0,0,0
+2020,Biography,105,United States,5.2,5.0,18,0,0,0,0,0
+2021,Romantic,95,Australia,6.3,5.0,21,0,0,0,0,0
+2021,Drama,105,France,5.8,6.0,34,0,0,0,0,0
+2021,Drama,108,"France, Belgium",5.5,6.0,135,0,2,2,2,2
+2022,Drama,116,France,5.8,6.0,20,0,0,0,0,0
+2021,Romantic,101,Poland,5.0,5.0,3,0,0,0,0,0
+2021,Romantic,102,Spain,6.5,6.0,17,0,0,0,0,0
+2021,Drama,100,France,7.1,7.0,88,0,0,0,0,0
+2021,Drama,110,Australia,6.3,7.0,10,0,0,0,0,0
+2021,Drama,114,"Great Britain, France, Belgium",4.9,4.0,8,0,0,0,0,0
+2021,Horror,84,Great Britain,4.9,5.0,22,0,0,0,0,0
+2021,Thriller,93,New Zealand,5.0,5.0,18,0,0,0,0,0
+2021,Thriller,78,Sweden,6.5,6.0,4,0,0,0,0,0
+2021,Horror,107,Canada,6.3,7.0,8,0,0,0,0,0
+2021,Animation,95,United States,6.5,6.0,3,0,0,0,0,0
+2021,Horror,93,"Australia, United States",3.9,4.0,6,0,0,0,0,0
+2021,Horror,92,Canada,5.5,5.0,3,0,0,0,0,0
+2021,Comedy,86,United States,3.8,5.0,18,0,0,0,0,0
+2021,Horror,119,United States,5.0,5.0,41,0,0,0,0,0
+2021,Drama,118,Norway,4.7,5.0,4,0,0,0,0,0
+2021,Documentary,150,Italy,8.4,9.0,115,0,1,1,0,0
+2021,Animation,84,"Peru, Netherlands",4.7,4.0,7,0,0,0,0,0
+2021,Adventure,89,"Germany, Austria",4.2,4.0,5,0,0,0,0,0
+2019,Action,89,Denmark,2.8,3.0,4,0,0,0,0,0
+2021,Drama,100,Italy,6.4,7.0,7,0,0,0,0,0
+2021,Comedy,95,Italy,4.7,5.0,28,0,0,0,0,0
+2022,Comedy,113,Italy,5.6,6.0,90,1,1,1,0,0
+2021,Musical,113,"Great Britain, United States",3.0,4.0,17,0,0,0,0,0
+2021,Romantic,99,Italy,3.1,5.0,8,0,0,0,1,0
+2021,Drama,96,Italy,4.0,4.0,4,0,0,0,0,0
+2021,History,111,"Great Britain, Germany, Chile",6.5,6.0,94,0,1,0,1,0
+2021,Drama,86,United States,4.5,4.0,3,0,0,0,0,0
+2021,Drama,99,Austria,6.5,6.0,18,0,1,1,1,0
+2021,Comedy,85,Spain,5.3,5.0,3,0,0,0,0,0
+2021,Documentary,120,"Ethiopia, United States",6.9,7.0,6,0,0,0,0,0
+2021,Comedy,91,France,4.9,5.0,9,0,0,0,0,0
+2020,Drama,123,China,6.0,6.0,4,0,0,0,0,0
+2020,Documentary,100,United States,7.0,10.0,3,0,0,0,0,0
+2021,Animation,83,"Denmark, France, Sweden, Norway",6.8,7.0,29,0,0,0,0,0
+2021,Documentary,93,Sweden,6.3,8.0,3,0,0,0,0,0
+2021,Comedy,112,Italy,4.9,5.0,13,1,1,1,1,1
+2021,Thriller,118,"Canada, United States",6.3,7.0,25,0,1,1,1,0
+2020,Action,101,United States,5.8,6.0,12,0,0,0,0,0
+2021,Documentary,86,Gilbert and Ellice Islands,7.0,7.0,6,0,0,0,0,0
+2021,Drama,107,China,7.2,7.0,4,0,0,0,0,0
+2021,Drama,100,Spain,5.3,5.0,6,0,0,0,0,0
+2021,Adventure,106,"Great Britain, Czech Republic",6.4,6.0,12,1,1,1,0,0
+2019,Drama,87,United States,4.7,5.0,3,0,0,0,0,0
+2021,Drama,75,Netherlands,6.0,6.0,5,0,0,0,0,0
+2021,Comedy,82,Australia,6.8,7.0,6,1,1,2,0,0
+2021,Comedy,89,Italy,5.3,5.0,4,0,0,0,0,0
+2021,Drama,111,"Macedonia, Kosovo",6.0,8.0,3,0,0,0,0,0
+2021,Drama,124,Japan,7.0,7.0,3,0,0,0,0,0
+2021,Drama,70,Japan,5.9,6.0,7,0,0,0,0,0
+2021,Biography,103,Italy,4.3,5.0,15,0,0,0,0,0
+2021,Sci-Fi,88,United States,2.2,2.0,42,0,0,0,0,0
+2021,Comedy,111,United States,4.5,5.0,13,0,0,0,0,0
+2021,Drama,96,Turkey,4.7,6.0,10,0,0,0,0,0
+2020,Animation,99,Japan,6.6,7.0,11,0,0,0,0,0
+2020,Drama,71,"Germany, Spain, Switzerland",6.5,6.0,3,0,0,0,0,0
+2021,Horror,109,"Germany, United States, Great Britain",6.0,6.0,25,0,0,0,0,0
+2021,Romantic,84,United States,4.3,4.0,8,0,0,0,0,0
+2021,Romantic,84,United States,7.7,8.0,3,0,0,0,0,0
+2021,Horror,87,United States,3.4,4.0,16,0,0,0,0,0
+2021,Romantic,84,"United States, Canada",6.7,7.0,3,0,0,0,0,0
+2019,Drama,87,United States,4.0,4.0,3,0,0,0,0,0
+2019,Thriller,95,Great Britain,4.3,4.0,12,0,0,0,0,0
+2021,Documentary,108,Great Britain,6.7,7.0,3,0,0,0,0,0
+2021,Horror,98,Ireland,5.8,6.0,17,0,0,0,0,0
+2021,Documentary,79,Italy,6.5,6.0,13,0,0,0,0,0
+2021,Sperimental,88,Italy,6.5,5.0,12,0,0,0,0,0
+2021,Thriller,92,"Ireland, Canada",4.0,4.0,10,0,0,0,0,0
+2021,Drama,106,"Romania, Croatia, Czech Republic, Luxembourg",7.0,7.0,53,0,0,0,0,0
+2021,Drama,176,"Germany, Austria",7.0,7.0,4,0,0,0,0,0
+2021,Drama,105,Iran,7.0,7.0,5,0,0,0,0,0
+2021,Romantic,121,Japan,7.0,7.0,73,0,0,0,0,0
+2021,Romantic,102,Germany,6.6,6.0,19,0,0,0,0,0
+2021,Drama,66,South Korea,6.5,7.0,4,0,0,0,0,0
+2021,Drama,72,France,7.0,7.0,40,0,0,0,0,0
+2021,Comedy,150,"Germany, Georgia",7.0,8.0,22,0,0,0,0,0
+2021,Drama,103,"Latvia, Germany, Hungary, France",6.3,7.0,5,0,0,0,0,0
+2021,Drama,107,Mexico,6.8,7.0,3,0,0,0,0,0
+2021,Drama,126,"Germany, Czech Republic",5.9,5.0,5,0,0,0,0,0
+2021,Drama,118,"Hong Kong, China",7.8,8.0,7,0,0,0,0,0
+2021,Sci-Fi,104,Germany,5.3,5.0,36,0,0,0,0,0
+2021,Drama,100,"Argentina, Switzerland, France",7.1,8.0,17,0,0,0,0,0
+2021,Drama,91,United States,5.0,5.0,4,0,0,0,0,0
+2021,Drama,99,Switzerland,6.3,6.0,12,0,0,0,0,0
+2021,Documentary,117,France,5.8,7.0,3,0,0,0,0,0
+2021,Drama,87,Germany,3.5,4.0,6,0,0,0,0,0
+2021,Drama,106,Serbia,7.3,9.0,3,0,0,0,0,0
+2021,Drama,85,France,5.8,6.0,3,0,0,0,0,0
+2021,Sci-Fi,101,"Canada, New Zealand",4.8,6.0,3,0,0,0,0,0
+2021,Drama,118,"Germany, France",7.5,8.0,4,0,0,0,0,0
+2021,Drama,85,Germany,4.8,5.0,7,0,0,0,0,0
+2021,Drama,99,United States,2.0,3.0,10,0,0,0,0,0
+2021,Comedy,124,Italy,6.1,6.0,130,0,0,0,0,0
+2020,Thriller,91,"Great Britain, Malta",4.7,5.0,6,0,0,0,0,0
+2021,Thriller,80,France,5.0,5.0,21,0,0,0,0,0
+2021,Thriller,90,United States,4.1,3.0,15,0,0,0,0,0
+2021,Documentary,75,United States,5.3,6.0,4,0,0,0,0,0
+2021,Biography,91,Italy,5.0,5.0,64,0,0,0,0,0
+2021,Drama,87,United States,3.5,4.0,4,0,0,0,0,0
+2021,Drama,90,United States,5.0,5.0,3,0,0,0,0,0
+2019,Thriller,87,United States,4.0,4.0,4,0,0,0,0,0
+2021,Sci-Fi,240,United States,5.7,6.0,81,0,0,0,0,0
+2021,Drama,91,Italy,5.6,6.0,52,0,0,0,0,0
+2019,Drama,80,"Brazil, France",7.8,8.0,3,0,0,0,0,0
+2021,Action,123,"Great Britain, Hungary, Netherlands, Switzerland",4.8,5.0,10,0,0,0,0,0
+2022,Comedy,96,Italy,3.2,3.0,5,0,0,0,0,0
+2019,History,125,"Ukraine, United States",4.4,5.0,11,0,0,0,0,0
+2020,War,95,United States,4.1,4.0,17,0,0,0,0,0
+2021,Thriller,90,United States,3.2,3.0,5,0,0,0,0,0
+2020,Drama,86,United States,4.3,4.0,6,0,0,0,0,0
+2021,Thriller,90,Italy,1.9,3.0,5,0,0,0,0,0
+2021,Comedy,113,United States,4.3,5.0,3,0,0,0,0,0
+2020,Documentary,80,Italy,7.0,8.0,4,0,0,0,0,0
+2021,Romantic,102,Sweden,4.3,4.0,8,0,0,0,0,0
+2021,Comedy,97,Brazil,4.7,5.0,3,0,0,0,0,0
+2021,Drama,114,France,6.0,7.0,21,0,0,0,0,0
+2021,Romantic,107,"Estonia, Great Britain",6.1,6.0,7,0,0,0,0,0
+2021,Horror,97,Italy,5.1,4.0,5,0,0,0,0,0
+2019,Animation,101,China,6.2,6.0,6,0,0,0,0,0
+2021,Romantic,91,United States,5.9,6.0,8,0,0,0,0,0
+2021,Comedy,108,Italy,5.6,6.0,91,0,0,0,0,0
+2021,Comedy,99,Italy,3.9,4.0,12,0,0,0,0,0
+2021,Comedy,96,Italy,4.9,6.0,18,0,0,0,0,0
+2021,Animation,103,"Russia, United States",6.3,6.0,4,0,0,0,0,0
+2020,Thriller,86,United States,5.8,6.0,4,0,0,0,0,0
+2021,Comedy,99,Italy,4.7,4.0,18,0,0,0,0,0
+2021,Thriller,95,Italy,6.2,6.0,23,0,0,0,0,0
+2021,Comedy,95,Italy,3.8,4.0,31,0,0,0,0,0
+2021,Comedy,105,United States,3.7,3.0,21,0,0,0,0,0
+2021,Comedy,112,"France, Belgium",6.8,7.0,23,0,0,0,0,0
+2021,Comedy,110,Italy,6.5,6.0,61,0,0,0,0,0
+2021,Comedy,82,Finland,6.3,7.0,5,0,0,0,0,0
+2021,Animation,127,Japan,6.7,7.0,24,0,0,0,0,0
+2022,Action,108,United States,4.3,4.0,25,0,0,0,0,0
+2021,Drama,142,Japan,4.8,7.0,5,0,0,0,0,0
+2021,Comedy,104,Denmark,6.5,6.0,14,0,0,0,0,0
+2021,Thriller,92,Great Britain,6.3,6.0,32,0,0,0,0,0
+2021,Drama,164,United States,6.1,6.0,154,0,0,0,0,0
+2021,Comedy,116,Italy,3.4,4.0,12,0,0,0,0,0
+2021,Comedy,105,France,5.7,5.0,11,0,0,0,0,0
+2021,Documentary,91,Italy,6.3,6.0,6,0,0,0,0,0
+2021,Sci-Fi,101,"United States, France",5.5,6.0,58,0,0,0,0,0
+2021,Comedy,101,France,5.1,5.0,7,0,0,0,0,0
+2021,Drama,138,France,6.3,7.0,22,0,0,0,0,0
+2021,Comedy,95,France,4.4,5.0,15,0,0,0,0,0
+2022,Adventure,94,"Italy, India",4.6,5.0,9,0,0,0,0,0
+2021,Drama,89,Italy,5.5,4.0,7,0,0,0,0,0
+2021,Comedy,82,Turkey,5.0,4.0,3,0,0,0,0,0
+2021,Horror,99,United States,4.2,5.0,30,0,0,0,0,0
+2021,Thriller,105,United States,3.7,4.0,20,0,0,0,0,0
+2021,Comedy,97,Italy,4.2,5.0,14,0,0,0,0,0
+2021,Sci-Fi,130,China,5.9,6.0,11,0,0,0,0,0
+2021,Super-hero,150,United States,5.6,6.0,150,0,0,0,0,0
+2021,Horror,103,United States,4.8,5.0,46,0,0,0,0,0
+2020,Romantic,88,United States,4.6,5.0,5,0,0,0,0,0
+2021,Thriller,90,"Italy, France",5.8,6.0,92,0,0,0,0,0
+2021,Drama,101,Italy,5.6,5.0,44,0,0,0,0,0
+2021,Comedy,82,France,7.0,6.0,17,0,0,0,0,0
+2021,Drama,210,France,6.4,6.0,15,0,0,0,0,0
+2021,Sci-Fi,116,"Germany, United States",5.7,6.0,60,0,0,0,0,0
+2021,Thriller,118,"Great Britain, United States",5.8,6.0,67,0,0,0,0,0
+2021,Thriller,109,United States,4.6,5.0,41,0,0,0,0,0
+2022,Thriller,122,United States,5.3,5.0,65,0,0,0,0,0
+2021,Horror,93,Great Britain,5.0,4.0,8,0,0,0,0,0
+2021,Drama,92,United States,5.7,6.0,11,0,0,0,0,0
+2019,Horror,106,"Sweden, Canada",4.8,5.0,8,0,0,0,0,0
+2021,Drama,104,United States,6.2,6.0,148,0,0,0,0,0
+2021,Thriller,110,United States,4.1,4.0,18,0,0,0,0,0
+2021,Drama,113,"Italy, France",4.9,5.0,31,0,0,0,0,0
+2021,Comedy,88,United States,3.3,5.0,5,0,0,0,0,0
+2021,Drama,104,United States,6.6,6.0,71,0,0,0,0,0
+2021,Horror,104,United States,5.8,7.0,3,0,0,0,0,0
+2021,Thriller,106,"Belgium, Netherlands",6.6,6.0,25,0,0,0,0,0
+2021,Thriller,82,Canada,3.6,4.0,7,0,0,0,0,0
+2020,Stand-up Comedy,61,United States,8.5,10.0,3,0,0,0,0,0
+2021,Comedy,85,Italy,5.5,6.0,27,0,0,0,0,0
+2021,Horror,96,South Africa,5.6,6.0,10,0,0,0,0,0
+2021,Animation,93,United States,4.5,5.0,4,0,0,0,0,0
+2020,Drama,89,France,5.3,5.0,6,0,0,0,0,0
+2021,Comedy,114,India,7.0,7.0,4,0,0,0,0,0
+2021,Animation,85,"United States, Canada",4.8,4.0,4,0,0,0,0,0
+2021,Western,130,United States,5.9,5.0,47,0,0,0,0,0
+2021,Comedy,90,Italy,5.2,5.0,14,0,0,0,0,0
+2021,Thriller,99,"United States, Great Britain",3.7,4.0,20,0,0,0,0,0
+2021,Horror,107,United States,5.1,6.0,12,0,0,0,0,0
+2021,Animation,110,"United States, Canada, France",6.6,7.0,50,0,0,0,0,0
+2021,Animation,88,United States,6.0,6.0,8,0,0,0,0,0
+2021,Drama,93,Italy,4.9,4.0,16,0,0,0,0,0
+2021,Fantasy,108,Australia,6.2,6.0,26,0,0,0,0,0
+2021,Thriller,99,Italy,5.2,5.0,5,0,0,0,0,0
+2021,Comedy,145,United States,6.7,7.0,322,0,0,0,0,0
+2021,Comedy,97,"France, Switzerland",4.8,5.0,9,0,0,0,0,0
+2019,Drama,110,"Bulgaria, Japan",7.0,7.0,3,0,0,0,0,0
+2022,Horror,105,Italy,4.7,4.0,10,0,0,0,0,0
+2021,Comedy,100,Italy,4.0,4.0,18,0,0,0,0,0
+2022,Drama,119,Italy,5.3,5.0,4,0,0,0,0,0
+2021,Comedy,114,Spain,6.2,6.0,59,0,0,0,0,0
+2021,Thriller,138,South Korea,7.4,7.0,114,0,0,0,0,0
+2022,Comedy,90,France,5.8,6.0,9,0,0,0,0,0
+2021,Drama,120,France,5.5,6.0,5,0,0,0,0,0
+2021,Horror,82,United States,6.0,5.0,12,0,0,0,0,0
+2021,Horror,97,Australia,4.5,5.0,29,0,0,0,0,0
+2021,Horror,105,Canada,5.0,5.0,28,0,0,0,0,0
+2021,Thriller,90,France,4.4,5.0,12,0,0,0,0,0
+2021,Horror,90,United States,7.2,6.0,22,0,0,0,0,0
+2020,Animation,117,Japan,6.1,6.0,9,0,0,0,0,0
+2021,Thriller,95,Italy,6.8,6.0,3,0,0,0,0,0
+2021,Drama,120,Spain,7.1,7.0,159,0,0,0,0,0
+2021,Thriller,101,Kenya,5.0,5.0,11,0,0,0,0,0
+2021,Drama,105,Italy,5.4,6.0,19,0,0,0,0,0
+2021,Sci-Fi,125,"China, China",7.1,7.0,9,0,0,0,0,0
+2021,Animation,103,"United States, Canada",6.0,6.0,11,0,0,0,0,0
+2021,Drama,105,Italy,4.8,6.0,3,0,0,0,0,0
+2021,Documentary,89,United States,7.0,8.0,9,0,0,0,0,0
+2021,Fantasy,132,"United States, Australia",5.5,6.0,64,0,0,0,0,0
+2021,Biography,93,"Mexico, Brazil",5.7,6.0,17,0,0,0,0,0
+2021,Comedy,100,Spain,6.0,5.0,11,0,0,0,0,0
+2021,Horror,90,United States,5.6,6.0,35,0,0,0,0,0
+2021,Sci-Fi,116,United States,5.1,6.0,45,0,0,0,0,0
+2021,Drama,125,Great Britain,5.4,6.0,24,0,0,0,0,0
+2022,Drama,125,Italy,6.6,7.0,45,0,0,0,0,0
+2022,Drama,91,Italy,6.0,6.0,33,0,0,0,0,0
+2023,Drama,206,United States,7.9,8.0,27,0,0,0,0,0
+2021,Thriller,115,Japan,4.9,6.0,11,0,0,0,0,0
+2021,Drama,133,United States,7.0,7.0,209,0,0,0,0,0
+2021,Comedy,117,United States,5.4,6.0,8,0,0,0,0,0
+2021,Comedy,94,Brazil,3.3,3.0,4,0,0,0,0,0
+2021,Biography,95,"Mexico, United States",6.0,6.0,12,0,0,0,0,0
+2021,Comedy,100,United States,3.8,4.0,5,0,0,0,0,0
+2021,Romantic,101,Italy,5.8,6.0,17,0,0,0,0,0
+2021,Documentary,90,"Germany, France",6.4,6.0,5,0,0,0,0,0
+2021,Comedy,111,Sweden,5.3,5.0,3,0,0,0,0,0
+2021,Adventure,104,"United States, Great Britain, China, Malaysia",4.9,5.0,12,0,0,0,0,0
+2021,Comedy,92,United States,4.9,5.0,14,0,0,0,0,0
+2021,Thriller,96,United States,3.9,5.0,26,0,0,0,0,0
+2021,Drama,118,United States,6.4,6.0,15,0,0,0,0,0
+2021,Drama,87,Italy,5.6,5.0,25,0,0,0,0,0
+2021,Drama,98,France,6.0,6.0,19,0,0,0,0,0
+2021,Comedy,98,France,5.3,6.0,10,0,0,0,0,0
+2021,Drama,142,United States,7.0,7.0,180,0,0,0,0,0
+2021,Drama,127,Iran,7.1,7.0,89,0,0,0,0,0
+2022,Comedy,89,France,5.3,5.0,14,0,0,0,0,0
+2021,Horror,81,France,4.8,5.0,48,0,0,0,0,0
+2021,Thriller,94,United States,4.7,4.0,12,0,0,0,0,0
+2021,Drama,107,Italy,7.8,8.0,4,0,0,0,0,0
+2019,Animation,81,Norway,5.4,6.0,6,0,0,0,0,0
+2021,Musical,131,United States,4.6,6.0,12,0,0,0,0,0
+2021,Drama,97,Great Britain,6.8,7.0,134,0,0,0,0,0
+2021,Comedy,96,Italy,5.2,5.0,38,0,0,0,0,0
+2021,Biography,94,Italy,5.6,6.0,60,0,0,0,0,0
+2021,Drama,73,Italy,7.1,6.0,8,0,0,0,0,0
+2022,Drama,93,Italy,5.5,6.0,24,1,4,3,4,1
+2022,Biography,134,Italy,6.9,7.0,100,0,0,0,0,0
+2021,Comedy,94,Italy,3.5,3.0,12,0,0,0,0,0
+2021,Comedy,101,Italy,4.6,5.0,33,0,0,0,0,0
+2022,Drama,109,Italy,5.6,6.0,10,0,0,0,0,0
+2021,Thriller,93,United States,3.7,4.0,26,0,0,0,0,0
+2021,Drama,121,"United States, Israel, Great Britain, Greece",6.2,6.0,60,0,0,0,0,0
+2021,Thriller,107,South Africa,4.9,5.0,11,0,0,0,0,0
+2021,Grotesque,110,Italy,5.1,5.0,15,0,0,0,0,0
+2021,Drama,120,Italy,6.1,6.0,60,0,0,0,0,0
+2021,Horror,90,Italy,3.8,4.0,15,0,0,0,0,0
+2021,Biography,99,"Sweden, Denmark, Netherlands",4.7,5.0,39,0,0,0,0,0
+2021,Drama,110,Great Britain,5.6,6.0,20,0,0,0,0,0
+2022,Comedy,108,Great Britain,5.2,5.0,21,0,0,0,0,0
+2021,Horror,91,"Australia, United States",4.1,3.0,18,0,0,0,0,0
+2021,Sci-Fi,96,United States,4.6,4.0,27,0,0,0,0,0
+2020,Horror,87,Sweden,3.8,4.0,14,0,0,0,0,0
+2021,Animation,75,"France, Belgium",4.1,4.0,8,0,0,0,0,0
+2021,Horror,105,United States,5.4,5.0,40,0,0,0,0,0
+2021,Horror,109,United States,5.9,6.0,37,0,0,0,0,0
+2021,Horror,113,United States,5.2,5.0,26,0,0,0,0,0
+2021,Documentary,95,Great Britain,7.0,7.0,4,0,0,0,0,0
+2021,Horror,88,Uruguay,5.7,4.0,6,0,0,0,0,0
+2021,Drama,80,Italy,5.7,6.0,14,0,0,0,0,0
+2021,Drama,118,United States,6.0,6.0,19,0,0,0,0,0
+2021,Comedy,94,Brazil,4.0,4.0,3,0,0,0,0,0
+2021,Drama,90,Italy,6.2,6.0,14,0,0,0,0,0
+2021,Comedy,90,Italy,3.0,3.0,6,0,0,0,0,0
+2021,Thriller,93,United States,3.3,3.0,8,0,0,0,0,0
+2021,Animation,98,United States,4.4,4.0,5,0,0,0,0,0
+2021,Romantic,112,Italy,4.3,6.0,11,0,0,0,0,0
+2021,Romantic,110,Canada,2.2,2.0,6,0,0,0,0,0
+2020,Animation,88,Mauritius,4.0,4.0,3,0,0,0,0,0
+2021,Comedy,90,"Russia, Gilbert and Ellice Islands",6.8,8.0,3,0,0,0,0,0
+2021,Thriller,99,United States,3.6,5.0,22,0,0,0,0,0
+2021,Comedy,80,Belgium,3.8,4.0,4,0,0,0,0,0
+2021,Drama,200,Italy,6.1,6.0,15,0,0,0,0,0
+2021,Drama,102,Chile,6.8,7.0,16,0,0,0,0,0
+2021,Drama,110,"India, United States, France",5.4,7.0,6,0,0,0,0,0
+2021,Biography,100,United States,5.4,6.0,23,0,0,0,0,0
+2021,Animation,106,"United States, Great Britain",6.0,6.0,18,0,0,0,0,0
+2021,Drama,107,"United States, India",6.4,6.0,5,0,0,0,0,0
+2021,Animation,102,"United States, Colombia",6.0,6.0,84,0,0,0,0,0
+2022,Super-hero,126,United States,6.1,6.0,110,0,0,0,0,0
+2022,Super-hero,119,United States,4.9,5.0,85,0,0,0,0,0
+2021,Thriller,106,United States,4.8,5.0,31,0,0,0,0,0
+2020,Comedy,90,Italy,3.0,3.0,5,0,0,0,0,0
+2021,Action,110,France,5.5,6.0,10,0,0,0,0,0
+2021,Thriller,116,United States,6.4,6.0,47,0,0,0,0,0
+2021,Horror,90,Italy,5.9,6.0,90,0,0,0,0,0
+2021,Sci-Fi,94,United States,2.3,4.0,9,0,0,0,0,0
+2021,Documentary,105,United States,6.0,6.0,13,0,0,0,0,0
+2021,Drama,100,"Italy, France",5.3,4.0,9,0,0,0,0,0
+2021,Thriller,111,Spain,4.8,6.0,11,0,0,0,0,0
+2021,Thriller,157,"Great Britain, India",3.4,3.0,5,0,0,0,0,0
+2020,Thriller,89,United States,6.2,6.0,6,0,0,0,0,0
+2021,Horror,88,United States,4.0,5.0,22,0,0,0,0,0
+2022,Horror,100,Great Britain,6.4,6.0,82,0,0,0,0,0
+2022,Biography,104,United States,5.0,6.0,10,0,0,0,0,0
+2020,Comedy,65,Italy,4.4,4.0,5,0,0,0,0,0
+2021,Drama,106,Italy,5.0,5.0,11,0,0,0,0,0
+2021,Comedy,90,United States,6.8,7.0,8,0,0,0,0,0
+2021,Thriller,90,United States,3.0,3.0,3,0,0,0,0,0
+2022,Thriller,90,United States,6.3,6.0,55,0,0,0,0,0
+2021,Drama,105,Italy,6.3,6.0,32,0,0,0,0,0
+2021,Thriller,70,Spain,3.5,5.0,19,0,0,0,0,0
+2021,Thriller,93,United States,3.9,4.0,8,0,0,0,0,0
+2021,Action,92,United States,2.8,3.0,6,0,0,0,0,0
+2020,Thriller,89,United States,6.3,6.0,3,0,0,0,0,0
+2021,Drama,89,Italy,7.1,7.0,65,0,0,0,0,0
+2021,Drama,101,"Morocco, France",4.7,5.0,7,0,0,0,0,0
+2021,Drama,179,Japan,7.3,7.0,152,0,0,0,0,0
+2021,Comedy,106,"Finland, Estonia, Germany, Russia",7.1,7.0,107,0,0,0,0,0
+2021,Comedy,128,United States,6.9,7.0,22,0,0,0,0,0
+2021,Drama,100,France,6.3,6.0,3,0,0,0,0,0
+2021,Documentary,110,United States,8.0,9.0,8,0,0,0,0,0
+2021,Thriller,147,South Korea,5.1,5.0,8,0,0,0,0,0
+2021,Documentary,94,Great Britain,6.6,7.0,12,0,0,0,0,0
+2021,Drama,107,Bulgaria,3.8,4.0,4,0,0,0,0,0
+2021,Drama,119,United States,4.8,7.0,14,0,0,0,0,0
+2021,Drama,116,"Austria, France, Belgium",6.8,7.0,10,0,0,0,0,0
+2021,Sci-Fi,101,United States,5.7,5.0,32,0,0,0,0,0
+2021,Horror,135,"United States, Denmark, Sweden, Norway, Finland",6.1,7.0,27,0,0,0,0,0
+2021,Stand-up Comedy,88,United States,6.8,7.0,15,0,0,0,0,0
+2021,Drama,90,"Italy, France, Argentina",6.9,6.0,26,0,0,0,0,0
+2021,Documentary,105,Italy,5.6,6.0,12,0,0,0,0,0
+2020,Thriller,85,Canada,6.5,7.0,4,0,0,0,0,0
+2019,Thriller,90,United States,5.3,5.0,7,0,0,0,0,0
+2021,Drama,97,"Germany, Hungary",6.5,7.0,13,0,0,0,0,0
+2021,Drama,85,South Korea,7.8,7.0,4,0,0,0,0,0
+2021,Drama,72,Belgium,6.3,6.0,17,0,0,0,0,0
+2021,Drama,117,Austria,7.7,8.0,6,0,0,0,0,0
+2021,Drama,142,"Argentina, Italy",7.9,8.0,33,0,0,0,0,0
+2021,Musical,108,France,5.5,7.0,3,0,0,0,0,0
+2021,Drama,108,France,7.5,8.0,6,0,0,0,0,0
+2021,Documentary,90,France,6.5,7.0,4,0,0,0,0,0
+2021,Documentary,115,United States,6.2,6.0,4,0,0,0,0,0
+2021,Documentary,95,"Brazil, France, Germany, Algeria",7.2,7.0,7,0,0,0,0,0
+2021,Romantic,98,France,5.9,5.0,21,0,0,0,0,0
+2021,Drama,101,Portugal,7.8,8.0,4,0,0,0,0,0
+2021,Comedy,90,Italy,3.3,3.0,24,0,0,0,0,0
+2021,Drama,93,France,7.0,7.0,8,0,0,0,0,0
+2021,Drama,98,France,5.3,6.0,3,0,0,0,0,0
+2021,Drama,95,"Colombia, Qatar, Germany, Sweden",7.0,8.0,3,0,0,0,0,0
+2021,Drama,112,"Egypt, Netherlands, Greece, France",5.4,6.0,8,0,0,0,0,0
+2021,Drama,85,"France, Switzerland, Ukraine",5.8,6.0,6,0,0,0,0,0
+2021,Comedy,115,"France, Belgium",5.7,6.0,20,0,0,0,0,0
+2021,Sperimental,90,India,6.8,8.0,3,0,0,0,0,0
+2021,Drama,95,Great Britain,5.6,6.0,10,0,0,0,0,0
+2021,Drama,108,"Sweden, Belgium, Costa Rica, Germany",6.1,6.0,5,0,0,0,0,0
+2021,Drama,99,France,5.6,6.0,5,0,0,0,0,0
+2021,Drama,83,"France, Kosovo",6.0,7.0,3,0,0,0,0,0
+2021,Horror,127,Brazil,6.7,7.0,4,0,0,0,0,0
+2021,Drama,92,"Croatia, Brazil, United States, Slovenia",7.2,7.0,13,0,0,0,0,0
+2021,Comedy,90,United States,5.4,6.0,8,0,0,0,0,0
+2021,Thriller,92,United States,6.3,6.0,77,0,0,0,0,0
+2022,Drama,126,Italy,5.3,6.0,65,0,0,0,0,0
+2021,Sci-Fi,114,South Korea,5.4,6.0,8,0,0,0,0,0
+2022,Sci-Fi,146,United States,5.0,5.0,86,0,0,0,0,0
+2021,Action,91,United States,4.5,4.0,37,0,0,0,0,0
+2021,Drama,116,Japan,6.7,7.0,3,0,0,0,0,0
+2020,Drama,106,China,5.8,6.0,3,0,0,0,0,0
+2021,Documentary,100,Italy,7.6,8.0,45,0,0,0,0,0
+2020,Thriller,87,United States,4.8,5.0,5,0,0,0,0,0
+2021,Animation,110,Italy,5.0,5.0,9,0,0,0,0,0
+2021,Drama,100,Italy,6.5,6.0,20,0,0,0,0,0
+2021,Horror,87,"France, Italy",4.4,4.0,77,1,2,2,4,3
+2021,Comedy,102,Canada,6.0,6.0,6,0,0,0,0,0
+2021,Documentary,160,Great Britain,6.8,7.0,5,0,0,0,0,0
+2021,Documentary,92,France,7.7,7.0,6,0,0,0,0,0
+2019,Thriller,90,United States,4.3,4.0,8,0,0,0,0,0
+2021,Action,136,Russia,5.5,5.0,11,0,0,0,0,0
+2021,Romantic,101,Turkey,6.5,7.0,4,0,0,0,0,0
+2021,Comedy,100,Italy,5.3,5.0,20,0,0,0,0,0
+2021,Drama,115,Spain,7.0,7.0,12,0,0,0,0,0
+2021,Drama,130,"Italy, United States",6.9,7.0,112,0,0,0,0,0
+2021,Thriller,95,United States,3.3,4.0,11,0,0,0,0,0
+2021,Thriller,90,United States,5.6,6.0,72,0,0,0,0,0
+2021,Drama,116,"Switzerland, Austria, Germany",5.5,6.0,3,0,0,0,0,0
+2021,Horror,121,"Germany, United States",5.2,6.0,40,0,0,0,0,0
+2021,Drama,80,Italy,6.9,6.0,13,0,0,0,0,0
+2022,Drama,113,United States,4.9,5.0,13,0,0,0,0,0
+2022,Sci-Fi,130,"United States, Canada, China",4.4,5.0,83,0,0,0,0,0
+2021,Thriller,85,"Italy, Germany, United States",4.3,4.0,24,0,0,0,0,0
+2021,Drama,99,France,5.4,6.0,22,0,0,0,0,0
+2021,Animation,154,Japan,7.4,8.0,28,0,0,0,0,0
+2021,Drama,82,"Italy, France",5.0,4.0,23,0,0,0,0,0
+2021,Drama,98,Iceland,4.8,4.0,7,0,0,0,0,0
+2021,Thriller,110,United States,3.5,4.0,4,0,0,0,0,0
+2021,Comedy,113,United States,4.2,4.0,5,0,0,0,0,0
+2021,Drama,136,Russia,6.3,6.0,20,0,0,0,0,0
+2021,Romantic,90,Germany,2.7,3.0,3,0,0,0,0,0
+2021,Drama,103,Austria,6.6,7.0,9,0,0,0,0,0
+2021,Drama,117,South Korea,4.3,4.0,3,0,0,0,0,0
+2021,Drama,116,"Jordan, Egypt, Saudi Arabia, Qatar",5.9,5.0,13,0,0,0,0,0
+2021,Drama,111,"Greece, France, United States",6.8,7.0,5,0,0,0,0,0
+2022,Drama,95,Ghana,5.5,6.0,4,0,0,0,0,0
+2021,Drama,115,"Switzerland, Georgia",7.3,8.0,6,0,0,0,0,0
+2022,Comedy,91,Italy,3.1,3.0,35,0,0,0,0,0
+2021,Action,115,United States,4.6,5.0,61,0,0,0,0,0
+2021,Drama,88,Italy,6.5,7.0,15,0,0,0,0,0
+2021,Comedy,90,Italy,4.8,5.0,26,0,0,0,0,0
+2021,Musical,115,United States,6.2,6.0,38,0,0,0,0,0
+2021,Horror,99,China,5.9,6.0,16,0,0,0,0,0
+2021,Sci-Fi,83,United States,8.0,8.0,27,0,0,0,0,0
+2021,Drama,112,United States,5.8,6.0,9,0,0,0,0,0
+2021,Thriller,91,United States,2.1,3.0,8,0,0,0,0,0
+2021,Thriller,79,Great Britain,7.3,8.0,4,0,0,0,0,0
+2021,Comedy,110,United States,5.6,6.0,18,0,0,0,0,0
+2021,Biography,100,Italy,6.0,6.0,3,0,0,0,0,0
+2021,Drama,100,Italy,5.9,6.0,14,0,0,0,0,0
+2021,Comedy,100,Italy,3.6,4.0,7,0,0,0,0,0
+2021,Documentary,110,United States,7.0,7.0,4,0,0,0,0,0
+2021,Musical,127,United States,5.7,5.0,8,0,0,0,0,0
+2021,Animation,81,United States,5.8,7.0,7,0,0,0,0,0
+2021,Animation,85,Germany,4.4,4.0,5,0,0,0,0,0
+2022,Drama,147,"Italy, Belgium, France, Great Britain",7.0,7.0,149,0,0,0,0,0
+2021,Comedy,91,Italy,4.9,5.0,43,0,0,0,0,0
+2021,Thriller,109,United States,5.3,5.0,36,0,0,0,0,0
+2022,Thriller,90,Italy,5.1,5.0,22,0,0,0,0,0
+2022,Comedy,103,Italy,5.2,5.0,27,0,0,0,0,0
+2021,Drama,106,Italy,5.9,6.0,37,0,0,0,0,0
+2022,Drama,96,United States,6.0,6.0,9,0,0,0,0,0
+2021,Drama,126,Croatia,7.3,8.0,3,0,0,0,0,0
+2021,Action,90,United States,2.5,3.0,6,0,0,0,0,0
+2021,Thriller,93,United States,4.8,5.0,11,0,0,0,0,0
+2021,Horror,92,Russia,4.3,4.0,16,0,0,0,0,0
+2021,Drama,119,"Germany, France, Brazil",3.8,3.0,3,0,0,0,0,0
+2021,Horror,93,Iran,5.8,4.0,3,0,0,0,0,0
+2021,Drama,100,"Italy, France",5.4,4.0,6,0,0,0,0,0
+2021,History,105,United States,7.0,7.0,47,0,0,0,0,0
+2020,Documentary,90,Italy,5.0,5.0,7,0,0,0,0,0
+2021,Drama,83,"Mexico, France, Sweden",6.5,6.0,35,0,0,0,0,0
+2021,Drama,160,Poland,6.5,7.0,3,0,0,0,0,0
+2021,Drama,92,"United States, Mexico",5.5,6.0,4,0,0,0,0,0
+2021,Drama,125,Ukraine,6.5,6.0,6,0,0,0,0,0
+2021,Thriller,120,Russia,6.3,7.0,7,0,0,0,0,0
+2021,Drama,98,France,6.0,6.0,25,0,0,0,0,0
+2021,Documentary,97,Italy,6.1,6.0,7,0,0,0,0,0
+2021,Drama,100,Italy,5.0,6.0,20,0,0,0,0,0
+2021,Documentary,104,Italy,7.2,7.0,4,0,0,0,0,0
+2021,Drama,118,"Romania, Czech Republic, Latvia",8.1,8.0,7,0,0,0,0,0
+2021,Drama,85,France,7.2,7.0,53,0,0,0,0,0
+2021,Drama,100,Mexico,6.5,7.0,5,0,0,0,0,0
+2021,Drama,85,"Bolivia, Qatar, France, Switzerland",5.5,6.0,5,0,0,0,0,0
+2021,Drama,111,"Mexico,United States",6.5,7.0,3,0,0,0,0,0
+2021,Drama,131,"India, France, Norway",3.8,2.0,3,0,0,0,0,0
+2021,Drama,102,Great Britain,3.3,2.0,3,0,0,0,0,0
+2021,Animation,90,"Japan, United States",7.5,7.0,11,0,0,0,0,0
+2021,Documentary,76,Italy,6.7,7.0,3,0,0,0,0,0
+2021,Western,99,United States,6.9,7.0,63,0,0,0,0,0
+2021,Drama,108,Poland,6.0,7.0,3,0,0,0,0,0
+2021,Drama,78,Italy,6.6,8.0,6,0,0,0,0,0
+2021,Drama,120,"Brazil, Portugal",7.7,8.0,5,0,0,0,0,0
+2021,Drama,114,Romania,6.2,6.0,4,0,0,0,0,0
+2021,Drama,87,"Argentina, Chile, Spain",4.5,4.0,3,0,0,0,0,0
+2021,Documentary,62,Italy,6.1,6.0,5,0,0,0,0,0
+2021,Documentary,100,"Italy, Czech Republic",4.8,4.0,4,0,0,0,0,0
+2021,Drama,100,Italy,6.9,6.0,38,0,0,0,0,0
+2021,Documentary,70,Italy,6.2,7.0,4,0,0,0,0,0
+2021,Drama,109,Italy,5.7,6.0,25,0,0,0,0,0
+2021,Thriller,92,Lithuania,6.8,7.0,3,0,0,0,0,0
+2021,Drama,129,China,6.0,7.0,9,0,0,0,0,0
+2021,Drama,90,"Slovakia, Czech Republic, Ukraine",6.3,6.0,3,0,0,0,0,0
+2021,Drama,90,"Cambodia, France, China, Qatar",6.3,7.0,8,0,0,0,0,0
+2021,Drama,90,Brazil,6.2,6.0,22,0,0,0,0,0
+2021,Drama,87,France,6.7,7.0,7,0,0,0,0,0
+2021,Thriller,98,United States,5.6,6.0,51,0,0,0,0,0
+2022,Drama,107,Italy,4.4,5.0,16,0,0,0,0,0
+2021,Comedy,96,Italy,4.7,5.0,17,0,0,0,0,0
+2021,Horror,127,"Germany, United States",5.8,6.0,29,0,0,0,0,0
+2021,Sci-Fi,94,Great Britain,4.5,4.0,20,0,0,0,0,0
+2021,Comedy,120,Spain,6.6,7.0,66,0,0,0,0,0
+2021,Thriller,104,Germany,4.3,5.0,14,0,0,0,0,0
+2019,Comedy,90,Germany,2.9,4.0,6,0,0,0,0,0
+2021,Action,111,United States,6.6,6.0,17,0,0,0,0,0
+2021,Thriller,80,United States,4.9,4.0,24,0,0,0,0,0
+2021,Drama,91,Great Britain,6.0,6.0,5,0,0,0,0,0
+2021,Comedy,98,Italy,4.8,5.0,32,0,0,0,0,0
+2021,Comedy,91,Italy,4.8,5.0,13,0,0,0,0,0
+2021,Horror,114,United States,4.1,5.0,15,0,0,0,0,0
+2021,Documentary,100,Poland,6.5,7.0,4,0,0,0,0,0
+2020,Drama,94,"Greece, Germany",6.3,7.0,3,0,0,0,0,0
+2020,Romantic,90,Germany,4.0,4.0,4,0,0,0,0,0
+2021,Drama,91,South Korea,6.8,7.0,17,0,0,0,0,0
+2022,Sci-Fi,107,"Canada, Greece, France",6.8,7.0,159,0,0,0,0,0
+2021,Action,126,"Hong Kong, China",5.2,6.0,10,0,0,0,0,0
+2021,Documentary,78,"Italy, Denmark, India",4.0,4.0,3,0,0,0,0,0
+2021,Documentary,92,United States,6.5,6.0,4,0,0,0,0,0
+2021,Drama,131,United States,4.5,5.0,7,0,0,0,0,0
+2021,Comedy,121,United States,4.0,4.0,6,0,0,0,0,0
+2022,Biography,112,"Austria, Luxembourg, Germany, France",5.9,5.0,32,0,0,0,0,0
+2021,Comedy,90,United States,5.2,3.0,8,0,0,0,0,0
+2022,Thriller,93,Italy,4.6,5.0,24,0,0,0,0,0
+2021,Action,89,United States,5.8,6.0,4,0,0,0,0,0
+2021,Comedy,132,United States,4.0,4.0,3,0,0,0,0,0
+2021,Thriller,127,Spain,6.5,6.0,23,0,0,0,0,0
+2019,Thriller,85,United States,5.3,5.0,7,0,0,0,0,0
+2021,Documentary,70,Italy,6.3,7.0,3,0,0,0,0,0
+2022,Thriller,103,"United States, Great Britain, Ireland",6.7,7.0,71,0,0,0,0,0
+2021,Comedy,109,United States,4.8,5.0,8,0,0,0,0,0
+2021,Thriller,87,Germany,4.8,5.0,17,0,0,0,0,0
+2021,Comedy,91,Brazil,4.5,5.0,5,0,0,0,0,0
+2021,Romantic,90,Sweden,4.8,6.0,3,0,0,0,0,0
+2021,Thriller,93,United States,3.8,4.0,7,0,0,0,0,0
+2020,Thriller,85,Canada,5.3,5.0,4,0,0,0,0,0
+2021,Thriller,91,United States,3.2,3.0,8,0,0,0,0,0
+2021,Horror,85,United States,2.4,4.0,9,0,0,0,0,0
+2021,Thriller,111,Brazil,2.7,3.0,6,0,0,0,0,0
+2021,Horror,100,United States,3.3,6.0,9,0,0,0,0,0
+2021,Documentary,112,Germany,6.6,7.0,10,0,0,0,0,0
+2022,Drama,100,"France, Italy",6.8,6.0,25,0,0,0,0,0
+2020,Thriller,87,United States,4.0,4.0,5,0,0,0,0,0
+2019,Thriller,86,United States,5.2,5.0,5,0,0,0,0,0
+2021,Drama,90,Italy,6.0,6.0,6,0,0,0,0,0
+2020,Thriller,88,United States,5.2,5.0,5,0,0,0,0,0
+2021,Drama,112,"Great Britain, Germany, United States",6.6,7.0,89,0,0,0,0,0
+2022,Action,112,United States,5.0,5.0,47,0,0,0,0,0
+2021,Drama,93,United States,6.3,6.0,3,0,0,0,0,0
+2021,Romantic,95,France,7.3,8.0,3,0,0,0,0,0
+2021,Documentary,96,United States,4.9,6.0,16,0,0,0,0,0
+2021,Thriller,87,United States,3.0,3.0,4,0,0,0,0,0
+2021,Thriller,300,Spain,6.0,4.0,5,0,0,0,0,0
+2021,Thriller,98,"Ireland, Great Britain, Poland",4.9,5.0,6,0,0,0,0,0
+2021,Romantic,93,France,6.1,6.0,9,0,0,0,0,0
+2021,Biography,129,"Canada, Hungary, United States",6.7,7.0,17,0,0,0,0,0
+2021,Horror,92,Great Britain,3.5,5.0,8,0,0,0,0,0
+2021,Drama,108,United States,6.5,6.0,14,0,0,0,0,0
+2021,Musical,124,"Great Britain, Italy, Canada, United States",6.9,7.0,47,0,0,0,0,0
+2021,Thriller,92,United States,6.3,6.0,4,0,0,0,0,0
+2019,Documentary,81,United States,7.0,7.0,3,0,0,0,0,0
+2021,Drama,110,Germany,4.7,5.0,3,0,0,0,0,0
+2021,Comedy,91,Italy,5.7,6.0,3,0,0,0,0,0
+2021,Thriller,85,Australia,4.3,4.0,3,0,0,0,0,0
+2021,Comedy,83,Italy,3.8,5.0,37,0,0,0,0,0
+2022,Horror,102,United States,5.5,6.0,72,0,0,0,0,0
+2022,Drama,100,"France, Italy",6.2,6.0,16,0,0,0,0,0
+2021,Thriller,92,United States,4.8,5.0,27,0,0,0,0,0
+2021,Romantic,88,France,4.7,5.0,3,0,0,0,0,0
+2021,Comedy,125,France,5.0,6.0,18,0,0,0,0,0
+2021,Drama,86,Australia,5.0,5.0,3,0,0,0,0,0
+2021,Drama,108,"Romania, Sweden",5.9,6.0,10,0,0,0,0,0
+2021,Horror,85,Great Britain,5.0,5.0,15,0,0,0,0,0
+2021,Horror,106,"Germany, United States, Canada",4.2,5.0,41,0,0,0,0,0
+2022,Biography,89,Italy,4.4,6.0,10,0,0,0,0,0
+2020,Thriller,111,United States,4.0,4.0,3,0,0,0,0,0
+2021,Action,107,United States,3.6,4.0,12,0,0,0,0,0
+2023,Comedy,104,Italy,5.9,6.0,24,0,0,0,0,0
+2021,Comedy,97,"Italy, Great Britain",1.9,3.0,7,0,0,0,0,0
+2021,Animation,92,"France, Canada",6.8,8.0,3,0,0,0,0,0
+2021,Horror,77,"Great Britain, United States",5.5,6.0,4,0,0,0,0,0
+2021,Drama,92,"Jordan, Sweden",7.0,8.0,3,0,0,0,0,0
+2021,Thriller,94,"Great Britain, France",5.1,5.0,23,0,0,0,0,0
+2021,Thriller,93,France,5.4,5.0,7,0,0,0,0,0
+2021,Drama,95,Austria,5.5,6.0,4,0,0,0,0,0
+2021,Comedy,102,Great Britain,6.1,6.0,9,0,0,0,0,0
+2021,History,120,"Denmark, Norway, Sweden, Poland, Czech Republic, Iceland",5.6,6.0,11,0,0,0,0,0
+2021,Comedy,88,Germany,4.3,4.0,4,0,0,0,0,0
+2021,Drama,79,Canada,6.2,7.0,4,0,0,0,0,0
+2021,Comedy,109,Spain,6.7,5.0,6,0,0,0,0,0
+2022,Drama,189,United States,6.9,7.0,125,0,0,0,0,0
+2022,Action,120,United States,4.9,5.0,52,0,0,0,0,0
+2022,Action,126,United States,5.8,6.0,130,0,0,0,0,0
+2022,Thriller,140,"Iceland, Ireland, Great Britain, United States",6.6,6.0,154,0,0,0,0,0
+2023,Thriller,156,United States,6.8,7.0,63,0,0,0,0,0
+2022,Comedy,110,France,4.7,5.0,12,0,0,0,0,0
+2022,Drama,108,France,5.8,6.0,10,0,0,0,0,0
+2022,Comedy,92,"France, Switzerland",6.6,7.0,21,0,0,0,0,0
+2021,Thriller,90,France,4.9,5.0,8,0,0,0,0,0
+2021,Horror,96,Great Britain,5.9,5.0,9,0,0,0,0,0
+2021,Thriller,95,France,4.0,4.0,3,0,0,0,0,0
+2021,Horror,96,United States,4.3,4.0,18,0,0,0,0,0
+2021,Comedy,114,Italy,5.4,5.0,23,0,0,0,0,0
+2022,Drama,117,Italy,7.1,7.0,126,0,0,0,0,0
+2021,Drama,113,"Poland, Czech Republic, Italy",5.5,4.0,4,0,0,0,0,0
+2021,Biography,122,Japan,5.7,7.0,7,0,0,0,0,0
+2021,Documentary,114,United States,6.7,7.0,3,0,0,0,0,0
+2021,Drama,95,"Indonesia, France, Singapore, Australia",7.5,8.0,3,0,0,0,0,0
+2021,Horror,92,United States,4.6,5.0,9,0,0,0,0,0
+2021,Thriller,92,France,3.4,3.0,5,0,0,0,0,0
+2022,Drama,88,"Belgium, France",6.9,7.0,32,0,0,0,0,0
+2022,Comedy,88,Italy,6.2,6.0,34,0,0,0,0,0
+2021,Horror,91,Spain,4.1,3.0,12,0,0,0,0,0
+2021,Horror,130,Thailand,3.8,6.0,3,0,0,0,0,0
+2021,Thriller,113,Norway,6.7,7.0,69,0,0,0,0,0
+2021,Thriller,88,Great Britain,6.0,5.0,3,0,0,0,0,0
+2021,History,96,Russia,4.8,5.0,6,0,0,0,0,0
+2022,Horror,109,Finland,5.1,5.0,17,0,0,0,0,0
+2021,Animation,90,"Germany, Great Britain",5.4,5.0,5,0,0,0,0,0
+2021,Animation,44,United States,4.0,4.0,3,0,0,0,0,0
+2022,Comedy,174,Mexico,5.5,6.0,34,0,0,0,0,0
+2019,Thriller,93,France,3.7,4.0,3,0,0,0,0,0
+2021,Animation,90,"United States, Japan",6.3,6.0,7,0,0,0,0,0
+2022,War,128,"United States, Great Britain",6.0,6.0,46,0,0,0,0,0
+2021,Thriller,88,Italy,3.0,3.0,4,0,0,0,0,0
+2021,Animation,78,United States,6.3,6.0,3,0,0,0,0,0
+2020,Action,131,Russia,5.5,6.0,8,0,0,0,0,0
+2021,Thriller,105,Turkey,5.3,5.0,7,0,0,0,0,0
+2021,Horror,88,United States,4.4,5.0,23,0,0,0,0,0
+2020,Action,144,United States,6.5,6.0,19,0,0,0,0,0
+2021,Thriller,90,United States,4.4,4.0,8,0,0,0,0,0
+2021,Sci-Fi,85,"Canada, United States",3.5,4.0,13,0,0,0,0,0
+2020,Documentary,90,Great Britain,5.7,6.0,3,0,0,0,0,0
+2021,Documentary,90,Italy,8.8,8.0,3,0,0,0,0,0
+2022,Drama,80,France,6.9,7.0,5,0,0,0,0,0
+2022,Romantic,104,Italy,4.2,4.0,9,0,0,0,0,0
+2021,Drama,95,Italy,6.6,7.0,5,0,0,0,0,0
+2022,Documentary,74,Italy,6.3,8.0,7,0,0,0,0,0
+2021,Animation,120,Japan,6.7,7.0,7,0,0,0,0,0
+2021,Documentary,75,Italy,2.7,3.0,3,0,0,0,0,0
+2022,Drama,90,Italy,5.3,5.0,33,0,0,0,0,0
+2022,Comedy,109,Italy,5.6,6.0,52,0,0,0,0,0
+2021,Animation,90,Japan,5.3,4.0,6,0,0,0,0,0
+2021,Romantic,104,United States,5.4,5.0,17,0,0,0,0,0
+2021,Documentary,96,Italy,5.1,5.0,12,0,0,0,0,0
+2021,Documentary,79,"Italy, France",7.3,7.0,3,0,0,0,0,0
+2021,Documentary,100,Italy,5.3,6.0,16,0,0,0,0,0
+2021,Documentary,80,Italy,6.4,6.0,12,0,0,0,0,0
+2021,Comedy,90,Italy,3.8,4.0,11,0,0,0,0,0
+2021,Documentary,90,Italy,5.8,6.0,15,0,0,0,0,0
+2021,Horror,98,United States,4.3,5.0,11,0,0,0,0,0
+2022,Drama,96,Italy,5.8,5.0,7,0,0,0,0,0
+2021,Drama,105,Italy,4.8,5.0,4,0,0,0,0,0
+2020,Thriller,98,"Puerto Rico, United States",2.6,3.0,5,0,0,0,0,0
+2021,Drama,116,Italy,4.2,4.0,15,0,0,0,0,0
+2021,Adventure,98,United States,3.2,4.0,7,0,0,0,0,0
+2021,Comedy,100,Italy,4.5,5.0,17,0,0,0,0,0
+2022,Comedy,119,Italy,3.9,5.0,10,0,0,0,0,0
+2021,Horror,120,United States,7.1,7.0,10,0,0,0,0,0
+2021,Thriller,102,Italy,6.6,6.0,22,0,0,0,0,0
+2019,Thriller,94,France,4.3,4.0,7,0,0,0,0,0
+2021,Romantic,99,United States,2.0,2.0,5,0,0,0,0,0
+2021,Animation,92,"Australia, United States",5.7,6.0,3,0,0,0,0,0
+2021,Horror,103,"United States, Indonesia",5.6,6.0,6,0,0,0,0,0
+2021,Action,96,Great Britain,4.4,4.0,9,0,0,0,0,0
+2021,Thriller,105,Poland,5.4,5.0,5,0,0,0,0,0
+2021,Biography,131,United States,5.5,6.0,34,0,0,0,0,0
+2020,Thriller,91,France,3.8,4.0,4,0,0,0,0,0
+2023,Drama,130,Italy,6.7,7.0,32,0,0,0,0,0
+2022,Drama,120,Spain,6.1,7.0,35,0,0,0,0,0
+2021,Biography,90,Italy,3.0,3.0,2,0,0,0,0,0
+2022,Adventure,96,France,4.4,6.0,8,0,0,0,0,0
+2021,Thriller,99,United States,4.4,6.0,34,0,0,0,0,0
+2021,Action,139,Poland,5.4,5.0,6,0,0,0,0,0
+2021,Drama,112,"Argentina, Brazil, Spain, Netherlands, Chile",7.3,8.0,3,0,0,0,0,0
+2019,Animation,92,Japan,4.0,4.0,5,0,0,0,0,0
+2021,Thriller,90,Italy,5.8,5.0,5,0,0,0,0,0
+2021,Comedy,105,Great Britain,3.5,4.0,6,0,0,0,0,0
+2021,Comedy,82,Italy,5.5,6.0,53,0,0,0,0,0
+2019,Sci-Fi,90,Great Britain,2.0,2.0,3,0,0,0,0,0
+2022,Animation,105,United States,5.7,6.0,53,0,0,0,0,0
+2021,Horror,96,Poland,4.7,3.0,6,0,0,0,0,0
+2022,Drama,115,Italy,6.5,6.0,46,0,0,0,0,0
+2020,Fantasy,96,Belgium,3.3,3.0,3,0,0,0,0,0
+2022,Comedy,92,Italy,4.4,5.0,29,0,0,0,0,0
+2019,Animation,92,Japan,4.0,4.0,3,0,0,0,0,0
+2021,Comedy,94,Brazil,4.3,4.0,3,0,0,0,0,0
+2022,Thriller,126,Italy,5.0,5.0,40,0,0,0,0,0
+2020,Sci-Fi,78,"China, United States",2.6,3.0,5,0,0,0,0,0
+2022,Thriller,117,"Sweden, Denmark, Germany, France",7.0,7.0,46,0,0,0,0,0
+2022,Horror,97,"Denmark, Netherlands",6.0,6.0,43,0,0,0,0,0
+2021,Fantasy,97,United States,6.0,6.0,13,0,0,0,0,0
+2021,Comedy,111,Italy,4.8,4.0,22,0,0,0,0,0
+2022,Comedy,73,Italy,5.2,5.0,49,0,0,0,0,0
+2022,Adventure,102,Italy,4.5,4.0,6,0,0,0,0,0
+2021,Drama,80,Argentina,7.1,7.0,5,0,0,0,0,0
+2021,Drama,103,Italy,5.9,6.0,14,0,0,0,0,0
+2021,Drama,75,Italy,7.0,7.0,3,0,0,0,0,0
+2021,Documentary,95,"Italy, Germany",7.3,7.0,6,0,0,0,0,0
+2021,Drama,104,"Belgium, France",7.0,7.0,4,0,0,0,0,0
+2021,Drama,60,Italy,3.8,4.0,4,0,0,0,0,0
+2021,Drama,96,Germany,6.8,7.0,3,0,0,0,0,0
+2022,Horror,106,United States,5.7,5.0,4,0,0,0,0,0
+2022,Horror,93,United States,4.5,4.0,18,0,0,0,0,0
+2022,Comedy,87,Italy,3.5,4.0,31,0,0,0,0,0
+2019,Romantic,90,Germany,2.7,3.0,3,0,0,0,0,0
+2021,Drama,81,Italy,5.6,5.0,18,0,0,0,0,0
+2019,Romantic,89,Germany,4.3,4.0,4,0,0,0,0,0
+2021,Documentary,101,United States,5.8,6.0,4,0,0,0,0,0
+2022,Biography,159,Australia,7.0,7.0,153,0,0,0,0,0
+2022,Comedy,60,Italy,1.5,1.0,17,0,0,0,0,0
+2022,Comedy,97,United States,6.4,6.0,19,0,0,0,0,0
+2022,Comedy,90,"United States, Italy",5.8,6.0,14,0,0,0,0,0
+2022,Fantasy,142,"United States, Great Britain",5.2,5.0,61,0,0,0,0,0
+2022,Thriller,103,United States,6.6,7.0,40,0,0,0,0,0
+2021,Thriller,90,United States,4.4,5.0,10,0,0,0,0,0
+2022,Comedy,107,Italy,5.2,6.0,28,0,0,0,0,0
+2022,Drama,89,Italy,6.9,7.0,8,0,0,0,0,0
+2021,Romantic,90,United States,5.7,6.0,6,0,0,0,0,0
+2020,Drama,90,Germany,5.0,5.0,1,0,0,0,0,0
+2022,Thriller,92,United States,4.8,4.0,21,0,0,0,0,0
+2021,Romantic,102,United States,5.6,5.0,9,0,0,0,0,0
+2022,Animation,105,United States,5.8,6.0,15,0,0,0,0,0
+2022,Drama,100,Italy,5.6,6.0,5,0,0,0,0,0
+2022,Horror,105,Great Britain,5.5,5.0,3,0,0,0,0,0
+2022,Thriller,87,United States,5.4,5.0,32,0,0,0,0,0
+2022,Comedy,101,Italy,4.7,6.0,4,0,0,0,0,0
+2021,Horror,125,Thailand,5.0,5.0,4,0,0,0,0,0
+2022,Comedy,115,Italy,5.5,6.0,8,0,0,0,0,0
+2021,Documentary,77,France,4.7,5.0,3,0,0,0,0,0
+2022,Comedy,90,Italy,4.3,4.0,23,0,0,0,0,0
+2022,Comedy,92,Italy,2.6,4.0,7,0,0,0,0,0
+2019,Romantic,84,"Great Britain, United States",6.5,7.0,4,0,0,0,0,0
+2020,Romantic,84,United States,4.8,5.0,4,0,0,0,0,0
+2021,Comedy,100,France,4.0,4.0,4,0,0,0,0,0
+2021,Adventure,111,Spain,5.8,6.0,5,0,0,0,0,0
+2021,Adventure,94,United States,3.7,4.0,3,0,0,0,0,0
+2021,Romantic,90,United States,4.0,4.0,3,0,0,0,0,0
+2022,Comedy,90,Italy,4.2,5.0,20,0,0,0,0,0
+2022,Comedy,117,Italy,4.8,5.0,24,0,0,0,0,0
+2022,Animation,91,"Belgium, France",5.7,6.0,10,0,0,0,0,0
+2021,Drama,90,"Germany, Greece",4.6,5.0,7,0,0,0,0,0
+2022,Drama,122,"Italy, Belgium",5.6,5.0,15,0,0,0,0,0
+2022,Drama,97,"Italy, France",5.5,6.0,53,0,0,0,0,0
+2022,Thriller,89,France,6.2,6.0,46,0,0,0,0,0
+2022,Drama,115,"Great Britain, Hungary",5.7,6.0,31,0,0,0,0,0
+2022,Biography,130,Great Britain,7.0,8.0,18,0,0,0,0,0
+2022,Sci-Fi,125,United States,5.1,5.0,48,0,0,0,0,0
+2022,Thriller,84,United States,5.0,6.0,33,0,0,0,0,0
+2022,Comedy,97,Great Britain,5.9,6.0,34,0,0,0,0,0
+2022,Adventure,121,France,5.4,6.0,17,0,0,0,0,0
+2023,Comedy,114,France,3.8,5.0,12,0,0,0,0,0
+2021,Documentary,69,Italy,5.9,4.0,6,0,0,0,0,0
+2022,Documentary,103,"Great Britain, United States",6.1,7.0,12,0,0,0,0,0
+2022,Sci-Fi,100,Italy,5.1,5.0,16,0,0,0,0,0
+2022,Adventure,131,France,5.0,5.0,7,0,0,0,0,0
+2022,Thriller,90,Australia,6.0,5.0,23,0,0,0,0,0
+2022,Horror,81,"Bulgaria, United States",5.4,5.0,42,0,0,0,0,0
+2022,Adventure,122,"United States, Canada",4.7,5.0,20,0,0,0,0,0
+2022,Romantic,110,"Italy, Portugal",5.2,5.0,26,0,0,0,0,0
+2021,Documentary,70,Italy,6.3,6.0,3,0,0,0,0,0
+2022,Animation,73,Japan,4.8,6.0,9,0,0,0,0,0
+2021,Romantic,90,Canada,5.3,5.0,3,0,0,0,0,0
+2022,Drama,96,France,6.3,6.0,3,0,0,0,0,0
+2021,Thriller,80,United States,3.8,4.0,5,0,0,0,0,0
+2022,Thriller,89,United States,3.0,3.0,3,0,0,0,0,0
+2021,Romantic,85,Canada,7.0,7.0,3,0,0,0,0,0
+2021,Romantic,87,Canada,1.8,2.0,4,0,0,0,0,0
+2022,Biography,123,Great Britain,6.2,6.0,38,0,0,0,0,0
+2022,Horror,109,Australia,6.9,6.0,25,0,0,0,0,0
+2022,History,121,United States,5.7,6.0,12,0,0,0,0,0
+2021,Horror,91,Canada,3.3,3.0,6,0,0,0,0,0
+2022,Thriller,96,United States,5.6,6.0,8,0,0,0,0,0
+2022,Drama,102,Great Britain,6.6,7.0,52,2,2,3,3,2
+2022,Drama,103,United States,7.1,7.0,5,0,0,0,0,0
+2022,Animation,100,United States,6.4,6.0,25,0,0,0,0,0
+2022,Thriller,99,Spain,6.9,7.0,25,0,0,0,1,0
+2022,Thriller,114,United States,5.8,6.0,35,0,0,0,0,0
+2021,Romantic,85,"Canada, United States",5.7,6.0,3,0,0,0,0,0
+2021,Romantic,112,Great Britain,4.8,5.0,3,0,0,0,0,0
+2019,Romantic,90,Canada,5.0,5.0,3,0,0,0,0,0
+2021,Romantic,85,United States,4.7,5.0,3,0,0,0,0,0
+2023,Comedy,117,Italy,6.8,7.0,90,0,0,0,0,0
+2022,Drama,86,Italy,4.3,5.0,4,0,0,0,0,0
+2022,Drama,106,United States,6.9,6.0,5,0,0,0,0,0
+2022,Drama,107,United States,5.5,6.0,9,0,0,0,0,0
+2022,Drama,126,United States,5.3,5.0,11,0,0,0,0,0
+2022,Horror,110,United States,5.3,5.0,20,0,0,0,0,0
+2022,Drama,110,United States,6.7,6.0,4,0,0,0,0,0
+2022,Thriller,95,United States,5.6,6.0,66,0,0,0,0,0
+2022,Romantic,111,United States,6.2,6.0,6,0,0,0,0,0
+2022,Thriller,94,United States,3.2,4.0,16,0,0,0,0,0
+2022,Comedy,95,United States,5.4,6.0,7,0,0,0,0,0
+2022,Comedy,90,Great Britain,5.7,5.0,24,0,0,0,0,0
+2020,Romantic,90,Canada,7.3,7.0,4,0,0,0,0,0
+2021,Romantic,85,"Great Britain, United States",2.0,2.0,3,0,0,0,0,0
+2022,Drama,87,"Bolivia, Uruguay, France",6.5,6.0,22,0,0,0,0,0
+2022,Drama,101,Philippines,5.8,5.0,4,0,0,0,0,0
+2021,Comedy,90,Great Britain,4.3,4.0,7,0,0,0,0,0
+2021,Fantasy,100,United States,7.0,7.0,3,0,0,0,0,0
+2022,Animation,82,United States,4.3,4.0,6,0,0,0,0,0
+2022,Comedy,100,Italy,3.8,4.0,9,0,0,0,0,0
+2022,Fantasy,140,United States,5.8,6.0,171,1,2,1,1,0
+2022,Documentary,93,Italy,2.7,3.0,3,0,0,0,0,0
+2021,Action,89,United States,4.7,5.0,3,0,0,0,0,0
+2021,Comedy,90,France,3.4,6.0,11,0,0,0,0,0
+2022,Sci-Fi,111,France,5.4,5.0,17,1,1,1,0,0
+2021,Drama,95,Italy,5.7,6.0,23,0,2,3,3,0
+2019,Action,99,United States,4.4,5.0,9,0,0,0,0,0
+2022,Thriller,130,Indonesia,5.0,5.0,3,0,0,0,0,0
+2022,Thriller,179,Poland,5.8,6.0,4,0,0,0,0,0
+2022,Romantic,81,United States,6.0,5.0,4,3,2,3,1,3
+2021,Romantic,85,United States,6.0,6.0,3,0,0,0,0,0
+2022,Thriller,100,Italy,4.7,5.0,11,0,0,0,0,0
+2020,Romantic,90,United States,5.0,5.0,3,0,0,0,0,0
+2022,Romantic,106,"Mexico, Great Britain",5.0,5.0,5,0,0,0,0,0
+2022,Horror,105,United States,6.6,7.0,105,0,1,1,1,1
+2021,Documentary,74,Italy,5.5,6.0,6,0,0,0,0,0
+2022,Documentary,114,Great Britain,4.8,6.0,8,0,0,0,0,0
+2022,Drama,85,France,7.2,7.0,20,0,0,0,0,0
+2022,Drama,180,Australia,7.1,7.0,10,0,0,0,0,0
+2022,Comedy,85,Chile,6.3,6.0,3,0,0,0,0,0
+2022,Drama,100,United States,5.5,5.0,5,0,0,0,0,0
+2020,Documentary,57,Italy,7.7,8.0,6,0,0,0,0,0
+2022,Drama,108,Germany,5.4,6.0,20,0,0,1,1,0
+2022,Thriller,100,Italy,4.0,4.0,8,0,0,0,0,0
+2022,Thriller,110,United States,5.2,5.0,29,0,0,0,0,0
+2022,Drama,94,Ireland,7.5,7.0,38,1,1,2,1,0
+2022,Drama,85,Serbia,6.4,7.0,6,2,2,3,2,0
+2022,Comedy,100,France,6.9,8.0,12,0,0,0,0,0
+2022,Horror,82,United States,5.3,5.0,4,0,2,0,2,0
+2022,Horror,93,Great Britain,3.6,4.0,5,0,2,0,2,0
+2022,Drama,103,"France, Belgium, Switzerland",6.2,6.0,6,0,0,0,0,0
+2022,Drama,111,France,7.3,7.0,12,0,0,0,0,0
+2022,Drama,100,"Germany, France",5.5,5.0,11,0,0,0,0,0
+2022,Drama,117,"Mexico, Argentina, United States",5.9,6.0,5,0,0,0,0,0
+2022,Drama,120,Spain,5.5,5.0,15,0,0,0,0,0
+2022,Drama,137,Canada,6.0,5.0,5,0,0,0,0,0
+2022,Drama,131,China,7.7,9.0,13,0,0,0,0,0
+2022,Drama,80,France,6.8,7.0,7,0,0,0,0,0
+2022,Documentary,105,Great Britain,6.5,7.0,3,0,0,0,0,0
+2022,Romantic,97,United States,3.5,5.0,5,0,0,0,0,0
+2022,Romantic,117,South Korea,5.3,5.0,11,0,0,0,0,0
+2019,Adventure,87,United States,4.0,4.0,3,0,0,0,0,0
+2022,Drama,111,"United States, Great Britain",5.9,8.0,5,0,0,0,0,0
+2022,Documentary,100,Austria,6.0,6.0,3,0,0,0,0,0
+2022,History,93,Switzerland,6.5,7.0,10,0,0,0,0,0
+2022,Animation,105,"United States, Mexico",7.1,7.0,92,1,2,2,2,0
+2022,Action,109,South Korea,4.9,5.0,10,0,0,0,0,0
+2022,Action,94,United States,3.6,4.0,8,0,0,0,0,0
+2022,Drama,97,United States,4.5,5.0,4,0,0,0,0,0
+2022,Romantic,100,France,6.8,7.0,21,0,0,0,0,0
+2022,Drama,95,United States,5.3,6.0,8,0,0,0,0,0
+2021,Documentary,76,Italy,4.8,8.0,5,0,0,0,0,0
+2023,Fantasy,144,United States,5.5,6.0,41,0,0,0,0,0
+2021,Action,120,United States,5.6,6.0,5,0,0,0,0,0
+2022,Sci-Fi,190,United States,7.0,7.0,176,0,1,1,1,0
+2022,Horror,131,United States,6.3,6.0,136,0,1,0,1,0
+2022,Romantic,115,United States,5.5,5.0,13,0,0,0,0,0
+2023,Horror,90,United States,4.8,6.0,3,0,0,0,0,0
+2022,History,126,"United States, Canada",7.0,6.0,22,0,0,0,0,0
+2022,Animation,100,United States,6.9,7.0,36,0,0,0,0,0
+2022,Drama,128,United States,6.1,6.0,20,0,0,1,1,0
+2022,Documentary,98,United States,6.9,6.0,8,0,0,0,0,0
+2022,Thriller,89,United States,5.1,5.0,27,0,1,1,1,1
+2021,Animation,99,Japan,5.9,6.0,6,0,0,0,0,0
+2022,Drama,101,Italy,6.7,7.0,29,3,3,3,2,2
+2022,Drama,151,United States,7.6,8.0,207,1,1,1,0,0
+2022,Romantic,104,United States,5.0,5.0,32,0,0,0,0,0
+2022,Drama,122,United States,5.8,6.0,76,0,1,0,1,0
+2021,Drama,97,France,6.2,6.0,52,0,1,0,0,0
+2022,War,147,"United States, Germany",7.0,7.0,104,0,1,1,1,0
+2022,Thriller,95,France,4.2,4.0,13,0,0,0,0,0
+2022,Biography,90,United States,6.6,7.0,7,0,0,0,0,0
+2022,Animation,97,United States,6.5,7.0,29,0,0,0,0,0
+2022,Comedy,120,United States,6.0,6.0,60,0,1,1,1,0
+2022,Adventure,92,"Australia, United States",2.7,3.0,10,0,0,0,0,0
+2022,Thriller,139,United States,5.8,6.0,155,1,2,1,1,0
+2022,Horror,179,"Canada, United States",6.5,7.0,62,0,0,1,0,0
+2022,Biography,166,United States,6.2,7.0,96,0,0,1,0,1
+2021,Biography,120,Spain,4.7,5.0,6,0,0,0,0,0
+2022,Animation,99,United States,5.7,5.0,25,0,0,0,0,0
+2022,Thriller,135,United States,6.4,6.0,56,0,0,0,0,0
+2023,Sci-Fi,141,"United States, Ireland",7.3,8.0,13,0,0,0,0,0
+2022,Comedy,86,United States,4.2,4.0,6,0,0,0,0,0
+2022,Comedy,90,United States,5.4,5.0,5,0,0,0,0,0
+2022,Drama,91,United States,7.3,7.0,3,0,0,0,0,0
+2022,Documentary,100,"Italy, France",6.4,7.0,9,0,0,0,0,0
+2022,Horror,100,United States,6.1,6.0,69,0,0,0,0,0
+2022,Biography,146,United States,5.5,6.0,26,0,0,0,0,0
+2022,Horror,111,United States,5.2,6.0,33,0,0,0,0,0
+2022,Horror,95,United States,3.9,4.0,23,0,0,0,0,0
+2022,Horror,95,United States,5.1,5.0,12,0,0,0,0,0
+2022,Thriller,125,United States,5.8,7.0,54,0,0,1,1,0
+2022,Romantic,107,United States,4.3,4.0,16,0,0,0,0,0
+2022,Thriller,113,United States,5.6,6.0,30,0,1,1,1,0
+2022,Biography,116,United States,6.5,7.0,41,0,0,0,0,0
+2022,Comedy,104,"Italy, United States",5.4,4.0,7,0,0,0,0,0
+2022,Thriller,90,United States,2.0,1.0,3,0,0,0,0,0
+2022,Drama,119,United States,5.3,7.0,5,0,0,0,0,0
+2022,Horror,107,Germany,4.3,4.0,3,0,0,0,0,0
+2022,Romantic,119,United States,2.5,3.0,4,0,0,0,0,0
+2022,Thriller,92,United States,5.8,6.0,28,0,0,0,0,0
+2022,Drama,104,United States,6.3,6.0,34,0,1,1,1,0
+2021,Horror,79,Italy,4.3,4.0,5,2,2,0,2,0
+2022,Drama,135,United States,5.4,5.0,5,0,0,0,0,0
+2022,Drama,130,United States,6.2,7.0,10,0,0,0,0,0
+2022,Musical,158,United States,7.1,7.0,93,0,0,0,0,0
+2022,Comedy,106,United States,5.3,7.0,10,0,0,0,0,0
+2022,Drama,104,"Great Britain, United States",5.5,6.0,16,0,0,0,0,0
+2022,Comedy,105,United States,4.4,4.0,16,0,0,0,0,0
+2022,Horror,84,Great Britain,4.5,4.0,12,0,0,0,0,0
+2022,Thriller,110,United States,5.5,6.0,8,0,0,0,0,0
+2022,Drama,90,Italy,4.0,4.0,5,0,0,0,0,0
+2022,Musical,97,United States,6.1,6.0,26,0,0,0,0,0
+2021,War,107,Denmark,7.0,7.0,29,0,0,0,0,0
+2023,Biography,180,"United States, Great Britain",7.8,8.0,203,0,1,1,1,0
+2021,Comedy,94,Netherlands,3.2,5.0,4,0,0,0,0,0
+2021,Drama,98,Great Britain,7.7,7.0,4,0,0,0,0,0
+2022,Drama,108,Italy,6.2,6.0,30,0,0,0,0,0
+2022,Thriller,155,Spain,6.3,7.0,60,0,0,0,0,0
+2022,Drama,125,Spain,7.7,7.0,16,0,0,0,0,0
+2022,Documentary,90,Italy,6.2,5.0,20,0,0,0,0,0
+2021,Animation,97,Japan,6.2,6.0,8,0,0,0,0,0
+2021,Comedy,84,Italy,4.0,6.0,4,0,0,0,0,0
+2022,Drama,114,"Ireland, United States, Great Britain",7.3,7.0,201,0,0,0,0,0
+2023,Romantic,104,United States,6.3,6.0,86,3,2,4,1,1
+2023,Sci-Fi,93,United States,5.0,5.0,36,0,0,0,0,0
+2022,Drama,100,Italy,4.2,4.0,6,0,0,0,0,0
+2022,Animation,91,"Spain, United States",6.0,6.0,16,0,0,0,0,0
+2022,Drama,100,United States,6.3,6.0,17,0,0,0,0,0
+2022,War,126,United States,6.0,6.0,25,0,0,0,0,0
+2022,History,120,"United States, Great Britain",6.3,7.0,21,0,0,0,0,0
+2022,Thriller,90,United States,5.0,5.0,4,0,0,0,0,0
+2022,Romantic,90,Canada,8.0,8.0,3,0,0,0,0,0
+2022,Adventure,88,United States,4.1,4.0,34,0,0,0,0,0
+2022,Comedy,103,Italy,7.1,7.0,148,0,0,0,0,0
+2023,Adventure,89,United States,5.6,5.0,15,0,0,0,0,0
+2022,Comedy,110,Italy,6.7,7.0,81,0,0,0,0,0
+2022,Thriller,96,United States,4.0,4.0,3,0,0,0,0,0
+2021,Horror,88,United States,5.5,5.0,18,0,0,0,0,0
+2021,Horror,80,Canada,4.0,4.0,5,0,0,0,0,0
+2022,Thriller,114,United States,5.3,5.0,45,0,0,0,0,0
+2022,Thriller,110,Italy,6.1,6.0,20,0,0,0,0,0
+2022,Thriller,125,South Korea,6.0,6.0,11,0,0,0,0,0
+2022,Thriller,100,South Africa,6.5,7.0,12,0,0,0,0,0
+2020,Sci-Fi,118,Russia,5.4,5.0,5,0,0,0,0,0
+2022,Documentary,75,Italy,6.6,5.0,6,0,0,0,0,0
+2022,Documentary,90,Italy,5.0,5.0,5,0,0,0,0,0
+2022,Action,119,France,5.4,5.0,10,0,0,0,0,0
+2023,Biography,83,Italy,6.5,7.0,4,0,0,0,0,0
+2022,Drama,110,Spain,5.4,5.0,12,0,0,0,0,0
+2023,Drama,121,"Italy, Belgium",7.8,8.0,102,1,3,4,3,0
+2021,Romantic,85,Canada,7.7,8.0,3,0,0,0,0,0
+2021,Drama,90,Italy,2.7,3.0,3,0,0,0,0,0
+2022,Drama,105,Italy,6.6,6.0,14,0,0,0,0,0
+2023,Action,113,"United States, France",6.9,7.0,9,0,0,0,0,0
+2022,Romantic,119,"Great Britain, United States",6.5,7.0,45,0,0,0,0,0
+2023,Drama,100,"Italy, Switzerland, France",5.8,6.0,38,0,0,0,0,0
+2023,Thriller,169,United States,6.3,6.0,95,0,1,0,1,0
+2023,Fantasy,120,United States,5.1,6.0,35,0,0,0,0,0
+2023,Sci-Fi,220,United States,5.0,5.0,14,0,0,0,0,0
+2023,Adventure,125,United States,4.9,5.0,54,2,2,1,1,0
+2022,Adventure,130,United States,5.0,5.0,27,1,0,0,0,0
+2023,Fantasy,134,United States,6.5,7.0,45,2,2,1,1,0
+2021,Comedy,88,Italy,2.7,3.0,6,0,0,0,0,0
+2023,Horror,96,United States,6.0,6.0,47,0,1,1,1,0
+2023,Fantasy,88,United States,5.7,6.0,17,0,0,0,0,0
+2022,Documentary,88,Italy,7.2,7.0,19,0,0,0,0,0
+2021,Documentary,77,"Italy, France",6.5,7.0,3,0,0,0,0,0
+2022,Musical,54,France,4.0,4.0,5,0,0,0,0,0
+2022,Animation,115,United States,6.6,7.0,35,1,2,1,1,0
+2022,Romantic,97,Turkey,5.8,6.0,4,3,3,3,3,3
+2022,Thriller,137,Spain,5.0,5.0,3,0,0,0,0,0
+2022,Horror,95,"Italy, France",3.4,3.0,17,0,1,0,0,1
+2022,Drama,93,Italy,4.3,4.0,5,0,0,0,0,0
+2020,Drama,105,Italy,6.5,7.0,4,0,0,0,0,0
+2022,Comedy,89,United States,6.5,6.0,18,0,0,0,0,0
+2022,Romantic,106,Poland,2.0,2.0,5,0,0,0,0,0
+2022,Romantic,97,United States,4.3,4.0,3,0,0,0,0,0
+2022,Documentary,83,Italy,7.7,8.0,3,0,0,0,0,0
+2021,Romantic,128,China,4.0,4.0,3,0,0,0,0,0
+2022,Comedy,118,China,7.0,6.0,3,0,0,0,0,0
+2022,Comedy,109,China,7.5,8.0,4,0,0,0,0,0
+2021,Romantic,93,Hong Kong,3.5,5.0,4,0,0,0,0,0
+2022,Thriller,128,"Japan, India",6.0,7.0,3,0,0,0,0,0
+2022,Drama,126,Japan,6.3,7.0,3,0,0,0,0,0
+2022,Comedy,96,Japan,5.0,5.0,7,0,0,0,0,0
+2022,Comedy,110,Spain,5.9,5.0,5,0,0,0,0,0
+2022,Comedy,113,Argentina,5.3,5.0,4,0,0,0,0,0
+2022,Comedy,90,Italy,4.9,5.0,24,0,0,0,0,0
+2022,Drama,126,"France, Italy",5.7,6.0,27,0,0,0,0,0
+2022,Drama,129,"South Korea, Japan",7.0,7.0,67,0,0,0,0,0
+2022,Drama,125,United States,6.8,6.0,6,0,0,0,0,0
+2022,Thriller,126,"Sweden, France, Finland, Denmark",6.8,7.0,23,0,0,0,0,0
+2022,Biography,143,"Russia, France, Sweden",7.4,7.0,5,0,0,0,0,0
+2022,Drama,105,"Belgium, Netherlands, France",6.8,7.0,73,0,0,0,0,0
+2021,Drama,102,"Germany, Romania",6.3,6.0,3,0,0,0,0,0
+2021,Comedy,95,"Norway, Sweden",6.2,6.0,14,0,0,0,0,0
+2021,Drama,117,"Belgium, Germany, France, Qatar",6.8,7.0,39,0,0,0,0,0
+2022,Drama,112,"Japan, France, Philippines",7.1,8.0,12,0,0,0,0,0
+2022,Thriller,142,France,5.6,6.0,24,0,0,0,0,0
+2021,Drama,138,"Denmark, Iceland, France, Sweden",6.7,7.0,34,0,0,0,0,0
+2022,Thriller,105,France,6.6,6.0,21,0,0,0,0,0
+2022,Drama,110,France,5.6,5.0,8,0,0,0,0,0
+2022,Drama,126,Pakistan,6.3,7.0,4,0,0,0,0,0
+2021,Thriller,117,Australia,6.9,7.0,8,0,0,0,0,0
+2022,Drama,125,"Hungary, Romania",7.6,8.0,36,0,0,0,0,0
+2022,Comedy,80,France,6.7,7.0,5,0,0,0,0,0
+2022,Drama,131,South Korea,5.0,5.0,6,0,0,0,0,0
+2022,Musical,85,South Korea,2.9,5.0,6,0,0,0,0,0
+2022,Drama,103,France,6.0,6.0,18,0,0,0,0,0
+2021,Horror,104,Philippines,6.3,7.0,4,0,0,0,0,0
+2021,Action,94,South Korea,5.8,6.0,6,0,0,0,0,0
+2022,Drama,123,South Korea,6.7,7.0,6,0,0,0,0,0
+2021,Drama,117,South Korea,6.3,6.0,7,0,0,0,0,0
+2021,Romantic,113,South Korea,7.5,8.0,3,0,0,0,0,0
+2021,Action,119,South Korea,6.8,7.0,3,0,0,0,0,0
+2022,Horror,110,China,4.4,6.0,10,0,0,0,0,0
+2022,Horror,93,Thailand,4.5,6.0,5,0,0,0,0,0
+2022,Comedy,101,France,4.8,6.0,5,0,0,0,0,0
+2022,Romantic,112,France,6.9,7.0,35,0,0,0,0,0
+2021,Drama,92,"Tunisia, Switzerland, France, Qatar",7.5,8.0,8,0,0,0,0,0
+2022,Horror,106,United States,5.8,6.0,123,0,1,1,1,0
+2022,Drama,103,France,5.7,5.0,9,0,0,0,0,0
+2022,Drama,100,Canada,6.6,7.0,7,0,0,0,0,0
+2022,Musical,63,Portugal,6.9,7.0,5,0,0,0,0,0
+2022,Drama,100,"Ireland, Great Britain, United States",6.3,6.0,11,0,0,0,0,0
+2022,Drama,106,Ukraine,6.6,6.0,6,0,0,0,0,0
+2022,Drama,165,Iran,7.8,8.0,11,0,0,0,0,0
+2022,Drama,126,Poland,6.9,7.0,48,0,0,1,0,0
+2022,Drama,96,"Great Britain, United States",7.3,7.0,65,0,1,1,0,0
+2022,Drama,83,"France, Belgium",7.2,7.0,7,0,0,0,0,0
+2022,Drama,98,France,6.5,7.0,3,0,0,0,0,0
+2022,Comedy,95,France,4.8,5.0,13,0,0,0,0,0
+2022,Drama,116,France,5.5,6.0,4,0,0,0,0,0
+2022,Drama,165,"Spain, France, Germany, Portugal",7.4,7.0,17,0,0,0,0,0
+2022,Thriller,114,"France, Belgium",6.9,7.0,47,0,1,1,1,1
+2022,Drama,123,"France, Germany, Luxembourg, Norway",4.8,5.0,4,0,0,0,0,0
+2022,Drama,108,"Germany, France, Cyprus, Palestine, Qatar",8.7,9.0,3,0,0,0,0,0
+2022,Drama,118,"France, Morocco, Belgium",7.4,8.0,17,1,1,1,1,1
+2022,Drama,90,"France, Germany, United States, Tunisia",6.3,8.0,4,0,0,0,0,0
+2022,Comedy,99,France,6.6,7.0,32,2,1,1,1,1
+2022,Documentary,83,"Chile, France",6.8,8.0,4,0,0,0,0,0
+2022,Biography,300,Italy,7.7,8.0,115,0,2,3,2,0
+2022,War,109,"France, Senegal",5.0,5.0,4,0,0,0,0,0
+2022,Drama,93,"Italy, France",4.7,4.0,20,0,0,0,0,0
+2023,Adventure,100,"Canada, United States",5.3,5.0,144,1,2,1,1,1
+2023,Horror,102,United States,5.2,5.0,67,0,1,1,1,0
+2022,Horror,89,United States,4.5,5.0,15,0,0,0,0,0
+2021,Drama,108,Great Britain,5.7,6.0,7,0,0,0,0,0
+2022,Thriller,137,"Spain, France",7.3,7.0,68,0,1,2,2,0
+2021,Thriller,121,South Korea,6.6,7.0,5,0,0,0,0,0
+2022,Romantic,98,Australia,3.7,4.0,3,0,0,0,0,0
+2022,Drama,110,Switzerland,4.5,6.0,5,0,0,0,0,0
+2022,Romantic,123,United States,6.0,6.0,6,0,0,0,0,0
+2022,Romantic,92,Netherlands,4.3,4.0,3,0,0,0,0,0
+2022,Action,106,United States,5.1,5.0,45,0,0,0,0,0
+2022,Horror,93,United States,3.6,4.0,5,0,0,0,0,0
+2022,Comedy,118,United States,4.5,5.0,11,0,0,0,0,0
+2022,Comedy,90,Italy,4.3,5.0,18,0,0,0,0,0
+2022,Action,90,Italy,5.1,5.0,47,0,0,0,0,0
+2022,Sperimental,140,United States,6.6,7.0,24,0,0,0,0,0
+2020,Comedy,88,Italy,8.0,8.0,3,0,0,0,0,0
+2022,Comedy,107,United States,5.9,6.0,19,0,0,0,0,0
+2020,Thriller,87,United States,6.0,6.0,4,0,0,0,0,0
+2022,Thriller,93,United States,4.9,5.0,30,0,0,0,0,0
+2022,Thriller,97,United States,3.8,5.0,13,0,0,0,0,0
+2021,Horror,90,Austria,6.5,7.0,3,0,0,0,0,0
+2022,Adventure,161,United States,6.0,6.0,60,0,0,0,0,0
+2023,Adventure,154,United States,6.3,6.0,102,0,1,0,0,0
+2022,Romantic,109,France,3.2,2.0,4,0,0,0,0,0
+2022,Musical,116,United States,5.3,5.0,9,0,0,0,0,0
+2022,Romantic,90,Denmark,5.3,5.0,7,0,0,0,0,0
+2022,War,138,United States,5.5,6.0,15,0,0,0,0,0
+2023,Romantic,95,"Switzerland, France",6.8,7.0,5,0,0,0,0,0
+2023,Drama,113,"Great Britain, France, Belgium",7.2,6.0,4,0,0,0,0,0
+2022,Drama,122,France,6.6,6.0,38,0,0,0,0,0
+2022,Drama,103,France,6.4,7.0,7,0,0,0,0,0
+2022,Romantic,90,Canada,3.6,4.0,5,0,0,0,0,0
+2021,Thriller,90,United States,4.5,5.0,4,0,0,0,0,0
+2022,Romantic,110,United States,3.8,4.0,3,0,0,0,0,0
+2022,History,134,United States,5.6,6.0,63,0,0,0,0,0
+2023,Biography,129,United States,6.4,7.0,6,0,0,0,0,0
+2022,Drama,116,United States,5.5,6.0,32,0,0,0,0,0
+2022,Thriller,124,Italy,7.0,7.0,144,0,1,1,1,0
+2022,Comedy,107,United States,6.0,6.0,3,0,0,0,0,0
+2022,Documentary,91,Germany,4.7,5.0,3,0,0,0,0,0
+2019,Adventure,88,United States,3.0,3.0,3,0,0,0,0,0
+2021,Thriller,85,United States,4.7,5.0,6,0,0,0,0,0
+2022,Documentary,75,Italy,6.3,7.0,13,0,0,0,0,0
+2022,Drama,97,United States,3.6,4.0,5,0,0,0,0,0
+2022,Adventure,89,Spain,5.1,5.0,9,0,0,0,0,0
+2022,Sci-Fi,114,Norway,5.9,5.0,8,0,0,0,0,0
+2022,Romantic,82,United States,4.3,4.0,3,0,0,0,0,0
+2022,Stand-up Comedy,64,"United States, Great Britain",6.9,7.0,11,0,0,0,0,0
+2021,Adventure,114,China,5.1,5.0,16,0,0,0,0,0
+2022,Action,112,Turkey,4.5,5.0,4,0,0,0,0,0
+2021,History,119,"Croatia, United States",4.3,5.0,6,0,0,0,0,0
+2022,Horror,93,"Peru, Mexico",6.0,6.0,4,0,0,0,0,0
+2022,Documentary,108,United States,7.5,8.0,3,0,0,0,0,0
+2022,Horror,97,Austria,6.1,5.0,11,0,0,0,0,0
+2022,Thriller,98,United States,4.6,5.0,18,0,0,0,0,0
+2022,Horror,91,United States,6.3,5.0,5,0,0,0,0,0
+2022,Documentary,85,Italy,7.6,8.0,8,0,0,0,0,0
+2022,Thriller,87,Great Britain,4.3,5.0,12,0,0,0,0,0
+2020,Thriller,88,France,3.2,3.0,5,0,0,0,0,0
+2022,Documentary,118,Italy,7.2,7.0,26,0,0,0,0,0
+2022,Comedy,104,Italy,5.2,5.0,20,0,0,0,0,0
+2022,Horror,115,United States,5.9,6.0,57,0,1,0,1,0
+2022,Horror,102,United States,6.1,6.0,54,0,1,0,1,0
+2023,Drama,125,Italy,7.8,8.0,97,1,2,3,3,1
+2022,Documentary,93,"Canada, United States",6.0,7.0,6,0,0,0,0,0
+2022,Romantic,90,Italy,4.4,4.0,8,0,0,0,0,0
+2022,Thriller,88,United States,2.8,3.0,4,0,0,0,0,0
+2022,Drama,94,Italy,6.2,6.0,21,0,0,0,0,0
+2022,Thriller,96,United States,5.2,5.0,10,0,1,1,1,1
+2022,Thriller,123,France,6.4,6.0,18,0,0,0,0,0
+2022,Documentary,97,Italy,7.0,7.0,5,0,0,0,0,0
+2022,Animation,80,"France, Luxembourg",5.9,6.0,7,0,1,1,1,0
+2022,Animation,115,Japan,5.3,5.0,6,2,2,1,1,1
+2022,Animation,90,Spain,6.5,7.0,6,0,0,0,0,0
+2022,Horror,104,United States,2.9,5.0,10,0,0,0,0,0
+2022,Thriller,111,"Italy, France",5.2,5.0,71,2,3,2,3,1
+2023,Comedy,105,Italy,7.8,8.0,4,0,0,0,0,0
+2022,Fantasy,87,Spain,3.8,4.0,4,0,0,0,0,0
+2022,Comedy,93,France,7.0,7.0,4,0,0,0,0,0
+2022,Comedy,103,Italy,5.6,6.0,89,1,0,0,0,0
+2022,Thriller,101,United States,6.3,7.0,32,3,3,2,2,0
+2022,Drama,84,Italy,6.5,6.0,10,0,0,0,0,0
+2023,Comedy,104,Italy,6.6,7.0,161,2,2,3,1,0
+2023,Comedy,90,Italy,3.4,4.0,22,1,1,0,0,0
+2022,Biography,106,"Italy, Belgium",5.2,4.0,23,0,0,0,0,0
+2022,Comedy,115,United States,6.3,6.0,29,1,1,1,1,1
+2022,Sci-Fi,104,United States,4.6,5.0,10,1,1,1,1,1
+2022,Thriller,115,"Germany, United States",5.5,5.0,15,0,0,0,0,0
+2022,Thriller,99,United States,4.8,5.0,9,0,0,0,0,0
+2022,Animation,120,Japan,5.7,6.0,6,0,0,0,0,0
+2022,Thriller,103,United States,5.1,5.0,31,0,0,0,0,0
+2022,Thriller,107,"Great Britain, United States",5.4,6.0,30,0,0,0,0,0
+2022,Biography,104,"Italy, Germany",5.0,4.0,5,0,0,0,0,0
+2022,Thriller,116,Great Britain,6.9,7.0,10,0,0,0,0,0
+2022,Drama,101,Great Britain,6.9,7.0,6,0,0,0,0,0
+2022,Sperimental,78,"Russia, Belgium",7.4,7.0,29,0,0,0,0,0
+2022,Drama,102,"France, Costa Rica, Belgium",6.7,7.0,5,0,0,0,0,0
+2022,Animation,70,"France, Italy, Switzerland",7.6,8.0,6,0,0,0,0,0
+2022,Horror,66,"France, Italy, Brazil",7.5,7.0,6,0,0,0,0,0
+2022,Horror,93,United States,5.9,5.0,12,0,0,0,0,0
+2022,Drama,79,"Ireland, Great Britain",5.7,6.0,17,0,0,0,0,0
+2022,Horror,97,United States,5.5,6.0,4,0,0,0,0,0
+2022,Comedy,97,"Italy, France",6.0,6.0,30,0,0,0,0,0
+2020,Horror,87,United States,4.4,4.0,5,0,0,0,0,0
+2022,Drama,123,"United States, France, Great Britain",5.7,6.0,34,0,0,0,0,0
+2022,Documentary,196,Italy,7.1,7.0,8,0,0,0,0,0
+2022,Drama,83,Italy,5.9,6.0,27,0,0,0,0,0
+2022,Drama,123,"Japan, France",7.3,7.0,26,0,0,0,0,0
+2022,Comedy,117,United States,7.1,7.0,139,0,0,1,0,0
+2022,Drama,85,France,5.3,5.0,5,0,0,0,0,0
+2022,Thriller,107,United States,7.7,8.0,23,0,0,0,0,0
+2022,Drama,106,Iran,7.3,7.0,50,0,0,0,0,0
+2022,Drama,140,"Argentina, United States",7.3,7.0,77,0,0,0,0,0
+2022,Drama,126,Iran,5.6,6.0,6,0,0,0,0,0
+2022,Documentary,113,United States,7.2,8.0,24,0,0,0,0,0
+2022,Drama,63,"France, United States",7.3,7.0,5,0,0,0,0,0
+2022,Drama,187,Philippines,7.3,6.0,3,0,0,0,0,0
+2022,Western,124,"Canada, United States",6.3,6.0,49,0,0,0,0,0
+2022,Horror,82,"Canada, United States",7.3,7.0,49,0,0,0,0,0
+2022,Drama,110,Italy,6.1,6.0,14,0,0,0,0,0
+2023,Thriller,123,France,7.2,7.0,14,0,0,0,0,0
+2021,Romantic,91,Australia,4.0,4.0,5,0,0,0,0,0
+2023,Drama,101,Lebanon,6.8,7.0,3,0,0,0,0,0
+2022,Drama,70,Italy,8.5,9.0,3,0,0,0,0,0
+2022,Drama,93,Great Britain,5.3,6.0,3,0,0,0,0,0
+2022,Documentary,61,Iran,6.8,8.0,3,0,0,0,0,0
+2022,Documentary,106,"Italy, Burkina Faso",7.0,7.0,3,0,0,0,0,0
+2022,Documentary,80,Italy,6.5,7.0,4,0,0,0,0,0
+2022,Documentary,101,"Italy, Belgium",7.5,8.0,3,0,0,0,0,0
+2022,Thriller,89,"Canada, United States",5.1,5.0,8,0,0,0,0,0
+2022,Drama,81,"Estonia, Kyrgyzstan, Latvia",6.4,7.0,10,0,0,0,0,0
+2022,Documentary,106,"Ukraine, Netherlands",7.3,8.0,3,0,0,0,0,0
+2022,Documentary,119,United States,6.5,6.0,3,0,0,0,0,0
+2022,Drama,91,"Slovakia, Czech Republic, Germany",7.3,8.0,5,0,0,0,0,0
+2022,Drama,105,Spain,6.8,7.0,11,0,0,0,0,0
+2022,Drama,240,"Argentina, Germany",6.8,5.0,3,0,0,0,0,0
+2022,Documentary,115,Austria,7.1,7.0,10,0,0,0,0,0
+2022,Thriller,121,Japan,7.3,8.0,3,0,0,0,0,0
+2022,Drama,116,Indonesia,5.5,6.0,3,0,0,0,0,0
+2022,Thriller,137,South Korea,6.5,6.0,3,0,0,0,0,0
+2022,Drama,100,"Macedonia, Denmark, Belgium, Slovenia, Croatia, Bosnia and Herzegovina",6.7,6.0,13,0,0,0,0,0
+2022,Sci-Fi,110,Austria,5.1,4.0,10,0,0,0,0,0
+2022,War,100,"Syria, Great Britain, France",6.9,6.0,13,0,0,0,0,0
+2022,Drama,90,Kazakhstan,6.7,7.0,3,0,0,0,0,0
+2022,Documentary,120,Italy,7.1,7.0,24,0,0,0,0,0
+2021,Comedy,60,"United States, Great Britain",6.8,7.0,3,0,0,0,0,0
+2022,Drama,92,United States,6.3,7.0,35,0,0,0,0,0
+2022,Drama,110,"Argentina, Italy, France, Spain, Mexico",4.8,5.0,4,0,0,0,0,0
+2022,Comedy,85,United States,4.7,5.0,3,0,0,0,0,0
+2022,Biography,134,"Great Britain, United States",5.8,6.0,27,0,0,0,0,0
+2022,Animation,105,United States,7.0,6.0,24,0,0,0,0,0
+2022,Biography,107,United States,4.8,5.0,5,0,0,0,0,0
+2021,Romantic,110,Russia,3.8,4.0,4,0,0,0,0,0
+2023,Adventure,149,United States,6.9,7.0,94,1,1,1,1,0
+2022,Thriller,132,South Korea,4.0,4.0,6,0,0,0,0,0
+2022,Drama,90,Nicaragua,6.8,7.0,4,0,0,0,0,0
+2022,Sci-Fi,112,"Lithuania, France, Belgium",6.9,7.0,6,0,0,0,0,0
+2022,Drama,122,France,7.3,8.0,14,0,0,0,0,0
+2023,Thriller,103,United States,2.7,4.0,10,0,0,0,0,0
+2022,Drama,104,France,5.5,6.0,4,0,0,0,0,0
+2022,Thriller,122,South Korea,5.9,5.0,9,0,0,0,0,0
+2022,Horror,83,United States,7.3,6.0,4,0,0,0,0,0
+2023,Drama,116,France,4.8,6.0,24,0,0,0,0,0
+2022,War,91,Finland,6.0,6.0,22,0,0,0,0,0
+2022,Horror,99,United States,5.2,5.0,5,0,0,0,0,0
+2022,Horror,100,"United States, Spain",5.5,5.0,8,0,0,0,0,0
+2022,Biography,107,Great Britain,4.3,4.0,6,0,0,0,0,0
+2022,Romantic,110,United States,4.1,4.0,7,0,0,0,0,0
+2022,Comedy,118,United States,5.4,5.0,16,0,0,0,0,0
+2022,Action,187,India,6.4,6.0,23,0,1,1,1,0
+2022,Thriller,126,Canada,5.1,6.0,11,0,0,0,0,0
+2022,Drama,97,United States,5.7,6.0,3,0,0,0,0,0
+2022,Drama,115,Spain,7.4,7.0,10,0,0,0,0,0
+2022,Comedy,100,United States,6.0,6.0,4,0,0,0,0,0
+2019,Fantasy,90,Ukraine,4.7,4.0,4,1,0,0,0,0
+2022,Action,107,United States,5.4,6.0,26,0,1,1,1,0
+2021,Horror,77,Russia,5.1,5.0,11,0,3,1,3,0
+2022,Horror,102,United States,3.8,5.0,6,0,2,1,2,0
+2021,Horror,94,United States,4.3,5.0,10,0,0,0,0,0
+2022,Horror,89,United States,3.0,1.0,3,0,0,0,0,0
+2022,Thriller,110,United States,5.2,5.0,26,0,0,0,0,0
+2019,Thriller,90,United States,5.4,5.0,5,0,0,0,0,0
+2021,Thriller,87,United States,6.5,7.0,4,0,0,0,0,0
+2022,Thriller,110,Great Britain,5.1,5.0,29,0,0,0,0,0
+2022,Horror,104,United States,6.1,6.0,47,0,0,0,0,0
+2022,Adventure,89,United States,4.8,5.0,10,0,0,0,0,0
+2022,Horror,91,United States,5.2,5.0,19,0,0,0,0,0
+2022,Horror,96,United States,6.2,4.0,10,0,0,0,0,0
+2022,Thriller,94,France,6.0,6.0,3,0,0,0,0,0
+2023,Horror,128,United States,5.6,6.0,81,0,1,1,1,0
+2022,Fantasy,82,Norway,4.9,5.0,26,0,1,0,0,0
+2022,Adventure,117,United States,6.3,6.0,15,0,0,0,0,0
+2022,Romantic,99,United States,4.5,5.0,8,0,1,1,1,0
+2022,Animation,96,Great Britain,6.0,6.0,4,0,0,0,0,0
+2023,Animation,93,United States,6.0,6.0,57,2,1,1,1,0
+2022,Horror,93,Australia,3.9,4.0,7,0,2,1,3,0
+2022,Documentary,96,Italy,6.4,7.0,9,0,0,0,0,0
+2022,Biography,100,Italy,6.6,7.0,9,0,0,0,0,0
+2022,Drama,116,Italy,6.3,6.0,33,0,0,0,0,0
+2021,Thriller,91,France,5.0,5.0,3,0,0,0,0,0
+2023,Horror,122,United States,6.0,6.0,49,0,0,0,0,0
+2023,Sci-Fi,116,"United States, China",4.6,5.0,26,0,0,0,0,0
+2022,Thriller,99,United States,5.1,5.0,11,0,0,0,0,0
+2020,Comedy,89,Germany,1.3,1.0,3,0,0,0,0,0
+2022,Romantic,88,Italy,5.3,5.0,6,0,0,0,0,0
+2022,Thriller,108,"Spain, Argentina, Germany",5.0,5.0,7,0,0,0,0,0
+2022,Horror,94,United States,5.9,5.0,15,0,0,0,0,0
+2022,War,108,Norway,6.2,6.0,17,0,0,0,0,0
+2021,Drama,119,United States,4.5,5.0,7,0,0,0,0,0
+2023,Horror,110,United States,6.4,7.0,100,0,1,1,1,0
+2023,Action,92,United States,3.6,4.0,15,0,0,0,0,0
+2022,Sperimental,84,"Italy, Spain",4.8,5.0,9,0,0,0,0,0
+2022,Thriller,100,Italy,4.7,4.0,11,1,1,1,1,0
+2022,Sperimental,96,Italy,5.3,5.0,5,0,0,0,0,0
+2022,Documentary,85,Italy,7.0,8.0,3,0,0,0,0,0
+2022,Biography,140,"Germany, Italy, Netherlands",6.0,7.0,11,1,1,1,1,1
+2022,Comedy,130,Italy,4.7,4.0,24,0,0,1,0,0
+2022,Documentary,80,Italy,7.3,7.0,4,0,0,0,0,0
+2022,Documentary,90,Italy,7.6,8.0,5,0,0,0,0,0
+2022,Documentary,102,Italy,4.8,5.0,5,0,0,0,0,0
+2021,Documentary,75,Poland,7.1,7.0,8,0,0,0,0,0
+2022,Documentary,90,Italy,6.7,7.0,3,0,0,0,0,0
+2022,Documentary,82,Italy,6.5,7.0,4,0,0,0,0,0
+2023,Comedy,83,Italy,6.8,7.0,9,2,2,3,2,1
+2023,Thriller,127,Italy,5.9,6.0,7,0,0,0,0,0
+2022,Thriller,100,United States,3.5,4.0,7,0,0,0,0,0
+2022,Horror,88,United States,4.7,4.0,9,2,3,0,2,1
+2022,Horror,95,"Italy, Belgium",5.3,5.0,26,0,0,0,0,0
+2020,Thriller,92,France,4.0,4.0,3,0,0,0,0,0
+2019,Documentary,109,Italy,5.3,5.0,3,0,0,0,0,0
+2023,Animation,92,"United States, Japan",5.8,6.0,37,0,0,0,0,0
+2022,Thriller,96,"Ireland, Philippines",5.7,6.0,23,0,0,0,0,0
+2021,Fantasy,87,Norway,6.5,7.0,6,0,0,0,0,0
+2022,Thriller,96,"France, Belgium",5.8,6.0,6,0,0,0,0,0
+2023,Drama,90,Italy,6.5,7.0,4,0,0,0,0,0
+2023,Biography,130,United States,7.4,7.0,13,0,0,0,0,0
+2022,Documentary,86,United States,7.3,7.0,3,0,0,0,0,0
+2022,Animation,90,"Russia, Hungary",5.3,8.0,3,0,0,0,0,0
+2022,Comedy,100,Italy,4.5,5.0,16,0,0,0,0,0
+2022,Comedy,100,United States,4.5,5.0,4,0,0,0,0,0
+2023,Drama,113,Italy,4.3,6.0,13,0,0,0,0,0
+2023,Drama,113,Italy,4.9,5.0,7,0,0,0,0,0
+2022,Drama,81,Italy,5.5,6.0,4,0,0,0,0,0
+2022,Thriller,90,Italy,4.8,5.0,31,0,0,0,0,0
+2022,Comedy,126,"Sweden, United States",6.3,7.0,80,2,2,3,1,1
+2022,Thriller,96,United States,4.7,5.0,12,0,0,0,0,0
+2022,Horror,90,Great Britain,3.0,4.0,7,1,0,0,0,0
+2022,Comedy,80,Italy,4.3,3.0,3,0,0,0,0,0
+2023,Comedy,112,United States,5.1,6.0,13,0,0,0,0,0
+2023,Thriller,107,"Great Britain, United States",5.8,6.0,42,1,1,1,1,0
+2022,Romantic,89,United States,4.7,5.0,3,0,0,0,0,0
+2022,Action,90,United States,4.0,4.0,5,0,0,0,0,0
+2021,Horror,97,Argentina,2.3,3.0,5,0,0,0,0,0
+2022,Horror,101,Germany,4.3,6.0,8,0,0,0,0,0
+2023,Drama,111,Italy,6.1,6.0,8,0,0,0,0,0
+2023,Drama,95,France,6.3,6.0,3,0,0,0,0,0
+2021,War,110,United States,4.8,6.0,6,0,0,0,0,0
+2022,Horror,85,United States,5.6,4.0,10,0,2,2,3,0
+2022,Documentary,90,Italy,6.5,6.0,5,0,0,0,0,0
+2022,Thriller,104,Denmark,6.5,7.0,24,0,0,0,0,0
+2019,Fantasy,94,"Ukraine, Belgium, France",4.2,4.0,6,0,0,0,0,0
+2022,Horror,106,Spain,5.1,5.0,10,0,0,0,0,0
+2022,Horror,100,Canada,5.6,5.0,8,0,0,0,0,0
+2022,Thriller,98,France,5.5,6.0,7,0,0,0,0,0
+2022,Fantasy,89,United States,5.6,6.0,12,0,0,0,0,0
+2022,Biography,111,Spain,6.8,7.0,14,0,0,0,0,0
+2022,Drama,90,Chile,3.3,3.0,4,0,0,0,0,0
+2023,Romantic,109,United States,5.1,5.0,8,0,0,0,0,0
+2023,Sci-Fi,128,"United States, Mexico",5.5,6.0,17,0,0,0,0,0
+2022,Documentary,84,"Great Britain, Switzerland, United States, France",7.8,8.0,5,0,0,0,0,0
+2022,Musical,120,Germany,3.3,3.0,3,0,0,0,0,0
+2022,Documentary,71,Italy,8.3,8.0,3,0,0,0,0,0
+2022,Sperimental,78,Italy,6.7,6.0,4,0,0,0,0,0
+2022,Comedy,73,Italy,1.4,2.0,9,0,0,0,0,0
+2022,Comedy,88,"Italy, Ukraine",6.0,8.0,4,0,0,0,0,0
+2022,Drama,105,Italy,6.3,6.0,3,0,0,0,0,0
+2022,Documentary,86,Italy,6.6,6.0,7,0,0,0,0,0
+2022,Documentary,95,Italy,7.2,7.0,12,0,0,0,0,0
+2022,Documentary,105,Italy,6.3,6.0,5,0,0,0,0,0
+2023,Romantic,102,United States,5.8,6.0,4,0,0,0,0,0
+2023,Drama,155,Italy,5.7,6.0,6,0,0,0,0,0
+2023,Drama,110,Italy,4.6,5.0,6,0,0,0,0,0
+2022,Horror,102,Australia,4.3,4.0,10,0,0,0,0,0
+2022,Thriller,85,United States,5.8,5.0,10,0,0,0,0,0
+2022,Action,95,Vietnam,3.3,3.0,3,0,0,0,0,0
+2023,Horror,93,United States,4.9,5.0,18,0,0,0,0,0
+2023,Drama,105,"Great Britain, Germany, Belgium, Switzerland, Greece",4.3,4.0,4,0,0,0,0,0
+2022,Documentary,85,Italy,6.8,7.0,5,0,0,0,0,0
+2022,Thriller,111,"Portugal, Great Britain, United States",4.8,6.0,11,0,0,0,0,0
+2022,Fantasy,109,"United States, Hungary",5.2,6.0,7,0,0,0,0,0
+2022,Comedy,90,Italy,6.4,5.0,17,0,0,0,0,0
+2022,Documentary,106,United States,6.7,7.0,3,0,0,0,0,0
+2022,Documentary,59,"Italy, France",6.0,6.0,3,0,0,0,0,0
+2022,Comedy,83,Italy,3.3,3.0,8,0,0,0,0,0
+2023,Animation,95,France,5.3,6.0,6,0,0,0,0,0
+2023,Thriller,95,United States,5.2,6.0,33,0,0,0,0,0
+2022,Drama,112,China,5.5,6.0,3,0,0,0,0,0
+2022,Comedy,90,Italy,4.7,5.0,38,0,0,0,0,0
+2022,Animation,77,United States,5.8,6.0,5,0,0,0,0,0
+2022,Thriller,114,South Korea,5.3,8.0,3,0,0,0,0,0
+2022,Comedy,100,Sweden,4.3,4.0,3,0,0,0,0,0
+2022,Documentary,85,Italy,6.4,7.0,8,0,0,0,0,0
+2023,Comedy,125,Italy,5.0,5.0,46,0,0,0,0,0
+2023,Biography,90,Italy,4.3,4.0,6,0,0,0,0,0
+2022,Comedy,90,Italy,5.0,5.0,5,0,0,0,0,0
+2022,Comedy,90,Italy,3.6,4.0,7,0,0,0,0,0
+2022,Comedy,90,Italy,5.0,5.0,5,0,0,0,0,0
+2022,Comedy,90,Italy,4.6,5.0,7,0,0,0,0,0
+2023,Thriller,111,United States,4.9,6.0,18,0,0,0,0,0
+2023,Animation,88,Spain,5.5,6.0,4,0,0,0,0,0
+2023,Comedy,88,France,7.1,6.0,8,0,0,0,0,0
+2023,Fantasy,77,United States,6.1,5.0,7,0,0,0,0,0
+2022,Thriller,93,United States,3.4,4.0,6,0,0,0,0,0
+2022,Thriller,105,United States,3.8,4.0,4,0,0,0,0,0
+2022,Thriller,92,United States,5.2,5.0,6,0,0,0,0,0
+2022,Thriller,90,United States,4.0,4.0,4,0,0,0,0,0
+2022,Thriller,102,United States,4.5,5.0,4,0,0,0,0,0
+2022,Thriller,96,United States,5.3,5.0,7,0,0,0,0,0
+2022,Thriller,87,"United States, Great Britain",5.0,5.0,6,0,0,0,0,0
+2022,Horror,88,United States,3.3,3.0,6,0,0,0,0,0
+2022,Thriller,87,Russia,4.3,4.0,3,0,0,0,0,0
+2022,Action,101,Poland,5.0,6.0,3,0,0,0,0,0
+2022,Animation,91,Norway,7.3,7.0,3,0,0,0,0,0
+2023,Horror,95,United States,5.5,6.0,26,0,0,0,0,0
+2023,Drama,112,United States,7.0,7.0,116,0,1,0,0,0
+2022,Action,91,United States,4.0,4.0,4,0,0,0,0,0
+2023,Horror,117,"Canada, Hungary, France",5.6,6.0,32,0,0,0,0,0
+2023,Horror,119,United States,6.5,8.0,6,0,0,0,0,0
+2023,Thriller,106,Australia,5.0,5.0,4,0,0,0,0,0
+2023,Horror,107,"Canada, United States",4.8,5.0,19,0,0,0,0,0
+2023,Thriller,112,United States,4.4,5.0,30,0,0,0,0,0
+2023,Thriller,103,United States,5.0,6.0,27,0,0,0,0,0
+2023,Comedy,123,United States,5.8,6.0,11,0,0,0,0,0
+2023,Drama,99,United States,5.3,5.0,4,0,0,0,0,0
+2023,Drama,91,"France, Germany",6.4,6.0,15,0,0,0,0,0
+2023,Comedy,109,United States,7.6,7.0,7,0,0,0,0,0
+2023,Drama,82,Great Britain,5.7,6.0,3,0,0,0,0,0
+2023,Drama,113,United States,6.3,7.0,17,0,0,0,0,0
+2023,Thriller,116,United States,7.3,7.0,3,0,0,0,0,0
+2023,Horror,100,Australia,3.7,4.0,20,0,0,0,0,0
+2023,Horror,94,Australia,6.1,7.0,44,0,0,0,0,0
+2021,Romantic,84,"United States, Canada",2.0,2.0,3,0,0,0,0,0
+2023,Animation,136,United States,7.4,8.0,59,3,4,3,2,0
+2023,Biography,95,United States,5.1,5.0,6,0,0,0,0,0
+2022,Drama,112,Italy,5.9,5.0,16,0,0,0,0,0
+2022,Comedy,100,Italy,4.3,7.0,3,0,0,0,0,0
+2022,Animation,88,Spain,6.0,7.0,3,0,0,0,0,0
+2021,Comedy,100,Italy,6.1,5.0,11,0,0,0,0,0
+2023,Drama,100,Italy,7.3,7.0,10,0,0,0,0,0
+2022,Drama,103,Hong Kong,6.8,7.0,3,0,0,0,0,0
+2022,Documentary,95,Great Britain,7.7,8.0,3,0,0,0,0,0
+2023,Drama,175,"Italy, Switzerland",5.5,5.0,4,0,0,0,0,0
+2022,Horror,104,United States,5.3,6.0,4,0,0,0,0,0
+2022,Horror,87,"United States, Great Britain",5.5,6.0,10,0,0,0,0,0
+2023,Adventure,98,South Korea,5.3,5.0,18,0,0,0,0,0
+2023,Comedy,104,Italy,5.9,6.0,14,0,0,0,0,0
+2023,Romantic,95,United States,3.9,4.0,6,0,0,0,0,0
+2023,Thriller,112,Great Britain,5.1,6.0,25,0,0,0,0,0
+2023,Horror,104,United States,4.6,5.0,42,0,0,0,0,0
+2023,Thriller,90,United States,5.1,6.0,24,0,0,0,0,0
+2023,Biography,109,"United States, Australia",6.0,6.0,6,0,0,0,0,0
+2022,History,108,Russia,4.8,5.0,6,0,0,0,0,0
+2023,Animation,93,United States,4.9,7.0,5,0,0,0,0,0
+2023,Biography,133,United States,6.9,7.0,9,0,0,0,0,0
+2023,Drama,125,Japan,7.4,8.0,7,0,0,0,0,0
+2023,Comedy,116,Italy,5.7,6.0,15,0,1,1,0,0
+2023,Horror,114,"United States, Great Britain",4.9,5.0,6,0,0,0,0,0
+2023,Thriller,102,France,7.3,7.0,62,2,2,2,1,2
+2023,Comedy,108,Italy,5.8,5.0,35,2,2,1,1,1
+2022,Action,84,United States,3.3,3.0,4,0,0,0,0,0
+2023,Action,141,United States,4.1,4.0,21,0,1,0,0,0
+2023,Biography,110,United States,6.1,7.0,7,0,0,0,0,0
+2023,Drama,140,Italy,5.0,5.0,6,0,0,0,0,0
+2023,Drama,197,"Turkey, France, Germany, Sweden",7.8,8.0,8,0,0,0,0,0
+2023,Drama,102,United States,4.1,5.0,5,0,0,0,0,0
+2023,Adventure,121,Japan,7.0,7.0,3,0,0,0,0,0
+2023,Thriller,134,United States,6.4,6.0,33,0,0,1,1,0
+2023,Thriller,91,United States,4.0,4.0,5,0,0,0,0,0
+2023,Drama,114,United States,7.1,7.0,38,2,3,3,3,0
+2023,Thriller,151,France,7.3,8.0,4,0,0,0,0,0
+2023,Drama,88,Italy,6.2,6.0,4,0,0,1,0,1
+2023,Drama,108,Great Britain,5.8,8.0,4,0,0,0,0,0
+2023,Sci-Fi,91,United States,5.0,5.0,12,0,0,0,0,0
+2023,Documentary,75,Italy,6.7,7.0,3,0,0,0,0,0
+2022,Horror,89,Italy,2.3,2.0,3,0,0,0,0,0
+2023,Comedy,110,Chile,5.9,6.0,28,0,1,1,0,0
+2023,Drama,94,"United States, Ireland",6.6,7.0,5,0,0,0,0,0
+2022,Drama,106,United States,6.8,8.0,4,0,0,0,0,0
+2023,Adventure,135,United States,6.3,7.0,21,0,0,0,0,0
+2022,Thriller,95,Denmark,4.8,5.0,4,0,0,0,0,0
+2022,Thriller,101,United States,4.9,6.0,9,1,2,2,2,1
+2023,Thriller,119,Spain,3.1,4.0,10,0,0,0,0,0
+2023,Biography,100,Italy,5.3,5.0,7,0,0,0,0,0
+2023,Comedy,94,Italy,5.3,5.0,29,0,0,0,0,0
+2022,Thriller,109,Hong Kong,7.8,8.0,4,0,0,0,0,0
+2023,Thriller,137,South Korea,5.9,6.0,22,0,0,0,0,0
+2023,Animation,99,"United States, Australia",6.5,6.0,8,0,0,0,0,0
+2023,Thriller,124,Turkey,5.4,4.0,8,0,0,0,0,0
+2023,Adventure,126,United States,6.2,6.0,16,0,0,0,0,0
+2023,Romantic,85,"Great Britain, United States",5.2,5.0,7,0,0,0,0,0
+2023,Drama,92,"France, Belgium, Poland, Italy",5.8,6.0,18,0,0,0,0,0
+2023,Documentary,136,Italy,4.6,6.0,5,0,0,0,0,0
+2022,Animation,122,Japan,6.8,7.0,19,0,0,0,0,0
+2023,Thriller,106,Argentina,7.1,7.0,7,0,0,0,0,0
+2023,Romantic,106,United States,6.3,6.0,5,0,0,0,0,0
+2023,Drama,130,Thailand,6.4,7.0,14,0,0,0,0,0
+2020,Adventure,103,United States,5.6,6.0,8,0,0,0,0,0
+2023,Horror,98,"United States, Canada",5.2,5.0,17,0,0,0,0,0
+2023,Biography,99,United States,6.6,7.0,5,0,0,0,0,0
+2022,Sci-Fi,93,United States,8.8,9.0,3,0,0,0,0,0
+2023,Documentary,90,Italy,7.0,7.0,3,0,0,0,0,0
+2023,Comedy,115,United States,6.0,6.0,5,0,0,0,0,0
+2023,Action,98,United States,5.3,5.0,4,0,0,0,0,0
+2023,Thriller,96,Spain,5.1,5.0,16,0,0,0,0,0
+2023,Romantic,109,Germany,4.3,4.0,4,0,0,0,0,0
+2023,Documentary,92,Italy,6.7,7.0,3,0,0,0,0,0
+2023,Animation,90,Ukraine,8.0,8.0,3,0,0,0,0,0
+2022,Sci-Fi,90,Great Britain,3.8,4.0,6,0,0,0,0,0
+2022,Thriller,92,United States,5.0,5.0,4,0,0,0,0,0
+2023,Drama,104,Italy,4.9,6.0,22,0,0,0,0,0
+2023,Thriller,84,"Belgium, Netherlands",2.5,3.0,11,0,0,0,0,0
+2023,Thriller,97,United States,4.7,5.0,7,0,0,0,0,0
+2022,History,130,South Korea,4.5,5.0,4,0,0,0,0,0
+2023,Comedy,105,Italy,1.7,2.0,7,0,0,0,0,0
+2023,Thriller,100,Great Britain,5.2,5.0,10,0,0,0,0,0
+2023,Thriller,119,United States,6.1,6.0,5,0,0,0,0,0
+2022,Comedy,105,"France, Japan",6.0,6.0,3,0,0,0,0,0
+2023,Thriller,150,United States,5.6,6.0,14,0,0,0,0,0
+2023,Comedy,89,United States,5.8,6.0,34,3,3,2,2,4
+2022,Horror,101,United States,5.0,5.0,6,0,0,0,0,0
+2022,Sci-Fi,101,"Finland, Germany, Estonia, Norway",3.3,3.0,3,0,0,0,0,0
+2023,Animation,99,United States,6.4,6.0,11,0,0,0,0,0
+2022,Animation,124,Japan,8.0,8.0,6,0,0,0,0,0
+2023,Thriller,107,United States,5.8,6.0,50,0,1,1,1,0
+2022,Drama,90,Mongolia,7.8,8.0,5,0,0,0,0,0
+2023,Comedy,90,Italy,2.8,4.0,12,0,0,0,0,0
+2023,Drama,115,Italy,2.9,3.0,8,0,0,0,0,0
+2023,Fantasy,95,Italy,5.2,4.0,4,0,0,0,0,0
+2022,Thriller,90,United States,3.3,3.0,11,0,0,0,0,0
+2023,Thriller,112,Spain,4.7,5.0,3,0,0,0,0,0
+2023,Animation,91,United States,6.0,5.0,13,0,0,0,0,0
+2023,Thriller,93,United States,4.6,5.0,23,0,0,0,0,0
+2023,Drama,112,Italy,5.3,5.0,3,0,0,0,0,0
+2023,Documentary,94,United States,4.3,7.0,3,0,0,0,0,0
+2023,Thriller,89,"France, United States",4.7,5.0,3,0,0,0,0,0
+2023,Musical,98,Denmark,4.3,5.0,3,0,0,0,0,0
+2023,Drama,108,"Sweden, Italy, Denmark, Finland",5.0,4.0,3,0,0,0,0,0
+2022,Drama,87,United States,8.0,8.0,3,0,0,0,0,0
+2023,Adventure,112,"Japan, Hungary, United States",3.4,4.0,9,1,1,0,0,0
+2023,Romantic,96,Great Britain,7.0,7.0,15,0,1,1,0,0
+2023,Documentary,58,Italy,7.3,7.0,3,0,0,0,0,0
+2023,History,135,United States,5.5,6.0,5,0,0,0,0,0
+2023,Sci-Fi,133,United States,6.2,6.0,33,1,1,2,2,0
+2022,Action,138,Japan,5.3,6.0,3,0,0,0,0,0
+2022,Horror,91,Poland,5.8,6.0,6,0,0,0,0,0
+2022,Biography,119,Poland,6.5,7.0,3,0,0,0,0,0
+2021,Horror,80,Italy,4.5,3.0,3,0,3,2,3,2
+2023,Drama,98,Italy,4.9,6.0,29,1,1,2,1,1
+2023,Comedy,107,Italy,3.6,4.0,8,0,0,0,0,0
+2023,Short Movie,60,Spain,6.5,6.0,16,0,0,0,0,0
+2023,Drama,95,Hong Kong,6.0,7.0,3,0,0,0,0,0
+2023,Romantic,120,Japan,6.5,7.0,3,0,0,0,0,0
+2023,History,168,Japan,6.3,8.0,3,0,0,0,0,0
+2022,Drama,70,Japan,6.5,6.0,3,0,0,0,0,0
+2023,Drama,115,Malaysia,7.8,9.0,7,0,0,0,0,0
+2023,Adventure,90,Malaysia,3.5,4.0,3,0,0,0,0,0
+2022,Drama,123,Mongolia,6.7,7.0,6,0,0,0,0,0
+2023,Horror,93,Philippines,6.8,8.0,4,0,0,0,0,0
+2022,Fantasy,114,South Korea,5.3,7.0,3,0,0,0,0,0
+2023,Comedy,130,China,6.3,7.0,4,0,0,0,0,0
+2023,Thriller,110,"Austria, Great Britain, Germany, France, Denmark",7.0,6.0,3,0,0,0,0,0
+2023,Drama,106,"Great Britain, Poland, United States",8.0,8.0,4,0,0,1,0,0
+2023,Comedy,81,Finland,8.7,8.0,7,0,0,0,0,0
+2023,Romantic,113,United States,6.8,8.0,4,0,0,0,0,0
+2023,Documentary,212,"France, China",6.5,6.0,3,0,0,0,0,0
+2023,Drama,123,"Japan, Germany",8.1,8.0,6,0,0,0,0,0
+2023,Documentary,93,Germany,5.8,6.0,3,0,0,0,0,0
+2023,Drama,98,United States,8.3,10.0,3,0,0,0,0,0
+2023,Drama,77,Iran,7.8,8.0,9,1,1,1,1,0
+2023,Romantic,121,Thailand,5.3,7.0,3,0,0,0,0,0
+2021,Sci-Fi,86,Netherlands,4.3,4.0,8,0,0,0,0,0
+2023,Drama,100,United States,6.7,7.0,7,0,0,0,0,0
+2022,Thriller,96,United States,4.7,5.0,11,0,0,2,2,0
+2023,Thriller,122,France,6.1,6.0,18,0,0,0,0,0
+2023,Action,100,Germany,6.1,7.0,15,0,0,0,0,0
+2023,Sci-Fi,100,Germany,6.0,7.0,26,0,0,0,0,0
+2023,Horror,121,United States,4.1,4.0,17,0,0,0,0,0
+2023,Romantic,98,Norway,3.0,3.0,3,0,0,0,0,0
+2023,Comedy,102,Italy,6.0,6.0,4,0,0,0,0,0
+2023,Documentary,81,Sweden,7.6,7.0,8,0,1,1,1,0
+2023,Horror,91,United States,3.9,4.0,8,0,0,0,0,0
+2023,Documentary,92,United States,5.7,7.0,4,0,0,0,0,0
+2023,Drama,95,Mexico,6.2,6.0,4,0,0,0,0,0
+2022,Documentary,105,Switzerland,3.7,4.0,3,0,0,0,0,0
+2019,Thriller,90,France,5.4,6.0,15,0,0,0,0,0
+2021,Romantic,86,United States,2.5,3.0,4,0,0,0,0,0
+2019,Thriller,85,United States,7.0,7.0,3,0,0,0,0,0
+2023,Adventure,102,"China, United States",6.0,6.0,3,0,0,0,0,0
+2022,Romantic,85,United States,3.2,3.0,5,0,0,0,0,0
+2022,Thriller,89,"Austria, Germany",5.3,5.0,3,0,0,0,0,0
+2023,Comedy,95,France,4.8,5.0,8,0,0,0,0,0
+2023,Drama,100,France,2.7,3.0,3,0,0,0,0,0
+2021,Thriller,84,United States,5.2,5.0,5,0,0,0,0,0
+2022,Horror,90,United States,3.3,4.0,5,0,0,0,0,0
+2021,Action,98,United States,4.5,5.0,4,0,0,0,0,0
+2021,Sci-Fi,109,"Australia, United States",2.3,2.0,3,0,0,0,0,0
+2020,Thriller,79,United States,4.7,5.0,6,0,0,0,0,0
+2020,Horror,87,United States,5.3,5.0,3,0,0,0,0,0
+2023,Comedy,106,France,2.7,3.0,3,0,0,0,0,0
+2023,Drama,104,Italy,5.7,6.0,14,1,1,1,1,0
+2023,Action,113,United States,7.1,7.0,7,0,0,0,0,0
+2023,Drama,113,Italy,5.1,5.0,8,0,0,0,0,0
+2023,Sci-Fi,145,"France, Canada",6.7,7.0,8,0,0,0,0,0
+2023,Horror,110,"United States, Great Britain",5.2,5.0,17,0,0,0,0,0
+2021,Thriller,87,United States,4.7,5.0,6,0,0,0,0,0
+2022,Animation,116,Japan,6.7,7.0,7,0,0,1,1,1
+2023,Drama,126,United States,7.3,7.0,10,0,1,1,1,0
+2023,Drama,147,Poland,6.3,7.0,7,0,0,0,0,0
+2023,Drama,118,Germany,6.8,8.0,6,0,0,0,0,0
+2023,Drama,91,"France, Brazil, Italy",6.5,6.0,3,0,0,0,0,0
+2023,Biography,127,"Denmark, Norway",6.5,7.0,8,0,0,0,0,0
+2023,Drama,115,France,6.4,7.0,8,0,0,0,0,0
+2023,Drama,106,Japan,7.2,7.0,9,0,0,0,0,0
+2023,Drama,102,"Belgium, Netherlands, Luxembourg, France ",4.0,4.0,5,0,0,0,0,0
+2023,Drama,132,"Poland, Sweden",5.8,7.0,4,0,0,0,0,0
+2023,Comedy,77,France,6.4,7.0,7,0,0,0,0,0
+2023,War,108,United States,7.4,7.0,6,0,0,0,0,0
+2023,Drama,80,United States,6.0,7.0,6,0,0,0,0,0
+2023,Drama,109,China,5.4,6.0,5,0,0,0,0,0
+2023,Documentary,97,Italy,7.8,8.0,3,0,0,0,0,0
+2023,Animation,96,Italy,9.0,10.0,4,0,0,0,0,0
+2023,Drama,87,"Nepal, Sri Lanka",7.0,7.0,3,0,0,0,0,0
+2023,Biography,99,United States,6.3,6.0,3,0,0,0,0,0
+2023,Drama,151,"Hungary, Slovakia",7.3,7.0,6,0,0,0,0,0
+2023,Drama,95,Japan,6.4,6.0,5,0,0,0,0,0
+2023,Drama,84,"Turkey, France, Romania, Spain",7.0,7.0,3,0,0,0,0,0
+2021,Horror,85,United States,2.7,3.0,9,0,0,0,0,0
+2023,Drama,92,India,5.3,5.0,4,0,0,0,0,0
+2023,Drama,103,Hungary,5.3,5.0,3,0,0,0,0,0
+2023,Drama,84,Japan,5.5,6.0,3,0,0,0,0,0
+2023,Documentary,119,"Italy, Cuba",6.9,7.0,5,0,0,0,0,0
+2023,Comedy,92,Canada,5.8,6.0,3,0,0,0,0,0
+2023,History,116,"Malaysia, Singapore, China",5.5,6.0,3,0,0,0,0,0
+2020,Thriller,86,United States,5.6,6.0,5,0,0,0,0,0
+2023,Thriller,91,United States,3.7,3.0,7,1,1,1,1,0
+2023,Action,99,France,4.0,4.0,4,0,0,0,0,0
+2020,Thriller,85,Canada,4.2,4.0,6,0,0,0,0,0
+2023,Horror,89,Spain,3.5,4.0,4,0,0,0,0,0
+2023,Thriller,94,Sweden,5.1,5.0,10,0,0,0,0,0
+2023,Documentary,87,United States,6.6,8.0,8,0,0,0,0,0
+2022,Romantic,88,Germany,4.7,5.0,3,0,0,0,0,0
+2021,Horror,85,United States,4.8,5.0,4,0,0,0,0,0
+2023,Horror,92,United States,3.5,4.0,5,0,0,0,0,0
+2023,Romantic,140,Poland,6.9,7.0,8,0,0,0,0,0
+2023,Romantic,88,Australia,4.7,5.0,3,0,0,0,0,0
+2023,Thriller,109,Spain,5.3,5.0,10,0,0,0,0,0
+2023,Western,112,United States,5.0,5.0,8,0,0,0,0,0
+2021,Thriller,87,Canada,5.3,5.0,3,0,0,0,0,0
+2023,Biography,107,Italy,4.5,5.0,4,0,0,0,0,0
+2021,Thriller,87,"Canada, United States",4.0,4.0,3,0,0,0,0,0
+2023,Comedy,90,Italy,2.7,3.0,3,0,0,0,0,0
+2023,Horror,100,Sweden,6.0,6.0,6,0,0,0,0,0
+2023,Thriller,92,South Korea,5.8,6.0,5,0,0,0,0,0
+2023,Thriller,92,Mexico,6.0,6.0,3,0,0,0,0,0
