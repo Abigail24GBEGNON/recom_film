@@ -23,7 +23,7 @@ with open('data_transformed.pkl', 'rb') as f:
     loaded_data = pickle.load(f)
 
 # Chager les données
-data  = pd.read_csv("filmtv_movies.csv")
+data  = pd.read_feather('filmtv.feather')
 
 
 def recommend_film_cosine(client_preferences,pipeline=pipeline, X_transformed=loaded_data, df=data):
